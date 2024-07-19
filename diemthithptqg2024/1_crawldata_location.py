@@ -7,6 +7,9 @@ start = 3015500
 end = 3016000
 output_file = 'HaiPhong' # thay đổi tên file ở đây 
 
+""" có thể thay thế bằng: 
+'HaNoi','TPHCM','DaNang','NamDinh'
+"""
 # crawl dữ liệu để lưu vào file text 
 with open(f'{output_file}.txt', "w", encoding="utf-8") as file:  # Mở file để ghi
     for i in range(start,end,1): 

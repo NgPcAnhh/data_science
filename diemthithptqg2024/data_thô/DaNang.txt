@@ -1,0 +1,999 @@
+
+
+Số báo danh: 04006000 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.80	Ngữ văn 3.75	Ngoại ngữ 3.20	Lịch sử 4.50	Địa lý 2.00	Giáo dục công dân 2.25	
+
+	Số báo danh: 04006001 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 6.80	Vật lý 7.25	Hóa học 4.75	Sinh học 4.25	
+
+	Số báo danh: 04006002 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 6.75	Ngoại ngữ 5.60	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 9.25	
+
+	Số báo danh: 04006003 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 4.40	Lịch sử 5.25	Địa lý 4.50	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006004 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 6.40	Lịch sử 5.75	Địa lý 7.00	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006005 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 4.20	Lịch sử 4.25	Địa lý 4.50	Giáo dục công dân 5.75	
+
+	Số báo danh: 04006006 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 5.75	Ngoại ngữ 2.80	Lịch sử 4.00	Địa lý 6.00	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006007 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 4.50	Ngoại ngữ 3.20	Vật lý 4.00	Hóa học 7.50	Sinh học 5.75	
+
+	Số báo danh: 04006008 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.25	Ngoại ngữ 3.40	Vật lý 4.75	Hóa học 6.75	Sinh học 3.50	
+
+	Số báo danh: 04006009 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 3.60	Vật lý 4.25	Hóa học 7.25	Sinh học 6.00	
+
+	Số báo danh: 04006010 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 6.75	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006011 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.75	Ngoại ngữ 4.80	Vật lý 6.75	Hóa học 8.00	Sinh học 4.00	
+
+	Số báo danh: 04006012 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 4.50	Ngoại ngữ 4.20	Lịch sử 7.00	Địa lý 5.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006013 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 6.80	Vật lý 6.75	Hóa học 4.75	Sinh học 6.25	
+
+	Số báo danh: 04006014 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 4.20	Lịch sử 6.50	Địa lý 7.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006015 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 8.25	Ngoại ngữ 4.60	Lịch sử 5.75	Địa lý 6.00	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006016 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 8.25	Ngoại ngữ 3.80	Lịch sử 9.00	Địa lý 7.25	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006017 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 4.60	Lịch sử 5.00	Địa lý 3.75	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006018 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 5.75	Ngoại ngữ 5.20	Lịch sử 4.75	Địa lý 6.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006019 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 8.40	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006020 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.00	Ngoại ngữ 4.40	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006021 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 7.00	Vật lý 6.50	Hóa học 7.75	Sinh học 4.75	
+
+	Số báo danh: 04006022 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.25	Ngoại ngữ 9.00	Lịch sử 7.25	Địa lý 5.75	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006023 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 6.25	Ngoại ngữ 3.00	Lịch sử 3.75	Địa lý 5.00	Giáo dục công dân 5.50	
+
+	Số báo danh: 04006024 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 3.60	Vật lý 3.75	Hóa học 6.75	Sinh học 5.25	
+
+	Số báo danh: 04006025 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.00	Ngữ văn 7.25	Ngoại ngữ 4.60	Lịch sử 4.00	Địa lý 7.75	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006026 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 6.00	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 9.25	Sinh học 7.00	
+
+	Số báo danh: 04006027 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 6.50	Ngoại ngữ 4.00	Lịch sử 3.50	Địa lý 6.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006028 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 6.50	Ngoại ngữ 5.00	Lịch sử 6.50	Địa lý 7.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006029 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 3.60	Lịch sử 6.50	Địa lý 8.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006030 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 7.75	Sinh học 4.25	
+
+	Số báo danh: 04006031 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.25	Ngoại ngữ 5.40	Lịch sử 8.25	Địa lý 7.50	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006032 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 6.00	Ngoại ngữ 5.20	Lịch sử 5.25	Địa lý 6.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006033 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 5.25	Ngoại ngữ 2.80	Vật lý 4.50	Hóa học 7.50	Sinh học 4.50	
+
+	Số báo danh: 04006034 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 6.60	Vật lý 6.00	Hóa học 5.50	Sinh học 4.75	
+
+	Số báo danh: 04006035 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 4.40	Vật lý 6.75	Hóa học 9.00	Sinh học 3.50	
+
+	Số báo danh: 04006036 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 9.20	Ngữ văn 6.00	Ngoại ngữ 6.00	Vật lý 9.00	Hóa học 9.00	Sinh học 5.75	
+
+	Số báo danh: 04006037 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 5.25	Ngoại ngữ 3.40	Vật lý 7.25	Hóa học 5.75	Sinh học 4.50	
+
+	Số báo danh: 04006038 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 3.80	Lịch sử 4.75	Địa lý 5.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006039 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 7.50	Ngoại ngữ 3.00	Vật lý 4.00	Hóa học 4.00	Sinh học 4.75	
+
+	Số báo danh: 04006040 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 4.00	Vật lý 6.00	Hóa học 5.75	Sinh học 4.75	
+
+	Số báo danh: 04006041 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.00	Ngoại ngữ 2.20	Lịch sử 5.75	Địa lý 6.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006042 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.60	Ngữ văn 5.00	Ngoại ngữ 1.80	Lịch sử 4.50	Địa lý 4.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006043 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 4.20	Vật lý 7.00	Hóa học 7.00	Sinh học 5.00	
+
+	Số báo danh: 04006044 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 6.25	Ngoại ngữ 4.60	Vật lý 5.50	Hóa học 5.75	Sinh học 6.00	
+
+	Số báo danh: 04006045 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 5.00	Vật lý 7.50	Hóa học 9.00	Sinh học 7.00	
+
+	Số báo danh: 04006046 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.00	Ngữ văn 3.75	Ngoại ngữ 3.20	Lịch sử 4.25	Địa lý 7.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006047 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 7.20	Lịch sử 4.00	Địa lý 5.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006048 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 6.25	Ngoại ngữ 4.60	Lịch sử 6.50	Địa lý 6.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006049 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 6.60	Vật lý 7.25	Hóa học 6.25	Sinh học 3.75	
+
+	Số báo danh: 04006050 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 6.40	Lịch sử 5.50	Địa lý 4.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006051 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.40	Ngữ văn 6.75	Ngoại ngữ 4.40	Lịch sử 3.75	Địa lý 4.75	Giáo dục công dân 5.00	
+
+	Số báo danh: 04006052 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 6.20	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006053 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 6.25	Ngoại ngữ 4.00	Lịch sử 3.75	Địa lý 4.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006054 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 7.50	Ngoại ngữ 3.80	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006055 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.25	Ngoại ngữ 7.80	Lịch sử 7.75	Địa lý 7.00	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006056 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 3.40	Vật lý 6.50	Hóa học 7.25	Sinh học 5.00	
+
+	Số báo danh: 04006057 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 8.00	Ngoại ngữ 5.80	Vật lý 3.50	Hóa học 4.00	Sinh học 5.25	
+
+	Số báo danh: 04006058 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.75	Ngoại ngữ 4.60	Vật lý 8.00	Hóa học 7.00	Sinh học 5.75	
+
+	Số báo danh: 04006059 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.20	Ngữ văn 7.25	Ngoại ngữ 4.60	Lịch sử 6.00	Địa lý 7.00	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006060 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 6.40	Vật lý 9.00	Hóa học 8.25	Sinh học 5.25	
+
+	Số báo danh: 04006061 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 5.75	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 7.50	Sinh học 4.50	
+
+	Số báo danh: 04006062 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.60	Ngữ văn 3.75	Ngoại ngữ 4.00	Lịch sử 3.75	Địa lý 3.50	Giáo dục công dân 5.00	
+
+	Số báo danh: 04006063 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 6.20	Vật lý 7.50	Hóa học 8.50	Sinh học 6.50	
+
+	Số báo danh: 04006064 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 8.50	Ngoại ngữ 4.60	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006065 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.75	Ngoại ngữ 4.60	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006066 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.25	Ngoại ngữ 4.00	Vật lý 8.50	Hóa học 8.50	Sinh học 6.25	
+
+	Số báo danh: 04006067 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 6.00	Ngoại ngữ 5.60	Vật lý 5.00	Hóa học 2.75	Sinh học 3.75	
+
+	Số báo danh: 04006068 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 3.60	Lịch sử 5.50	Địa lý 7.00	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006069 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 6.00	Lịch sử 5.50	Địa lý 7.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006070 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 4.00	Vật lý 7.00	Hóa học 8.00	Sinh học 5.25	
+
+	Số báo danh: 04006071 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 8.75	Ngoại ngữ 7.40	Lịch sử 6.25	Địa lý 7.25	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006072 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.50	Ngoại ngữ 4.00	Lịch sử 5.00	Địa lý 5.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006073 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 4.25	Ngoại ngữ 2.80	Vật lý 2.75	Hóa học 4.75	Sinh học 5.50	
+
+	Số báo danh: 04006074 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 4.20	Vật lý 7.75	Hóa học 8.50	Sinh học 7.00	
+
+	Số báo danh: 04006075 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 3.75	Ngoại ngữ 3.40	Vật lý 5.75	Hóa học 7.50	Sinh học 6.50	
+
+	Số báo danh: 04006076 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 6.25	Hóa học 4.00	Sinh học 5.25	
+
+	Số báo danh: 04006077 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.00	Ngoại ngữ 3.80	Vật lý 7.50	Hóa học 6.50	Sinh học 5.75	
+
+	Số báo danh: 04006078 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 1.60	Vật lý 7.25	Hóa học 7.00	Sinh học 4.50	
+
+	Số báo danh: 04006079 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 5.40	Vật lý 9.00	Hóa học 9.25	Sinh học 7.50	
+
+	Số báo danh: 04006080 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 7.50	Sinh học 6.25	
+
+	Số báo danh: 04006081 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.50	Ngoại ngữ 4.20	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006082 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.40	Ngữ văn 6.75	Ngoại ngữ 2.80	Lịch sử 5.25	Địa lý 5.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006083 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 8.25	Ngoại ngữ 5.20	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006084 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 5.00	Ngoại ngữ 2.40	Vật lý 7.75	Hóa học 7.25	Sinh học 3.00	
+
+	Số báo danh: 04006085 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 5.40	Vật lý 7.50	Hóa học 8.75	Sinh học 5.25	
+
+	Số báo danh: 04006086 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 6.75	Hóa học 4.75	Sinh học 6.75	
+
+	Số báo danh: 04006087 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 6.50	Ngoại ngữ 3.20	Lịch sử 4.00	Địa lý 6.25	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006088 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 7.50	Ngoại ngữ 4.20	Lịch sử 6.75	Địa lý 8.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006089 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 5.75	Ngoại ngữ 3.20	Lịch sử 4.00	Địa lý 5.25	Giáo dục công dân 5.50	
+
+	Số báo danh: 04006090 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 8.25	Ngoại ngữ 5.40	Lịch sử 9.50	Địa lý 10.00	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006091 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006092 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 6.20	Vật lý 7.75	Hóa học 8.25	Sinh học 6.25	
+
+	Số báo danh: 04006093 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 2.60	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006094 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.50	Ngoại ngữ 4.40	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006095 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006096 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 3.80	Lịch sử 5.25	Địa lý 7.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006097 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 4.40	Vật lý 7.50	Hóa học 7.25	Sinh học 5.00	
+
+	Số báo danh: 04006098 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 5.50	Ngoại ngữ 3.00	Lịch sử 5.25	Địa lý 7.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006099 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 4.00	Vật lý 9.00	Hóa học 8.25	Sinh học 5.25	
+
+	Số báo danh: 04006100 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 4.50	Ngoại ngữ 2.80	Vật lý 7.25	Hóa học 7.00	Sinh học 6.00	
+
+	Số báo danh: 04006101 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 5.75	Ngoại ngữ 2.20	Vật lý 7.50	Hóa học 7.25	Sinh học 4.25	
+
+	Số báo danh: 04006102 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 8.50	Ngoại ngữ 3.00	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006103 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 5.80	Vật lý 7.50	Hóa học 7.50	Sinh học 5.50	
+
+	Số báo danh: 04006104 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 3.40	Vật lý 6.75	Hóa học 7.75	Sinh học 5.50	
+
+	Số báo danh: 04006105 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 5.50	Ngoại ngữ 5.60	Vật lý 7.25	Hóa học 7.75	Sinh học 5.00	
+
+	Số báo danh: 04006106 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.75	Ngoại ngữ 2.80	Lịch sử 9.25	Địa lý 9.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006107 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 3.80	Vật lý 7.00	Hóa học 7.00	Sinh học 4.50	
+
+	Số báo danh: 04006108 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 6.00	Ngoại ngữ 5.40	Lịch sử 6.00	Địa lý 6.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006109 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 7.00	Ngoại ngữ 3.20	Lịch sử 8.75	Địa lý 9.50	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006110 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.00	Ngoại ngữ 5.80	Lịch sử 8.00	Địa lý 6.50	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006111 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 5.20	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 5.75	
+
+	Số báo danh: 04006112 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.50	Ngoại ngữ 4.00	Lịch sử 8.25	Địa lý 9.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006113 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 4.80	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006114 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 7.75	Ngoại ngữ 3.00	Lịch sử 5.25	Địa lý 6.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006115 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.50	Ngoại ngữ 2.60	Lịch sử 6.75	Địa lý 7.25	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006116 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 7.25	Ngoại ngữ 5.40	Vật lý 9.25	Hóa học 9.50	Sinh học 6.50	
+
+	Số báo danh: 04006117 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 6.80	Vật lý 7.50	Hóa học 8.75	Sinh học 5.50	
+
+	Số báo danh: 04006118 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 7.40	Vật lý 4.75	Hóa học 7.00	Sinh học 5.75	
+
+	Số báo danh: 04006119 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Ngữ văn 8.00	Lịch sử 9.25	Địa lý 9.75	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006120 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.50	Ngoại ngữ 3.40	Vật lý 8.25	Hóa học 8.00	Sinh học 6.50	
+
+	Số báo danh: 04006121 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.25	Ngoại ngữ 2.60	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006122 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 6.50	Ngoại ngữ 2.20	Lịch sử 7.25	Địa lý 8.25	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006123 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.20	Ngữ văn 8.00	Ngoại ngữ 2.80	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006124 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 5.00	Ngoại ngữ 5.20	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006125 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 7.50	Ngoại ngữ 4.20	Lịch sử 7.00	Địa lý 8.25	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006126 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.00	Ngữ văn 6.50	Ngoại ngữ 2.60	Lịch sử 8.75	Địa lý 7.50	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006127 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 3.25	Ngoại ngữ 4.20	Lịch sử 5.50	Địa lý 8.00	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006128 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 6.40	Vật lý 8.75	Hóa học 8.25	Sinh học 7.50	
+
+	Số báo danh: 04006129 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 6.25	Ngoại ngữ 3.20	Lịch sử 6.75	Địa lý 6.00	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006130 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 5.75	Ngoại ngữ 2.60	Lịch sử 6.00	Địa lý 5.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006131 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 5.50	Ngoại ngữ 3.20	Vật lý 6.25	Hóa học 7.00	Sinh học 4.00	
+
+	Số báo danh: 04006132 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 6.00	Lịch sử 5.75	Địa lý 6.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006133 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 3.40	Lịch sử 5.75	Địa lý 7.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006134 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 7.20	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006135 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 3.60	Lịch sử 10.00	Địa lý 10.00	Giáo dục công dân 9.25	
+
+	Số báo danh: 04006136 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.25	Ngoại ngữ 7.40	Lịch sử 10.00	Địa lý 8.25	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006137 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 6.25	Ngoại ngữ 3.60	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006138 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.50	Ngoại ngữ 3.40	Lịch sử 5.75	Địa lý 6.00	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006139 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.80	Ngữ văn 4.00	Ngoại ngữ 3.60	Lịch sử 6.50	Địa lý 7.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006140 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 8.20	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006141 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 4.50	Ngoại ngữ 8.00	Vật lý 6.50	Hóa học 9.00	Sinh học 5.75	
+
+	Số báo danh: 04006142 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.25	Ngoại ngữ 3.60	Lịch sử 8.00	Địa lý 9.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006143 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 3.40	Vật lý 6.75	Hóa học 7.25	Sinh học 5.00	
+
+	Số báo danh: 04006144 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.00	Ngữ văn 8.00	Ngoại ngữ 3.20	Lịch sử 9.50	Địa lý 9.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006145 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 3.00	Vật lý 6.50	Hóa học 6.00	Sinh học 3.25	
+
+	Số báo danh: 04006146 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 8.80	Vật lý 8.50	Hóa học 5.25	Sinh học 6.25	
+
+	Số báo danh: 04006147 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.00	Ngoại ngữ 4.80	Vật lý 7.00	Hóa học 7.75	Sinh học 5.75	
+
+	Số báo danh: 04006148 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 6.00	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006149 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 5.50	Địa lý 6.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006150 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.00	Ngoại ngữ 6.20	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006151 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 4.50	Ngoại ngữ 7.80	Vật lý 6.75	Hóa học 3.25	Sinh học 6.50	
+
+	Số báo danh: 04006152 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 3.50	Ngoại ngữ 4.60	Lịch sử 5.00	Địa lý 6.75	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006153 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.75	Ngoại ngữ 4.80	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006154 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 5.00	Vật lý 7.75	Hóa học 8.00	Sinh học 5.75	
+
+	Số báo danh: 04006155 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.75	Ngoại ngữ 4.60	Vật lý 7.50	Hóa học 8.00	Sinh học 7.75	
+
+	Số báo danh: 04006156 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 5.60	Vật lý 8.25	Hóa học 8.50	Sinh học 7.25	
+
+	Số báo danh: 04006157 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Ngữ văn 8.25	Lịch sử 9.25	Địa lý 9.50	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006158 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 4.20	Lịch sử 9.75	Địa lý 9.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006159 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 2.80	Lịch sử 6.50	Địa lý 5.00	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006160 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 6.00	Vật lý 8.25	Hóa học 9.25	Sinh học 5.50	
+
+	Số báo danh: 04006161 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.00	Ngữ văn 7.00	Ngoại ngữ 1.60	Lịch sử 8.25	Địa lý 9.50	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006162 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 5.00	Ngoại ngữ 3.20	Vật lý 2.75	Hóa học 5.50	Sinh học 4.00	
+
+	Số báo danh: 04006163 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 7.00	Lịch sử 6.75	Địa lý 5.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006164 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 3.80	Vật lý 8.00	Hóa học 6.50	Sinh học 7.25	
+
+	Số báo danh: 04006165 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.00	Ngữ văn 6.75	Ngoại ngữ 2.80	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006166 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 8.25	Ngoại ngữ 9.20	Lịch sử 5.75	Địa lý 7.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006167 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 5.00	Lịch sử 6.00	Địa lý 8.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006168 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 5.80	Lịch sử 5.75	Địa lý 5.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006169 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 3.80	Lịch sử 7.75	Địa lý 9.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006170 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 7.00	Hóa học 3.25	Sinh học 5.00	
+
+	Số báo danh: 04006171 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 3.40	Lịch sử 8.00	Địa lý 6.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006172 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.50	Ngoại ngữ 5.80	Lịch sử 9.75	Địa lý 9.00	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006173 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.75	Ngoại ngữ 5.40	Lịch sử 8.50	Địa lý 9.75	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006174 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 7.50	Ngoại ngữ 5.40	Lịch sử 3.25	Địa lý 6.00	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006175 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 5.75	Ngoại ngữ 4.40	Lịch sử 5.00	Địa lý 7.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006176 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 5.00	Vật lý 7.25	Hóa học 8.75	Sinh học 6.00	
+
+	Số báo danh: 04006177 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.00	Ngữ văn 8.00	Ngoại ngữ 4.00	Lịch sử 6.75	Địa lý 8.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006178 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 5.00	Ngoại ngữ 3.40	Lịch sử 3.75	Địa lý 6.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006179 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 2.00	Lịch sử 8.75	Địa lý 9.75	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006180 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.80	Ngữ văn 6.50	Ngoại ngữ 3.00	Lịch sử 5.25	Địa lý 5.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006181 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 8.50	Ngoại ngữ 6.20	Lịch sử 9.50	Địa lý 9.75	Giáo dục công dân 9.25	
+
+	Số báo danh: 04006182 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 8.75	Ngoại ngữ 5.60	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006183 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 3.60	Vật lý 8.00	Hóa học 7.25	Sinh học 4.25	
+
+	Số báo danh: 04006184 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.00	Ngoại ngữ 3.80	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006185 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 6.00	Ngoại ngữ 2.60	Lịch sử 4.25	Địa lý 7.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006186 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 6.50	Ngoại ngữ 6.00	Vật lý 8.25	Hóa học 7.75	Sinh học 5.25	
+
+	Số báo danh: 04006187 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 6.00	Ngoại ngữ 3.20	Vật lý 5.00	Hóa học 6.25	Sinh học 4.75	
+
+	Số báo danh: 04006188 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 7.25	Địa lý 8.75	Giáo dục công dân 9.75	
+
+	Số báo danh: 04006189 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 4.40	Vật lý 5.25	Hóa học 3.50	Sinh học 4.50	
+
+	Số báo danh: 04006190 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 4.80	Lịch sử 5.50	Địa lý 7.25	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006191 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.25	Ngoại ngữ 2.40	Lịch sử 5.50	Địa lý 6.50	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006192 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 8.00	Ngoại ngữ 6.60	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006193 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 1.60	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006194 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 9.00	Ngoại ngữ 7.80	Lịch sử 8.00	Địa lý 9.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006195 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 6.00	Ngoại ngữ 2.60	Vật lý 7.50	Hóa học 8.25	Sinh học 4.00	
+
+	Số báo danh: 04006196 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 6.50	Ngoại ngữ 4.00	Lịch sử 5.75	Địa lý 7.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006197 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 6.75	Ngoại ngữ 3.00	Vật lý 6.50	Hóa học 5.75	Sinh học 4.75	
+
+	Số báo danh: 04006198 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 3.40	Vật lý 6.25	Hóa học 6.50	Sinh học 5.50	
+
+	Số báo danh: 04006199 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 6.20	Vật lý 8.75	Hóa học 8.50	Sinh học 6.00	
+
+	Số báo danh: 04006200 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.00	Ngữ văn 5.50	Ngoại ngữ 3.80	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006201 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 4.25	Ngoại ngữ 4.40	Vật lý 8.00	Hóa học 7.50	Sinh học 4.50	
+
+	Số báo danh: 04006202 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.20	Ngữ văn 6.75	Ngoại ngữ 2.80	Lịch sử 4.75	Địa lý 4.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006203 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 4.25	Ngoại ngữ 3.20	Lịch sử 5.50	Địa lý 5.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006204 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 3.00	Lịch sử 7.50	Địa lý 6.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006205 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.60	Ngữ văn 5.00	Ngoại ngữ 4.00	Lịch sử 3.75	Địa lý 6.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006206 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 5.50	Ngoại ngữ 3.80	Vật lý 6.00	Hóa học 3.75	Sinh học 4.00	
+
+	Số báo danh: 04006207 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 3.00	Vật lý 3.00	Hóa học 5.50	Sinh học 6.00	
+
+	Số báo danh: 04006208 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 9.25	Ngoại ngữ 8.60	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006209 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 3.50	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 4.25	Sinh học 4.00	
+
+	Số báo danh: 04006210 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 2.75	Ngoại ngữ 4.20	Lịch sử 6.75	Địa lý 6.25	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006211 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 4.25	Ngoại ngữ 4.00	Vật lý 7.25	Hóa học 9.00	Sinh học 5.00	
+
+	Số báo danh: 04006212 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 1.60	Ngữ văn 1.00	Ngoại ngữ 2.60	Vật lý 2.50	Hóa học 2.75	Sinh học 3.00	
+
+	Số báo danh: 04006213 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 4.60	Vật lý 7.50	Hóa học 8.00	Sinh học 4.50	
+
+	Số báo danh: 04006214 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 6.00	Ngoại ngữ 7.20	Vật lý 6.00	Hóa học 9.00	Sinh học 6.25	
+
+	Số báo danh: 04006215 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 4.00	Ngoại ngữ 3.60	Vật lý 2.50	Hóa học 3.00	Sinh học 3.50	
+
+	Số báo danh: 04006216 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 4.00	Ngoại ngữ 4.00	Lịch sử 6.25	Địa lý 4.25	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006217 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 7.25	Hóa học 7.25	Sinh học 5.75	
+
+	Số báo danh: 04006218 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 3.20	Vật lý 4.50	Hóa học 6.50	Sinh học 3.00	
+
+	Số báo danh: 04006219 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 6.20	Vật lý 9.00	Hóa học 9.50	Sinh học 4.75	
+
+	Số báo danh: 04006220 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 5.40	Vật lý 7.50	Hóa học 7.75	Sinh học 6.00	
+
+	Số báo danh: 04006221 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.00	Ngoại ngữ 4.20	Vật lý 8.00	Hóa học 7.00	Sinh học 6.00	
+
+	Số báo danh: 04006222 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 4.25	Ngoại ngữ 6.60	Vật lý 8.00	Hóa học 7.00	Sinh học 4.25	
+
+	Số báo danh: 04006223 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 6.75	Ngoại ngữ 4.40	Lịch sử 6.00	Địa lý 6.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006224 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 9.20	Ngữ văn 6.25	Ngoại ngữ 6.40	Vật lý 9.25	Hóa học 9.00	Sinh học 4.75	
+
+	Số báo danh: 04006225 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 4.00	Lịch sử 7.25	Địa lý 7.00	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006226 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 5.75	Ngoại ngữ 2.80	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006227 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 5.00	Ngoại ngữ 5.60	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006228 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 6.60	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 9.25	
+
+	Số báo danh: 04006229 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 4.20	Vật lý 7.50	Hóa học 9.00	Sinh học 5.00	
+
+	Số báo danh: 04006230 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 8.00	Ngoại ngữ 7.00	Lịch sử 5.00	Địa lý 6.25	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006231 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 5.75	Ngoại ngữ 2.20	Lịch sử 5.00	Địa lý 6.00	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006232 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 3.20	Lịch sử 5.00	Địa lý 5.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006233 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 4.60	Vật lý 8.00	Hóa học 7.50	Sinh học 5.00	
+
+	Số báo danh: 04006234 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.25	Ngoại ngữ 1.20	Vật lý 4.50	Hóa học 5.25	Sinh học 5.00	
+
+	Số báo danh: 04006235 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.00	Ngoại ngữ 3.20	Vật lý 2.25	Hóa học 8.75	Sinh học 8.75	
+
+	Số báo danh: 04006236 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.50	Ngoại ngữ 5.40	Lịch sử 8.00	Địa lý 9.50	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006237 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 9.00	Sinh học 5.75	
+
+	Số báo danh: 04006238 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 6.75	Ngoại ngữ 3.60	Lịch sử 5.25	Địa lý 7.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006239 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 6.75	Địa lý 8.25	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006240 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 5.60	Lịch sử 9.25	Địa lý 9.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006241 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.25	Ngoại ngữ 4.80	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006242 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.60	Ngữ văn 6.75	Ngoại ngữ 2.40	Lịch sử 8.25	Địa lý 6.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006243 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 4.20	Vật lý 5.25	Hóa học 6.50	Sinh học 5.00	
+
+	Số báo danh: 04006244 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 5.25	Ngoại ngữ 5.00	Lịch sử 5.50	Địa lý 6.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006245 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 8.75	Ngoại ngữ 7.00	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006246 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 6.75	Ngoại ngữ 4.20	Vật lý 5.25	Hóa học 7.75	Sinh học 4.50	
+
+	Số báo danh: 04006247 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 6.25	Ngoại ngữ 4.40	Vật lý 5.00	Hóa học 5.25	Sinh học 3.75	
+
+	Số báo danh: 04006248 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 3.20	Vật lý 8.25	Hóa học 7.00	Sinh học 5.75	
+
+	Số báo danh: 04006249 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 3.75	Ngoại ngữ 4.40	Vật lý 3.75	Hóa học 4.25	Sinh học 3.75	
+
+	Số báo danh: 04006250 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 4.75	Ngoại ngữ 3.40	Vật lý 7.25	Hóa học 7.50	Sinh học 4.00	
+
+	Số báo danh: 04006251 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 6.50	Ngoại ngữ 3.40	Lịch sử 8.00	Địa lý 6.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006252 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 6.50	Ngoại ngữ 5.80	Vật lý 4.75	Hóa học 7.00	Sinh học 5.00	
+
+	Số báo danh: 04006253 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.00	Ngoại ngữ 6.40	Vật lý 8.75	Hóa học 8.75	Sinh học 8.50	
+
+	Số báo danh: 04006254 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 4.40	Vật lý 9.00	Hóa học 8.75	Sinh học 7.75	
+
+	Số báo danh: 04006255 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.20	Ngữ văn 7.50	Ngoại ngữ 2.80	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006256 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 4.60	Vật lý 8.50	Hóa học 8.75	Sinh học 5.00	
+
+	Số báo danh: 04006257 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.25	Ngoại ngữ 4.40	Vật lý 3.25	Hóa học 7.50	Sinh học 6.25	
+
+	Số báo danh: 04006258 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 7.40	Vật lý 9.00	Hóa học 9.50	Sinh học 6.50	
+
+	Số báo danh: 04006259 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 8.75	Sinh học 6.25	
+
+	Số báo danh: 04006260 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 5.00	Ngoại ngữ 3.40	Lịch sử 7.25	Địa lý 6.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006261 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.25	Ngoại ngữ 5.80	Vật lý 7.50	Hóa học 7.75	Sinh học 5.75	
+
+	Số báo danh: 04006262 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 5.00	Ngoại ngữ 4.80	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006263 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.00	Ngoại ngữ 5.00	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006264 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 8.75	Ngoại ngữ 4.00	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006265 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 5.75	Ngoại ngữ 4.20	Vật lý 7.75	Hóa học 7.25	Sinh học 5.50	
+
+	Số báo danh: 04006266 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 8.50	Ngoại ngữ 4.60	Lịch sử 7.50	Địa lý 6.50	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006267 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 5.25	Ngoại ngữ 5.00	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006268 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 7.40	Vật lý 4.25	Hóa học 4.50	Sinh học 7.00	
+
+	Số báo danh: 04006269 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 6.75	Ngoại ngữ 3.40	Lịch sử 5.75	Địa lý 6.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006270 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 5.50	Ngoại ngữ 3.60	Vật lý 6.50	Hóa học 5.00	Sinh học 4.25	
+
+	Số báo danh: 04006271 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 7.50	Ngoại ngữ 3.40	Lịch sử 6.25	Địa lý 5.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006272 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 4.00	Vật lý 8.00	Hóa học 8.00	Sinh học 4.75	
+
+	Số báo danh: 04006273 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.80	Ngữ văn 6.25	Ngoại ngữ 5.80	Lịch sử 6.50	Địa lý 6.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006274 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 7.00	Ngoại ngữ 3.60	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006275 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 2.80	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006276 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 4.00	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006277 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 5.00	Ngoại ngữ 2.20	Vật lý 3.25	Hóa học 6.50	Sinh học 6.50	
+
+	Số báo danh: 04006278 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 8.50	Sinh học 7.50	
+
+	Số báo danh: 04006279 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 9.00	Vật lý 7.25	Hóa học 3.75	Sinh học 3.50	
+
+	Số báo danh: 04006280 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 7.25	Ngoại ngữ 5.40	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006281 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 6.60	Vật lý 6.50	Hóa học 7.25	Sinh học 6.75	
+
+	Số báo danh: 04006282 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 6.50	Ngoại ngữ 1.60	Lịch sử 7.25	Địa lý 6.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006283 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 7.00	Ngoại ngữ 3.20	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006284 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 4.40	Vật lý 6.75	Hóa học 7.50	Sinh học 3.75	
+
+	Số báo danh: 04006285 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.80	Ngữ văn 6.25	Ngoại ngữ 3.00	Lịch sử 4.75	Địa lý 5.75	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006286 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 8.75	Ngoại ngữ 5.00	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006287 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 5.20	Vật lý 4.25	Hóa học 7.50	Sinh học 5.25	
+
+	Số báo danh: 04006288 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 4.50	Sinh học 5.25	
+
+	Số báo danh: 04006289 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 4.25	Ngoại ngữ 3.00	Vật lý 3.25	Hóa học 7.25	Sinh học 4.50	
+
+	Số báo danh: 04006290 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 2.80	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006291 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 4.40	Lịch sử 8.25	Địa lý 9.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006292 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 3.20	Vật lý 5.25	Hóa học 5.00	Sinh học 7.00	
+
+	Số báo danh: 04006293 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 4.40	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 9.75	
+
+	Số báo danh: 04006294 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.00	Ngữ văn 7.25	Ngoại ngữ 2.40	Lịch sử 4.75	Địa lý 4.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006295 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006296 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 7.80	Vật lý 4.50	Hóa học 4.00	Sinh học 5.25	
+
+	Số báo danh: 04006297 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 6.00	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006298 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 7.25	Ngoại ngữ 3.00	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006299 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.50	Ngoại ngữ 4.00	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006300 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 3.80	Vật lý 7.00	Hóa học 7.25	Sinh học 6.75	
+
+	Số báo danh: 04006301 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 4.00	Ngoại ngữ 5.80	Vật lý 6.75	Hóa học 7.50	Sinh học 4.75	
+
+	Số báo danh: 04006302 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 5.80	Vật lý 7.75	Hóa học 8.00	Sinh học 5.00	
+
+	Số báo danh: 04006303 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 6.50	Ngoại ngữ 3.20	Lịch sử 8.00	Địa lý 6.50	Giáo dục công dân 5.00	
+
+	Số báo danh: 04006304 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 4.60	Lịch sử 8.75	Địa lý 7.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006305 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 9.00	Ngữ văn 6.50	Ngoại ngữ 6.20	Vật lý 8.25	Hóa học 7.50	Sinh học 7.00	
+
+	Số báo danh: 04006306 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 5.40	Lịch sử 8.75	Địa lý 9.75	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006307 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 7.00	Lịch sử 8.00	Địa lý 7.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006308 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 3.75	Ngoại ngữ 7.80	Vật lý 8.25	Hóa học 8.50	Sinh học 4.00	
+
+	Số báo danh: 04006309 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 6.40	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006310 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 6.50	Ngoại ngữ 6.80	Vật lý 7.00	Hóa học 3.50	Sinh học 5.00	
+
+	Số báo danh: 04006311 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 6.75	Ngoại ngữ 3.80	Lịch sử 5.00	Địa lý 6.75	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006312 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 9.25	Ngoại ngữ 3.40	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006313 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 3.20	Lịch sử 4.00	Địa lý 5.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006314 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 7.40	Lịch sử 5.75	Địa lý 5.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006315 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 6.50	Ngoại ngữ 3.20	Vật lý 3.00	Hóa học 3.75	Sinh học 5.25	
+
+	Số báo danh: 04006316 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 5.00	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 4.75	Sinh học 6.00	
+
+	Số báo danh: 04006317 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 6.00	Vật lý 8.00	Hóa học 8.50	Sinh học 7.00	
+
+	Số báo danh: 04006318 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 4.40	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006319 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 7.00	Ngoại ngữ 2.60	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006320 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 4.80	Vật lý 6.25	Hóa học 5.75	Sinh học 6.25	
+
+	Số báo danh: 04006321 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 7.60	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006322 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 8.00	Ngoại ngữ 3.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006323 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 9.75	
+
+	Số báo danh: 04006324 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 5.80	Vật lý 7.75	Hóa học 9.00	Sinh học 4.25	
+
+	Số báo danh: 04006325 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 7.00	Lịch sử 5.25	Địa lý 6.00	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006326 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 6.25	Ngoại ngữ 2.40	Lịch sử 5.75	Địa lý 6.00	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006327 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 5.20	Vật lý 8.50	Hóa học 8.25	Sinh học 6.25	
+
+	Số báo danh: 04006328 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 4.00	Vật lý 5.25	Hóa học 5.50	Sinh học 4.75	
+
+	Số báo danh: 04006329 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 8.40	Lịch sử 7.50	Địa lý 8.00	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006330 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Ngữ văn 6.75	Lịch sử 8.75	Địa lý 9.50	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006331 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.60	Ngữ văn 6.50	Ngoại ngữ 2.60	Lịch sử 6.25	Địa lý 6.50	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006332 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 5.00	Lịch sử 6.00	Địa lý 6.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006333 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 4.25	Ngoại ngữ 9.20	Vật lý 8.50	Hóa học 4.75	Sinh học 6.00	
+
+	Số báo danh: 04006334 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 4.50	Ngoại ngữ 4.20	Lịch sử 5.50	Địa lý 7.75	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006335 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.60	Ngữ văn 5.50	Ngoại ngữ 3.20	Lịch sử 5.00	Địa lý 5.25	Giáo dục công dân 5.50	
+
+	Số báo danh: 04006336 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 5.40	Lịch sử 10.00	Địa lý 9.50	Giáo dục công dân 9.50	
+
+	Số báo danh: 04006337 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 8.40	Vật lý 8.25	Hóa học 3.25	Sinh học 7.00	
+
+	Số báo danh: 04006338 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.80	Ngữ văn 5.75	Ngoại ngữ 3.00	Lịch sử 6.50	Địa lý 5.00	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006339 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 4.40	Lịch sử 9.75	Địa lý 10.00	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006340 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 4.25	Ngoại ngữ 3.20	Lịch sử 7.25	Địa lý 7.00	Giáo dục công dân 5.75	
+
+	Số báo danh: 04006341 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 2.40	Vật lý 8.25	Hóa học 7.75	Sinh học 5.25	
+
+	Số báo danh: 04006342 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.00	Ngoại ngữ 2.20	Vật lý 6.75	Hóa học 6.25	Sinh học 5.75	
+
+	Số báo danh: 04006343 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 5.00	Ngoại ngữ 3.20	Lịch sử 5.75	Địa lý 6.00	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006344 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 5.75	Ngoại ngữ 6.60	Vật lý 8.25	Hóa học 8.25	Sinh học 4.50	
+
+	Số báo danh: 04006345 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 5.25	Ngoại ngữ 4.40	Vật lý 6.50	Hóa học 8.00	Sinh học 4.50	
+
+	Số báo danh: 04006346 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.00	Ngoại ngữ 3.40	Vật lý 8.50	Hóa học 6.25	Sinh học 4.25	
+
+	Số báo danh: 04006347 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.00	Ngoại ngữ 4.20	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006348 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 6.40	Vật lý 7.00	Hóa học 8.25	Sinh học 3.00	
+
+	Số báo danh: 04006349 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 4.40	Vật lý 6.00	Hóa học 7.50	Sinh học 4.75	
+
+	Số báo danh: 04006350 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 6.75	Ngoại ngữ 4.80	Vật lý 5.50	Hóa học 6.75	Sinh học 6.25	
+
+	Số báo danh: 04006351 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 4.00	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 8.75	Sinh học 7.75	
+
+	Số báo danh: 04006352 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 5.75	Ngoại ngữ 3.60	Lịch sử 6.75	Địa lý 6.00	Giáo dục công dân 5.75	
+
+	Số báo danh: 04006353 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.25	Ngoại ngữ 5.60	Lịch sử 8.00	Địa lý 7.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006354 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.75	Ngoại ngữ 2.60	Lịch sử 8.25	Địa lý 8.00	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006355 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 6.75	Ngoại ngữ 3.80	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006356 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 4.60	Vật lý 8.50	Hóa học 7.75	Sinh học 6.00	
+
+	Số báo danh: 04006357 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.00	Ngoại ngữ 3.40	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006358 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 5.80	Vật lý 6.50	Hóa học 8.25	Sinh học 5.50	
+
+	Số báo danh: 04006359 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 5.00	Ngoại ngữ 3.00	Lịch sử 4.75	Địa lý 5.00	Giáo dục công dân 4.50	
+
+	Số báo danh: 04006360 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 5.50	Ngoại ngữ 2.00	Lịch sử 4.25	Địa lý 7.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006362 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 7.80	Lịch sử 4.50	Địa lý 5.75	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006363 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 7.00	Ngoại ngữ 7.60	Vật lý 7.50	Hóa học 6.50	Sinh học 5.75	
+
+	Số báo danh: 04006364 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 7.00	Ngoại ngữ 2.80	Lịch sử 6.00	Địa lý 9.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006365 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 3.40	Lịch sử 6.50	Địa lý 8.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006366 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.50	Ngoại ngữ 6.60	Lịch sử 4.75	Địa lý 5.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006367 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 7.00	Ngoại ngữ 3.40	Lịch sử 8.00	Địa lý 6.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006368 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 4.60	Vật lý 8.00	Hóa học 7.75	Sinh học 4.00	
+
+	Số báo danh: 04006369 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 7.50	Ngoại ngữ 5.20	Lịch sử 7.00	Địa lý 9.25	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006370 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 6.40	Lịch sử 6.00	Địa lý 6.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006371 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 7.75	Ngoại ngữ 5.80	Lịch sử 8.50	Địa lý 9.00	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006372 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.80	Ngữ văn 5.00	Ngoại ngữ 2.60	Lịch sử 4.75	Địa lý 6.25	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006373 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 6.00	Ngoại ngữ 2.60	Lịch sử 5.00	Địa lý 6.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006374 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006375 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.00	Ngoại ngữ 5.80	Vật lý 9.25	Hóa học 8.00	Sinh học 6.50	
+
+	Số báo danh: 04006376 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 6.80	Vật lý 2.25	Hóa học 5.00	Sinh học 6.50	
+
+	Số báo danh: 04006377 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.50	Ngoại ngữ 3.60	Lịch sử 8.25	Địa lý 9.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006378 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 3.80	Vật lý 7.75	Hóa học 7.00	Sinh học 6.25	
+
+	Số báo danh: 04006379 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 7.50	Địa lý 6.75	Giáo dục công dân 9.00	
+
+	Số báo danh: 04006380 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 6.20	Lịch sử 6.50	Địa lý 7.75	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006381 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 8.00	Ngoại ngữ 4.00	Lịch sử 7.75	Địa lý 9.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006382 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 8.00	Ngoại ngữ 4.80	Lịch sử 7.50	Địa lý 9.25	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006383 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.75	Ngoại ngữ 4.00	Vật lý 3.50	Hóa học 6.50	Sinh học 7.00	
+
+	Số báo danh: 04006384 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 6.75	Ngoại ngữ 2.80	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006385 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 6.50	Ngoại ngữ 5.00	Vật lý 4.25	Hóa học 7.00	Sinh học 7.75	
+
+	Số báo danh: 04006386 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 7.00	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006387 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 3.80	Vật lý 7.00	Hóa học 7.75	Sinh học 5.50	
+
+	Số báo danh: 04006388 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 3.20	Lịch sử 7.25	Địa lý 6.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006389 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 2.60	Lịch sử 7.75	Địa lý 6.75	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006390 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 4.25	Ngoại ngữ 5.80	Vật lý 4.00	Hóa học 6.00	Sinh học 4.50	
+
+	Số báo danh: 04006391 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 5.25	Ngoại ngữ 3.20	Lịch sử 6.50	Địa lý 7.25	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006392 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 3.25	Ngoại ngữ 6.20	Vật lý 6.75	Hóa học 8.50	Sinh học 5.25	
+
+	Số báo danh: 04006393 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 5.50	Ngoại ngữ 4.40	Vật lý 7.25	Hóa học 8.75	Sinh học 5.75	
+
+	Số báo danh: 04006394 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 4.20	Lịch sử 4.75	Địa lý 7.00	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006395 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 6.00	Ngoại ngữ 6.80	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006396 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.00	Ngữ văn 6.25	Ngoại ngữ 2.20	Lịch sử 4.50	Địa lý 5.25	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006397 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 2.00	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006398 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 5.60	Vật lý 8.25	Hóa học 7.50	Sinh học 6.50	
+
+	Số báo danh: 04006399 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 5.00	Ngoại ngữ 5.20	Vật lý 4.25	Hóa học 4.00	Sinh học 5.25	
+
+	Số báo danh: 04006400 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 5.75	Ngoại ngữ 5.40	Vật lý 5.25	Hóa học 8.00	Sinh học 6.25	
+
+	Số báo danh: 04006401 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 5.50	Ngoại ngữ 6.40	Vật lý 9.00	Hóa học 5.50	Sinh học 6.75	
+
+	Số báo danh: 04006402 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 6.00	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006403 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.00	Ngoại ngữ 3.00	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006404 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 6.25	Ngoại ngữ 3.40	Vật lý 5.50	Hóa học 5.75	Sinh học 4.25	
+
+	Số báo danh: 04006405 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 8.00	Lịch sử 5.25	Địa lý 7.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006406 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 2.20	Vật lý 6.00	Hóa học 6.75	Sinh học 4.50	
+
+	Số báo danh: 04006407 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 4.00	Vật lý 7.00	Hóa học 7.50	Sinh học 5.25	
+
+	Số báo danh: 04006408 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 5.50	Ngoại ngữ 5.00	Vật lý 4.25	Hóa học 6.25	Sinh học 6.00	
+
+	Số báo danh: 04006409 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 3.60	Vật lý 7.75	Hóa học 7.75	Sinh học 5.75	
+
+	Số báo danh: 04006410 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 6.75	Ngoại ngữ 3.00	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006411 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 8.00	Ngoại ngữ 3.00	Lịch sử 7.75	Địa lý 7.25	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006412 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 5.50	Ngoại ngữ 3.60	Vật lý 7.00	Hóa học 8.75	Sinh học 4.75	
+
+	Số báo danh: 04006413 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 5.75	Ngoại ngữ 4.20	Lịch sử 5.50	Địa lý 5.25	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006414 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.50	Ngoại ngữ 4.20	Vật lý 9.00	Hóa học 7.25	Sinh học 3.50	
+
+	Số báo danh: 04006415 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.50	Ngoại ngữ 2.20	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006416 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 5.50	Ngoại ngữ 3.20	Vật lý 5.25	Hóa học 6.75	Sinh học 5.75	
+
+	Số báo danh: 04006417 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 5.25	Ngoại ngữ 2.00	Vật lý 6.75	Hóa học 7.50	Sinh học 3.50	
+
+	Số báo danh: 04006418 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.80	Ngữ văn 5.75	Ngoại ngữ 3.20	Vật lý 5.25	Hóa học 8.50	Sinh học 3.50	
+
+	Số báo danh: 04006419 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 4.00	Ngoại ngữ 3.40	Vật lý 7.50	Hóa học 6.50	Sinh học 5.00	
+
+	Số báo danh: 04006420 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.50	Ngoại ngữ 5.80	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006421 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.20	Ngữ văn 7.00	Ngoại ngữ 4.60	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006422 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 8.50	Sinh học 5.75	
+
+	Số báo danh: 04006423 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 6.00	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 8.75	Sinh học 7.25	
+
+	Số báo danh: 04006424 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.40	Ngữ văn 6.00	Ngoại ngữ 2.80	Lịch sử 4.50	Địa lý 4.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006425 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 6.40	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006426 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 7.75	Ngoại ngữ 4.60	Lịch sử 7.25	Địa lý 6.25	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006427 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 7.00	Vật lý 7.50	Hóa học 8.25	Sinh học 3.75	
+
+	Số báo danh: 04006428 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.50	Vật lý 4.25	Hóa học 8.50	Sinh học 8.00	
+
+	Số báo danh: 04006429 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 8.25	Sinh học 6.25	
+
+	Số báo danh: 04006430 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 3.80	Ngữ văn 6.50	Ngoại ngữ 5.60	Lịch sử 6.00	Địa lý 4.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006431 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 8.50	Ngoại ngữ 6.20	Lịch sử 7.00	Địa lý 9.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006432 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 3.60	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006433 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 4.50	Ngoại ngữ 6.20	Vật lý 3.75	Hóa học 8.00	Sinh học 6.00	
+
+	Số báo danh: 04006434 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 4.50	Ngoại ngữ 6.20	Vật lý 6.75	Hóa học 5.25	Sinh học 6.25	
+
+	Số báo danh: 04006435 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 8.75	Sinh học 5.25	
+
+	Số báo danh: 04006436 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 8.00	Ngoại ngữ 7.60	
+
+	Số báo danh: 04006437 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 3.80	Lịch sử 7.25	Địa lý 9.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006438 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.50	Ngoại ngữ 4.40	Vật lý 7.75	Hóa học 6.50	Sinh học 4.50	
+
+	Số báo danh: 04006439 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 6.25	Ngoại ngữ 3.00	Lịch sử 5.50	Địa lý 7.75	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006440 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 5.00	Ngoại ngữ 3.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006441 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 5.50	Ngoại ngữ 3.80	Lịch sử 6.50	Địa lý 8.50	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006442 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 5.50	Ngoại ngữ 5.20	Vật lý 6.75	Hóa học 7.50	Sinh học 4.75	
+
+	Số báo danh: 04006443 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 5.25	Ngoại ngữ 4.20	Vật lý 7.25	Hóa học 8.25	Sinh học 6.00	
+
+	Số báo danh: 04006444 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 3.20	Lịch sử 7.75	Địa lý 9.75	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006445 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.75	Ngoại ngữ 3.60	Vật lý 7.50	Hóa học 7.50	Sinh học 5.50	
+
+	Số báo danh: 04006446 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 8.00	Ngoại ngữ 3.60	Lịch sử 8.50	Địa lý 9.75	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006447 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 6.60	Vật lý 8.00	Hóa học 9.00	Sinh học 6.75	
+
+	Số báo danh: 04006448 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 9.20	Ngữ văn 6.25	Ngoại ngữ 6.00	Vật lý 8.75	Hóa học 9.25	Sinh học 5.50	
+
+	Số báo danh: 04006449 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 5.25	Ngoại ngữ 3.80	Vật lý 6.25	Hóa học 6.50	Sinh học 5.25	
+
+	Số báo danh: 04006450 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.00	Ngoại ngữ 2.80	Vật lý 4.25	Hóa học 6.50	Sinh học 5.25	
+
+	Số báo danh: 04006451 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 5.50	Ngoại ngữ 2.60	Lịch sử 6.75	Địa lý 8.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006452 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.00	Ngữ văn 5.25	Ngoại ngữ 2.40	Lịch sử 4.25	Địa lý 6.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006453 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.80	Ngữ văn 6.00	Ngoại ngữ 3.00	Lịch sử 6.50	Địa lý 5.75	Giáo dục công dân 7.50	
+
+	Số báo danh: 04006454 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 3.40	Vật lý 8.00	Hóa học 7.00	Sinh học 3.75	
+
+	Số báo danh: 04006455 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 3.00	Vật lý 6.25	Hóa học 3.75	Sinh học 4.50	
+
+	Số báo danh: 04006456 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.75	Ngoại ngữ 2.60	Lịch sử 6.75	Địa lý 5.50	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006457 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 5.50	Ngoại ngữ 2.40	Vật lý 8.00	Hóa học 7.75	Sinh học 4.25	
+
+	Số báo danh: 04006458 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 7.50	Ngoại ngữ 4.40	Lịch sử 7.25	Địa lý 6.75	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006459 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 4.60	Vật lý 8.25	Hóa học 8.00	Sinh học 4.50	
+
+	Số báo danh: 04006460 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 3.80	Vật lý 3.50	Hóa học 8.00	Sinh học 8.00	
+
+	Số báo danh: 04006461 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 4.80	Lịch sử 3.75	Địa lý 6.25	Giáo dục công dân 6.25	
+
+	Số báo danh: 04006462 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 4.60	Vật lý 7.50	Hóa học 8.50	Sinh học 4.50	
+
+	Số báo danh: 04006463 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.80	Ngữ văn 5.00	Ngoại ngữ 1.80	Lịch sử 4.25	Địa lý 3.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006464 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 5.50	Ngoại ngữ 3.80	Vật lý 8.50	Hóa học 8.00	Sinh học 6.25	
+
+	Số báo danh: 04006465 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 10.00	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 8.25	
+
+	Số báo danh: 04006466 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 6.00	Ngoại ngữ 4.80	Vật lý 7.50	Hóa học 7.50	Sinh học 4.75	
+
+	Số báo danh: 04006467 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 6.00	Ngoại ngữ 6.40	Vật lý 7.75	Hóa học 5.50	Sinh học 4.00	
+
+	Số báo danh: 04006468 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 7.80	Lịch sử 5.00	Địa lý 5.75	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006469 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.40	Ngữ văn 8.50	Ngoại ngữ 4.20	Lịch sử 8.75	Địa lý 9.25	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006470 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 4.80	Vật lý 7.50	Hóa học 7.25	Sinh học 5.75	
+
+	Số báo danh: 04006471 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 5.50	Ngoại ngữ 5.40	Vật lý 7.25	Hóa học 7.50	Sinh học 6.50	
+
+	Số báo danh: 04006472 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 4.00	Vật lý 9.00	Hóa học 8.25	Sinh học 5.75	
+
+	Số báo danh: 04006473 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.20	Ngữ văn 7.25	Ngoại ngữ 2.60	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006474 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 8.25	Ngoại ngữ 3.60	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006475 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 5.60	Ngữ văn 6.00	Ngoại ngữ 2.00	Lịch sử 2.75	Địa lý 4.25	Giáo dục công dân 3.75	
+
+	Số báo danh: 04006476 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.60	Ngữ văn 5.25	Ngoại ngữ 4.20	Vật lý 3.25	Hóa học 5.75	Sinh học 5.00	
+
+	Số báo danh: 04006477 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 3.20	Lịch sử 4.50	Địa lý 5.75	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006478 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 2.60	Vật lý 5.25	Hóa học 6.25	Sinh học 4.00	
+
+	Số báo danh: 04006479 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.60	Ngữ văn 7.50	Ngoại ngữ 4.60	Lịch sử 5.75	Địa lý 5.00	Giáo dục công dân 9.25	
+
+	Số báo danh: 04006480 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.00	Ngữ văn 6.25	Ngoại ngữ 5.80	Vật lý 4.00	Hóa học 6.25	Sinh học 3.00	
+
+	Số báo danh: 04006481 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.80	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 6.00	Hóa học 6.00	Sinh học 3.75	
+
+	Số báo danh: 04006482 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 8.00	Ngoại ngữ 4.40	Lịch sử 8.25	Địa lý 9.50	Giáo dục công dân 7.75	
+
+	Số báo danh: 04006483 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006484 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.80	Ngữ văn 7.00	Ngoại ngữ 3.20	Lịch sử 5.50	Địa lý 7.50	Giáo dục công dân 6.50	
+
+	Số báo danh: 04006485 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 7.00	
+
+	Số báo danh: 04006486 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 7.75	Ngoại ngữ 5.80	Lịch sử 7.50	Địa lý 6.50	Giáo dục công dân 8.75	
+
+	Số báo danh: 04006487 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 3.75	Ngoại ngữ 5.40	Vật lý 3.25	Hóa học 7.25	Sinh học 7.00	
+
+	Số báo danh: 04006488 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 4.40	Vật lý 8.50	Hóa học 8.25	Sinh học 4.50	
+
+	Số báo danh: 04006489 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.40	Ngữ văn 8.75	Ngoại ngữ 4.60	Lịch sử 6.50	Địa lý 5.50	Giáo dục công dân 7.25	
+
+	Số báo danh: 04006490 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.60	Ngữ văn 3.75	Ngoại ngữ 7.60	Vật lý 4.00	Hóa học 7.75	Sinh học 5.25	
+
+	Số báo danh: 04006491 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 5.20	Vật lý 8.50	Hóa học 8.00	Sinh học 5.25	
+
+	Số báo danh: 04006492 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 6.40	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 8.00	
+
+	Số báo danh: 04006493 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.00	Ngoại ngữ 5.60	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 9.75	
+
+	Số báo danh: 04006494 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 4.00	Ngữ văn 6.25	Ngoại ngữ 3.20	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 6.75	
+
+	Số báo danh: 04006495 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 2.00	Ngữ văn 5.50	Ngoại ngữ 2.40	Lịch sử 3.50	Địa lý 5.00	Giáo dục công dân 6.00	
+
+	Số báo danh: 04006496 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 8.40	Ngữ văn 4.50	Ngoại ngữ 6.80	Vật lý 4.00	Hóa học 9.75	Sinh học 8.00	
+
+	Số báo danh: 04006497 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 6.20	Ngữ văn 6.50	Ngoại ngữ 4.20	Lịch sử 6.75	Địa lý 8.75	Giáo dục công dân 8.50	
+
+	Số báo danh: 04006498 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.80	Ngữ văn 5.00	Ngoại ngữ 2.80	Vật lý 7.50	Hóa học 8.50	Sinh học 3.50	
+
+	Số báo danh: 04006499 Cụm thi: 04 - Sở GDĐT Đà Nẵng		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 3.60	Vật lý 8.50	Hóa học 7.75	Sinh học 5.75		

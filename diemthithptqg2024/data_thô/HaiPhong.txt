@@ -1,0 +1,993 @@
+
+
+Số báo danh: 03015500 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.20	Ngữ văn 6.25	Lịch sử 5.00	Địa lý 6.75		
+
+Số báo danh: 03015501 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 6.00	Ngoại ngữ 4.60	Vật lý 3.50	Hóa học 4.25	Sinh học 4.00		
+
+Số báo danh: 03015502 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Vật lý 7.25	Hóa học 7.00		
+
+Số báo danh: 03015503 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 6.25	Lịch sử 6.25	Địa lý 7.75		
+
+Số báo danh: 03015504 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.20	Ngữ văn 7.00	Lịch sử 7.25	Địa lý 8.75		
+
+Số báo danh: 03015505 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 7.00	Vật lý 7.50	Hóa học 4.00	Sinh học 4.50		
+
+Số báo danh: 03015506 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 5.00	Vật lý 7.50	Hóa học 5.75	Sinh học 5.75		
+
+Số báo danh: 03015507 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.60	Ngữ văn 7.50	Ngoại ngữ 2.20	Vật lý 3.00	Hóa học 3.00	Sinh học 4.75		
+
+Số báo danh: 03015508 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 6.80	Vật lý 6.00	Hóa học 8.50	Sinh học 6.75		
+
+Số báo danh: 03015509 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015510 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 6.60	Vật lý 4.75	Hóa học 3.75	Sinh học 6.00		
+
+Số báo danh: 03015511 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 6.50	Địa lý 7.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015512 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.50	Ngoại ngữ 4.20	Lịch sử 5.00	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015513 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 5.80	Vật lý 6.00	Hóa học 7.00	Sinh học 7.00		
+
+Số báo danh: 03015514 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 7.00	Vật lý 5.75	Hóa học 5.50	Sinh học 7.50		
+
+Số báo danh: 03015515 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 6.60	Vật lý 8.25	Hóa học 4.25	Sinh học 6.25		
+
+Số báo danh: 03015516 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 7.75	Ngoại ngữ 6.20	Lịch sử 6.00	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015517 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 5.20	Vật lý 7.50	Hóa học 5.00	Sinh học 5.00		
+
+Số báo danh: 03015518 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.75	Ngoại ngữ 4.80	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015519 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 3.60	Lịch sử 6.50	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015520 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 9.00	Sinh học 5.00		
+
+Số báo danh: 03015521 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 7.50	Lịch sử 5.25	Địa lý 6.25		
+
+Số báo danh: 03015522 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015523 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 3.60	Lịch sử 4.50	Địa lý 6.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015524 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 10.00	Lịch sử 6.25	Địa lý 7.50	Giáo dục công dân 7.50		
+
+Số báo danh: 03015525 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 8.25	Địa lý 7.25	Giáo dục công dân 8.25		
+
+Số báo danh: 03015526 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 4.50	Sinh học 6.25		
+
+Số báo danh: 03015527 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 8.75	Ngoại ngữ 4.60	Lịch sử 7.25	Địa lý 6.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015528 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.50	Lịch sử 5.50	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 03015529 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 4.25	Ngoại ngữ 3.40	Lịch sử 5.25	Địa lý 5.25	Giáo dục công dân 5.75		
+
+Số báo danh: 03015530 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.20	Ngữ văn 3.50	Lịch sử 3.50	Địa lý 4.50		
+
+Số báo danh: 03015531 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015532 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 7.40	Vật lý 5.75	Hóa học 3.25	Sinh học 4.75		
+
+Số báo danh: 03015533 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 8.00		
+
+Số báo danh: 03015534 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015535 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 8.00	Ngoại ngữ 5.60	Lịch sử 4.00	Địa lý 6.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015536 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015537 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 6.40	Vật lý 7.00	Hóa học 9.00	Sinh học 6.50		
+
+Số báo danh: 03015538 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 6.00	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015539 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 6.40	Vật lý 7.00	Hóa học 8.00	Sinh học 6.75		
+
+Số báo danh: 03015540 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.25	Vật lý 4.75	Hóa học 9.25	Sinh học 6.25		
+
+Số báo danh: 03015541 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.60	Ngữ văn 4.50	Lịch sử 7.00	Địa lý 7.50		
+
+Số báo danh: 03015542 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.80	Vật lý 9.50	Hóa học 6.50	Sinh học 7.75		
+
+Số báo danh: 03015543 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.20	Lịch sử 6.75	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015544 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 6.75	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 03015545 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 5.20	Lịch sử 8.25	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015546 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 8.25	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015547 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.20	Ngữ văn 6.25	Lịch sử 5.75	Địa lý 5.25		
+
+Số báo danh: 03015548 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 5.50	Vật lý 4.00	Hóa học 4.75	Sinh học 4.25		
+
+Số báo danh: 03015549 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.20	Vật lý 6.25	Hóa học 2.75	Sinh học 5.00		
+
+Số báo danh: 03015550 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 3.75	Lịch sử 3.75	Địa lý 2.25		
+
+Số báo danh: 03015551 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 9.60	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015552 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 7.25	Địa lý 6.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015553 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 7.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015554 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 7.00	Vật lý 8.75	Hóa học 5.75	Sinh học 5.75		
+
+Số báo danh: 03015555 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 6.20	Vật lý 6.75	Hóa học 5.50	Sinh học 4.75		
+
+Số báo danh: 03015556 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.00	Vật lý 6.25	Hóa học 9.00	Sinh học 9.50		
+
+Số báo danh: 03015557 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 5.40	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015558 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.00	Ngữ văn 6.75	Lịch sử 7.50	Địa lý 7.50		
+
+Số báo danh: 03015559 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.20	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 5.00	Hóa học 8.75	Sinh học 8.25		
+
+Số báo danh: 03015560 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 3.00	Lịch sử 3.50	Địa lý 6.50		
+
+Số báo danh: 03015561 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 8.00	Ngoại ngữ 5.00	Lịch sử 5.25	Địa lý 7.00	Giáo dục công dân 7.75		
+
+Số báo danh: 03015562 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 6.25	Lịch sử 6.00	Địa lý 5.50		
+
+Số báo danh: 03015563 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Vật lý 3.25	Hóa học 9.25	Sinh học 9.00		
+
+Số báo danh: 03015564 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.20	Ngữ văn 3.00	Lịch sử 3.75	Địa lý 4.25		
+
+Số báo danh: 03015565 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 6.25	Địa lý 5.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015566 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 9.60	Lịch sử 8.25	Địa lý 8.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015567 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.60	Lịch sử 7.25	Địa lý 5.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015568 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 7.80	Lịch sử 6.00	Địa lý 5.75	Giáo dục công dân 7.00		
+
+Số báo danh: 03015569 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 4.50	Lịch sử 4.25	Địa lý 5.50		
+
+Số báo danh: 03015570 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 5.75	Ngoại ngữ 3.60	Lịch sử 4.25	Địa lý 4.25	Giáo dục công dân 7.25		
+
+Số báo danh: 03015571 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 8.00	Ngoại ngữ 5.00	Lịch sử 5.75	Địa lý 5.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015572 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015573 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 9.40	Vật lý 8.75	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 03015575 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 5.75	Địa lý 6.50	Giáo dục công dân 8.00		
+
+Số báo danh: 03015576 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015577 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.75	Ngoại ngữ 8.00	Vật lý 4.50	Hóa học 4.00	Sinh học 6.25		
+
+Số báo danh: 03015578 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 7.40	Vật lý 7.00	Hóa học 8.00	Sinh học 6.75		
+
+Số báo danh: 03015579 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 5.50	Hóa học 5.50	Sinh học 5.00		
+
+Số báo danh: 03015580 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 8.25		
+
+Số báo danh: 03015581 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.00	Ngữ văn 6.00	Lịch sử 6.00	Địa lý 5.75		
+
+Số báo danh: 03015582 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 7.60	Vật lý 9.00	Hóa học 8.50	Sinh học 7.25		
+
+Số báo danh: 03015583 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 8.40	Vật lý 7.50	Hóa học 5.25	Sinh học 7.75		
+
+Số báo danh: 03015584 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.25	Ngoại ngữ 9.40	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015585 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.40	Ngữ văn 7.50	Ngoại ngữ 6.40	Lịch sử 4.75	Địa lý 6.00	Giáo dục công dân 8.00		
+
+Số báo danh: 03015586 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.50	Ngoại ngữ 7.40	Lịch sử 6.25	Địa lý 7.25	Giáo dục công dân 7.75		
+
+Số báo danh: 03015587 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.00	Vật lý 6.50	Hóa học 5.50	Sinh học 5.00		
+
+Số báo danh: 03015588 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 4.50	Hóa học 8.00	Sinh học 7.50		
+
+Số báo danh: 03015589 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 03015590 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 7.00	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015591 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 9.25	Hóa học 7.25	Sinh học 5.25		
+
+Số báo danh: 03015592 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015593 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 5.25	Lịch sử 3.50	Địa lý 6.50		
+
+Số báo danh: 03015594 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.40	Ngữ văn 5.75	Lịch sử 5.50	Địa lý 5.25		
+
+Số báo danh: 03015595 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 5.60	Vật lý 9.00	Hóa học 8.50	Sinh học 8.00		
+
+Số báo danh: 03015596 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 9.20	Vật lý 7.75	Hóa học 6.50	Sinh học 7.50		
+
+Số báo danh: 03015597 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 7.50		
+
+Số báo danh: 03015598 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 6.00	Địa lý 7.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015599 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015600 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 7.80	Lịch sử 10.00	Địa lý 9.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015601 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.00	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015602 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 6.80	Lịch sử 4.25	Địa lý 6.25	Giáo dục công dân 7.25		
+
+Số báo danh: 03015603 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.40	Ngữ văn 7.25	Lịch sử 6.00	Địa lý 7.00		
+
+Số báo danh: 03015604 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.00	Ngữ văn 7.75	Lịch sử 6.00	Địa lý 8.25		
+
+Số báo danh: 03015605 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 1.80	Ngữ văn 6.75	Lịch sử 5.25	Địa lý 6.50		
+
+Số báo danh: 03015606 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 7.50	Hóa học 8.00	Sinh học 5.25		
+
+Số báo danh: 03015607 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 9.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015608 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 8.50	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 03015609 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 6.00	Vật lý 7.75	Hóa học 7.75	Sinh học 5.50		
+
+Số báo danh: 03015610 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 7.60	Lịch sử 9.00	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015611 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 4.50	Lịch sử 5.50	Địa lý 7.50		
+
+Số báo danh: 03015612 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015613 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 5.80	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015614 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.80	Vật lý 8.25	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 03015615 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015616 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015617 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.20	Ngữ văn 8.00	Ngoại ngữ 2.00	Vật lý 4.00	Hóa học 4.75	Sinh học 4.25		
+
+Số báo danh: 03015618 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.60	Ngữ văn 4.00	Ngoại ngữ 3.60	Lịch sử 6.25	Địa lý 7.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015619 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 8.00	Ngoại ngữ 3.60	Vật lý 4.25	Hóa học 2.25	Sinh học 5.75		
+
+Số báo danh: 03015620 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 7.25	Lịch sử 4.25	Địa lý 7.00		
+
+Số báo danh: 03015621 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 5.75	Lịch sử 4.00	Địa lý 6.25		
+
+Số báo danh: 03015622 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 8.00	Hóa học 7.50	Sinh học 6.25		
+
+Số báo danh: 03015623 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 7.25	Ngoại ngữ 4.40	Vật lý 8.50	Hóa học 10.00	Sinh học 7.25		
+
+Số báo danh: 03015624 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 4.00	Lịch sử 4.25	Địa lý 6.75		
+
+Số báo danh: 03015625 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.40	Ngữ văn 5.00	Lịch sử 4.25	Địa lý 4.25		
+
+Số báo danh: 03015626 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 8.25	Lịch sử 6.50	Địa lý 7.75		
+
+Số báo danh: 03015627 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 7.50		
+
+Số báo danh: 03015628 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 7.50	Địa lý 6.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015629 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 5.50	Hóa học 4.25	Sinh học 4.00		
+
+Số báo danh: 03015630 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 9.00	Ngoại ngữ 5.60	Lịch sử 6.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015631 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015632 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015633 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Vật lý 5.75	Hóa học 9.00	Sinh học 8.50		
+
+Số báo danh: 03015634 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 7.50	Ngoại ngữ 4.40	Lịch sử 4.25	Địa lý 5.25	Giáo dục công dân 7.50		
+
+Số báo danh: 03015635 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 10.00	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015636 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 6.20	Lịch sử 6.75	Địa lý 7.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015637 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 6.00	Vật lý 7.75	Hóa học 9.25	Sinh học 7.25		
+
+Số báo danh: 03015638 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 5.75	Địa lý 6.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015639 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 8.00	Sinh học 5.25		
+
+Số báo danh: 03015640 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 5.75	Địa lý 8.50	Giáo dục công dân 8.25		
+
+Số báo danh: 03015641 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.20	Ngữ văn 8.50	Ngoại ngữ 2.40	Lịch sử 4.25	Địa lý 5.75	Giáo dục công dân 7.75		
+
+Số báo danh: 03015642 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 9.00	Địa lý 9.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015643 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 7.80	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.75		
+
+Số báo danh: 03015644 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 8.50	Lịch sử 7.75	Địa lý 9.25		
+
+Số báo danh: 03015645 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 7.40	Vật lý 9.00	Hóa học 8.75	Sinh học 7.50		
+
+Số báo danh: 03015646 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Lịch sử 5.75	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015647 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.50	Địa lý 7.75		
+
+Số báo danh: 03015648 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 5.20	Vật lý 6.25	Hóa học 8.25	Sinh học 7.00		
+
+Số báo danh: 03015649 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 7.00	Lịch sử 7.00	Địa lý 7.50		
+
+Số báo danh: 03015650 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 7.40	Vật lý 7.00	Hóa học 7.00	Sinh học 7.25		
+
+Số báo danh: 03015651 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015652 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015653 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 6.00	Lịch sử 6.75	Địa lý 6.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015654 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 7.40	Lịch sử 6.75	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015655 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 6.75	Địa lý 7.50	Giáo dục công dân 8.25		
+
+Số báo danh: 03015656 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 7.40	Lịch sử 9.50	Địa lý 8.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015657 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 6.00	Lịch sử 4.75	Địa lý 6.25		
+
+Số báo danh: 03015658 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 7.50	Vật lý 4.25	Hóa học 9.75	Sinh học 8.75		
+
+Số báo danh: 03015659 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 9.40	Vật lý 9.25	Hóa học 9.75	Sinh học 8.50		
+
+Số báo danh: 03015660 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.25	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 03015661 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 6.25	Lịch sử 4.75	Địa lý 5.50		
+
+Số báo danh: 03015662 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 8.50	Hóa học 8.00	Sinh học 7.00		
+
+Số báo danh: 03015663 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 7.00	Địa lý 9.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015664 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 8.50	Ngoại ngữ 8.60	Lịch sử 9.75	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015665 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 7.20	Lịch sử 6.25	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015667 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 9.25	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015668 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 7.80	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015669 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 7.80	Vật lý 4.75	Hóa học 8.50	Sinh học 6.25		
+
+Số báo danh: 03015670 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.75		
+
+Số báo danh: 03015671 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 9.00	Ngoại ngữ 5.80	Lịch sử 7.25	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015672 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 6.00	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015673 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015674 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.20	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015675 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015676 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.00	Lịch sử 5.50	Địa lý 7.25		
+
+Số báo danh: 03015677 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 9.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015678 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 5.20	Lịch sử 7.50	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015679 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 7.25	Hóa học 4.00	Sinh học 5.50		
+
+Số báo danh: 03015680 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 7.75	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 03015681 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.25	Địa lý 9.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015682 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 3.80	Vật lý 7.00	Hóa học 7.75	Sinh học 4.25		
+
+Số báo danh: 03015683 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.50	Ngoại ngữ 3.00	Vật lý 4.50	Hóa học 4.50	Sinh học 4.75		
+
+Số báo danh: 03015684 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 8.50	Sinh học 4.50		
+
+Số báo danh: 03015685 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 8.00	Lịch sử 6.75	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015686 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 8.00	Hóa học 5.00	Sinh học 5.25		
+
+Số báo danh: 03015687 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 7.25	Ngoại ngữ 4.60	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015688 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 5.50	Lịch sử 5.25	Địa lý 6.00		
+
+Số báo danh: 03015689 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.20	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 4.00	Địa lý 6.00	Giáo dục công dân 7.25		
+
+Số báo danh: 03015690 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 7.75	Vật lý 5.00	Hóa học 9.75	Sinh học 8.75		
+
+Số báo danh: 03015691 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015692 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.50	Vật lý 5.25	Hóa học 9.75	Sinh học 8.75		
+
+Số báo danh: 03015693 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015694 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.00	Vật lý 6.75	Hóa học 6.75	Sinh học 5.50		
+
+Số báo danh: 03015695 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 8.50	Địa lý 5.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015696 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 3.25	Lịch sử 4.75	Địa lý 6.75		
+
+Số báo danh: 03015697 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 8.60	Vật lý 7.00	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 03015698 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 6.75	Lịch sử 6.25	Địa lý 7.50		
+
+Số báo danh: 03015699 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 6.40	Lịch sử 5.50	Địa lý 6.25	Giáo dục công dân 7.25		
+
+Số báo danh: 03015700 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.25	Vật lý 5.00	Hóa học 9.00	Sinh học 9.25		
+
+Số báo danh: 03015701 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Vật lý 6.75	Hóa học 9.50	Sinh học 8.75		
+
+Số báo danh: 03015702 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.00	Lịch sử 7.25	Địa lý 9.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015703 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 5.40	Vật lý 7.75	Hóa học 9.00	Sinh học 4.50		
+
+Số báo danh: 03015704 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 7.40	Vật lý 8.75	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 03015705 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 9.60	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015706 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.60	Ngữ văn 3.25	Lịch sử 4.00	Địa lý 6.00		
+
+Số báo danh: 03015707 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 8.60	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015708 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 7.50	Ngoại ngữ 8.60	Lịch sử 6.50	Địa lý 8.25		
+
+Số báo danh: 03015709 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 3.00	Lịch sử 4.50	Địa lý 6.25		
+
+Số báo danh: 03015710 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 6.25	Ngoại ngữ 8.60	Lịch sử 6.50	Địa lý 6.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015711 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.50	Ngoại ngữ 9.20	Lịch sử 7.75	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 03015712 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 7.75	Ngoại ngữ 3.60	Lịch sử 7.75	Địa lý 6.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015713 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 8.50	Ngoại ngữ 2.40	Lịch sử 6.50	Địa lý 6.75	Giáo dục công dân 8.50		
+
+Số báo danh: 03015714 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 7.75	Ngoại ngữ 4.60	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015715 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 7.00	Vật lý 7.75	Hóa học 7.25	Sinh học 6.50		
+
+Số báo danh: 03015716 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.80	Lịch sử 6.25	Địa lý 7.75	Giáo dục công dân 8.50		
+
+Số báo danh: 03015717 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.40	Ngữ văn 6.75	Lịch sử 4.50	Địa lý 5.25		
+
+Số báo danh: 03015718 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 8.75	Ngoại ngữ 6.00	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015719 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.75	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015720 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 8.60	Lịch sử 9.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015721 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.40	Ngữ văn 9.00	Vật lý 9.00	Hóa học 6.00	Sinh học 5.75		
+
+Số báo danh: 03015722 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 6.00	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015723 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 4.75	Ngoại ngữ 7.40	Vật lý 3.75	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 03015724 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 6.50	Hóa học 8.75	Sinh học 8.50		
+
+Số báo danh: 03015725 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.00	Ngữ văn 5.50	Lịch sử 4.50	Địa lý 4.75		
+
+Số báo danh: 03015726 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 7.50	Địa lý 9.00	Giáo dục công dân 8.75		
+
+Số báo danh: 03015727 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 6.25	Lịch sử 5.25	Địa lý 6.25		
+
+Số báo danh: 03015728 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 3.80	Lịch sử 6.50	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015729 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 8.50	Địa lý 7.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015730 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 7.20	Lịch sử 7.75	Địa lý 9.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015731 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 7.00	Lịch sử 5.75	Địa lý 7.75		
+
+Số báo danh: 03015732 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 7.60	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015733 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 7.75	Ngoại ngữ 6.60	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015734 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 9.80	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015735 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 9.80	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015736 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 7.50	Lịch sử 4.75	Địa lý 6.50		
+
+Số báo danh: 03015737 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 7.00	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015738 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 7.75		
+
+Số báo danh: 03015739 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.75	Ngoại ngữ 7.60	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015740 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 9.40	Vật lý 8.00	Hóa học 2.75	Sinh học 5.50		
+
+Số báo danh: 03015741 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 9.00	Hóa học 9.00	Sinh học 8.00		
+
+Số báo danh: 03015742 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngoại ngữ 4.00	Vật lý 7.25	Hóa học 7.00	Sinh học 2.50		
+
+Số báo danh: 03015743 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.80	Lịch sử 6.25	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015744 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 6.50	Hóa học 8.75	Sinh học 6.25		
+
+Số báo danh: 03015745 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 8.50	Sinh học 6.25		
+
+Số báo danh: 03015746 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 5.00	Vật lý 8.50	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 03015747 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 7.25	Hóa học 9.50	Sinh học 6.50		
+
+Số báo danh: 03015748 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 7.25	Ngoại ngữ 7.60	Vật lý 8.00	Hóa học 4.50	Sinh học 6.00		
+
+Số báo danh: 03015749 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 8.00	Hóa học 10.00	Sinh học 7.50		
+
+Số báo danh: 03015750 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 5.75	Sinh học 6.25		
+
+Số báo danh: 03015751 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 7.00	Ngoại ngữ 2.80	Lịch sử 4.00	Địa lý 7.00	Giáo dục công dân 8.00		
+
+Số báo danh: 03015752 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 8.25	Lịch sử 9.00	Địa lý 8.25		
+
+Số báo danh: 03015753 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 7.50	Lịch sử 5.00	Địa lý 6.75		
+
+Số báo danh: 03015754 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.00	Ngữ văn 5.25	Ngoại ngữ 3.80	Lịch sử 4.25	Địa lý 6.50	Giáo dục công dân 7.25		
+
+Số báo danh: 03015755 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.25	Vật lý 7.75	Hóa học 8.50	Sinh học 7.50		
+
+Số báo danh: 03015756 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 8.00	Sinh học 6.50		
+
+Số báo danh: 03015757 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.60	Ngữ văn 6.50	Lịch sử 6.50	Địa lý 7.25		
+
+Số báo danh: 03015758 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 6.80	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 03015759 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.60	Ngữ văn 6.00	Lịch sử 5.50	Địa lý 6.50		
+
+Số báo danh: 03015760 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 5.20	Lịch sử 6.75	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015761 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 8.40	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 8.25		
+
+Số báo danh: 03015762 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 5.00	Lịch sử 8.25	Địa lý 8.00		
+
+Số báo danh: 03015763 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 6.00	Địa lý 7.75	Giáo dục công dân 7.00		
+
+Số báo danh: 03015764 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 4.00	Lịch sử 3.75	Địa lý 5.25		
+
+Số báo danh: 03015765 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 5.25	Lịch sử 5.75	Địa lý 7.25		
+
+Số báo danh: 03015766 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 9.40	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015767 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.25	Vật lý 8.25	Hóa học 5.25	Sinh học 7.00		
+
+Số báo danh: 03015768 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 7.60	Vật lý 6.75	Hóa học 4.00	Sinh học 3.25		
+
+Số báo danh: 03015769 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.80	Ngữ văn 6.50	Lịch sử 5.25	Địa lý 6.00		
+
+Số báo danh: 03015770 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 8.00		
+
+Số báo danh: 03015771 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 7.75	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 03015772 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 10.00	Vật lý 8.00	Hóa học 9.75	Sinh học 6.75		
+
+Số báo danh: 03015773 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 5.75	Địa lý 7.25	Giáo dục công dân 8.25		
+
+Số báo danh: 03015774 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 8.25	Ngoại ngữ 6.00	Lịch sử 4.25	Địa lý 6.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015775 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 03015776 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 6.20	Vật lý 8.50	Hóa học 8.00	Sinh học 6.00		
+
+Số báo danh: 03015777 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 9.40	Lịch sử 8.50	Địa lý 8.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015778 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 9.00	Hóa học 8.00	Sinh học 7.50		
+
+Số báo danh: 03015779 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 8.00	Ngoại ngữ 5.20	Lịch sử 6.50	Địa lý 6.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015780 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 3.20	Lịch sử 6.75	Địa lý 8.50		
+
+Số báo danh: 03015781 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 5.00	Lịch sử 5.00	Địa lý 8.25	Giáo dục công dân 7.75		
+
+Số báo danh: 03015782 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.25	Lịch sử 9.00	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015783 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 8.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015784 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 8.00	Lịch sử 4.75	Địa lý 6.25		
+
+Số báo danh: 03015785 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 7.75		
+
+Số báo danh: 03015786 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 9.25	Ngoại ngữ 6.60	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 7.75		
+
+Số báo danh: 03015787 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 9.50	Địa lý 9.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015788 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.40	Ngữ văn 8.00	Ngoại ngữ 1.80	Lịch sử 5.25	Địa lý 4.00	Giáo dục công dân 7.50		
+
+Số báo danh: 03015789 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 3.75	Lịch sử 3.75	Địa lý 4.00		
+
+Số báo danh: 03015790 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015791 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015792 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 9.60	Vật lý 7.00	Hóa học 6.00	Sinh học 6.00		
+
+Số báo danh: 03015793 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.60	Ngữ văn 7.50	Ngoại ngữ 1.80	Lịch sử 5.25	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015794 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 8.25	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015795 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015796 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.50		
+
+Số báo danh: 03015797 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015798 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.60	Ngữ văn 7.00	Lịch sử 5.00	Địa lý 5.00		
+
+Số báo danh: 03015799 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 7.25	Lịch sử 3.25	Địa lý 5.50		
+
+Số báo danh: 03015800 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 8.00	Lịch sử 8.50	Địa lý 6.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015801 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015802 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 8.75	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015803 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 9.25	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015804 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.60	Ngữ văn 7.50	Lịch sử 5.75	Địa lý 6.75		
+
+Số báo danh: 03015805 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.80	Ngữ văn 8.00	Vật lý 8.50	Hóa học 10.00	Sinh học 9.75		
+
+Số báo danh: 03015806 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 6.60	Vật lý 9.25	Hóa học 6.25	Sinh học 8.00		
+
+Số báo danh: 03015807 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 6.20	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015808 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 6.50	Sinh học 6.50		
+
+Số báo danh: 03015809 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 6.75	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015810 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 7.60	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 8.50		
+
+Số báo danh: 03015811 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015812 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 7.00	Ngoại ngữ 5.00	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 7.75		
+
+Số báo danh: 03015813 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.75	Lịch sử 8.25	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015814 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015815 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 9.50	Địa lý 9.50	Giáo dục công dân 9.75		
+
+Số báo danh: 03015816 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.80	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 8.50		
+
+Số báo danh: 03015817 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015818 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 5.60	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015819 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 8.75	Ngoại ngữ 7.60	Lịch sử 5.50	Địa lý 5.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015820 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015821 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 7.50	Ngoại ngữ 9.40	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 6.75		
+
+Số báo danh: 03015822 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 8.75	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015823 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 9.50	Ngoại ngữ 10.00	Lịch sử 8.00	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015824 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 7.00	Lịch sử 8.75	Địa lý 7.25		
+
+Số báo danh: 03015825 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 7.80	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 03015826 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 3.75	Lịch sử 4.00	Địa lý 5.25		
+
+Số báo danh: 03015827 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 2.60	Lịch sử 6.50	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015828 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.80	Ngữ văn 3.00	Lịch sử 2.75	Địa lý 5.00		
+
+Số báo danh: 03015829 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 6.25	Ngoại ngữ 5.60	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015830 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 9.40	Vật lý 7.50	Hóa học 8.50	Sinh học 8.00		
+
+Số báo danh: 03015831 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 7.00	Ngoại ngữ 2.80	Lịch sử 5.75	Địa lý 7.00	Giáo dục công dân 7.50		
+
+Số báo danh: 03015832 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.60	Ngữ văn 7.50	Lịch sử 3.25	Địa lý 6.75		
+
+Số báo danh: 03015833 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 7.75	Ngoại ngữ 3.20	Lịch sử 6.25	Địa lý 6.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015834 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 7.75	Ngoại ngữ 3.60	Lịch sử 5.50	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015835 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 9.60	Vật lý 8.75	Hóa học 6.00	Sinh học 6.75		
+
+Số báo danh: 03015836 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.00	Ngữ văn 6.25	Lịch sử 4.50	Địa lý 7.75		
+
+Số báo danh: 03015837 Cụm thi: 03 - Sở GDĐT Hải Phòng		Ngữ văn 1.75	Lịch sử 2.50	Địa lý 4.00		
+
+Số báo danh: 03015838 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.40	Ngữ văn 7.50	Lịch sử 5.25	Địa lý 6.50		
+
+Số báo danh: 03015839 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 7.60	Lịch sử 9.50	Địa lý 9.25	Giáo dục công dân 10.00		
+
+Số báo danh: 03015840 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 6.00	Địa lý 6.75	Giáo dục công dân 7.75		
+
+Số báo danh: 03015841 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 5.40	Vật lý 4.25	Hóa học 3.25	Sinh học 6.25		
+
+Số báo danh: 03015842 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 8.00		
+
+Số báo danh: 03015843 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 7.80	Lịch sử 6.75	Địa lý 7.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015844 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015845 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.25	Ngoại ngữ 4.80	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 7.50		
+
+Số báo danh: 03015846 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 7.50	Ngoại ngữ 1.80	Lịch sử 4.25	Địa lý 5.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015847 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 8.40	Lịch sử 6.25	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015848 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 7.50	Vật lý 6.00	Hóa học 3.25	Sinh học 5.50		
+
+Số báo danh: 03015849 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 6.75	Ngoại ngữ 6.60	Lịch sử 5.75	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 03015850 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 6.25	Ngoại ngữ 7.60	Vật lý 6.25	Hóa học 9.25	Sinh học 8.50		
+
+Số báo danh: 03015851 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.80	Lịch sử 9.00	Địa lý 8.25	Giáo dục công dân 9.75		
+
+Số báo danh: 03015852 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 5.50	Ngoại ngữ 4.00	Lịch sử 6.00	Địa lý 8.50	Giáo dục công dân 8.50		
+
+Số báo danh: 03015853 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 7.80	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.75		
+
+Số báo danh: 03015854 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 8.25	Lịch sử 6.25	Địa lý 5.75		
+
+Số báo danh: 03015855 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 6.75	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015856 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.25	Lịch sử 9.50	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015857 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.75	Ngoại ngữ 4.20	Lịch sử 5.50	Địa lý 6.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015858 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Vật lý 7.25	Hóa học 7.00	Sinh học 6.00		
+
+Số báo danh: 03015859 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 7.50	Lịch sử 4.00	Địa lý 6.25		
+
+Số báo danh: 03015860 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 5.75	Ngoại ngữ 5.00	Vật lý 6.25	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 03015861 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 9.00	Sinh học 7.00		
+
+Số báo danh: 03015862 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.60	Ngữ văn 8.00	Ngoại ngữ 4.00	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 8.00		
+
+Số báo danh: 03015863 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 9.00	Ngoại ngữ 9.80	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 03015864 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.40	Ngữ văn 6.75	Ngoại ngữ 9.60	Vật lý 9.50	Hóa học 5.00	Sinh học 6.00		
+
+Số báo danh: 03015865 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 9.00	Địa lý 8.50	Giáo dục công dân 9.75		
+
+Số báo danh: 03015866 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 4.50	Sinh học 6.50		
+
+Số báo danh: 03015868 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 7.50	Vật lý 8.75	Hóa học 8.75	Sinh học 7.75		
+
+Số báo danh: 03015869 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 7.60	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 03015870 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 7.00	Lịch sử 7.50	Địa lý 6.75	Giáo dục công dân 7.75		
+
+Số báo danh: 03015871 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.00	Ngoại ngữ 7.80	Lịch sử 4.50	Địa lý 7.25	Giáo dục công dân 6.50		
+
+Số báo danh: 03015872 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 7.25	Hóa học 7.50	Sinh học 5.25		
+
+Số báo danh: 03015873 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 8.50	Sinh học 5.75		
+
+Số báo danh: 03015874 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 8.75	Hóa học 8.50	Sinh học 6.00		
+
+Số báo danh: 03015875 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 7.00	Lịch sử 7.75	Địa lý 6.50		
+
+Số báo danh: 03015876 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 03015877 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.80	Lịch sử 8.25	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015878 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.60	Vật lý 7.50	Hóa học 9.25	Sinh học 7.75		
+
+Số báo danh: 03015879 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 10.00	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 8.50		
+
+Số báo danh: 03015880 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 9.40	Vật lý 7.25	Hóa học 4.50	Sinh học 4.75		
+
+Số báo danh: 03015881 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 7.60	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015882 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 8.75	Hóa học 8.75	Sinh học 8.50		
+
+Số báo danh: 03015883 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 6.50	Ngoại ngữ 2.40	Lịch sử 4.25	Địa lý 5.50	Giáo dục công dân 8.00		
+
+Số báo danh: 03015884 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 6.00	Ngoại ngữ 9.00	Vật lý 5.25	Hóa học 4.00	Sinh học 5.25		
+
+Số báo danh: 03015885 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.00	Ngữ văn 5.50	Lịch sử 5.00	Địa lý 4.50		
+
+Số báo danh: 03015886 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 8.50	Ngoại ngữ 3.80	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015887 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 9.00	Hóa học 7.75	Sinh học 7.50		
+
+Số báo danh: 03015888 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.20	Vật lý 8.50	Hóa học 7.50	Sinh học 5.75		
+
+Số báo danh: 03015889 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 6.40	Vật lý 8.75	Hóa học 4.25	Sinh học 6.00		
+
+Số báo danh: 03015890 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 8.25	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015891 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 6.75	Lịch sử 7.75	Địa lý 6.25		
+
+Số báo danh: 03015892 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 9.40	Lịch sử 9.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015893 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015894 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 7.25	Ngoại ngữ 4.40	Vật lý 5.25	Hóa học 4.50	Sinh học 5.50		
+
+Số báo danh: 03015895 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.40	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 8.50	Hóa học 8.25	Sinh học 7.00		
+
+Số báo danh: 03015897 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.00	Ngữ văn 1.75	Lịch sử 4.25	Địa lý 3.25		
+
+Số báo danh: 03015898 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 8.25	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 03015899 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 5.20	Vật lý 7.75	Hóa học 9.00	Sinh học 5.50		
+
+Số báo danh: 03015900 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 6.60	Vật lý 9.00	Hóa học 8.50	Sinh học 6.75		
+
+Số báo danh: 03015901 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 8.75	Địa lý 6.25	Giáo dục công dân 8.50		
+
+Số báo danh: 03015902 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 7.50	Ngoại ngữ 6.60	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015903 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 9.25	Sinh học 5.00		
+
+Số báo danh: 03015904 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 9.75	Hóa học 5.25	Sinh học 6.25		
+
+Số báo danh: 03015905 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.50	Ngoại ngữ 7.80	Lịch sử 5.75	Địa lý 9.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015906 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.80	Vật lý 8.75	Hóa học 8.75	Sinh học 9.00		
+
+Số báo danh: 03015907 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 7.50	Lịch sử 9.25	Địa lý 9.00		
+
+Số báo danh: 03015908 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.40	Ngữ văn 8.75	Ngoại ngữ 3.80	Lịch sử 6.00	Địa lý 6.00	Giáo dục công dân 7.75		
+
+Số báo danh: 03015909 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 9.75	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015910 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 6.50	Hóa học 7.50	Sinh học 6.50		
+
+Số báo danh: 03015911 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.40	Vật lý 8.50	Hóa học 8.75	Sinh học 8.25		
+
+Số báo danh: 03015912 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 10.00	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 03015913 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015914 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 8.75	Ngoại ngữ 6.40	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015915 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 03015916 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 7.50	Ngoại ngữ 3.60	Lịch sử 3.75	Địa lý 6.25	Giáo dục công dân 8.25		
+
+Số báo danh: 03015917 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 5.75	Lịch sử 4.75	Địa lý 7.00		
+
+Số báo danh: 03015918 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 8.00	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015919 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.00	Ngữ văn 5.25	Lịch sử 1.75	Địa lý 4.50		
+
+Số báo danh: 03015920 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.80	Ngữ văn 2.25	Lịch sử 4.50	Địa lý 5.75		
+
+Số báo danh: 03015921 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 4.25	Ngoại ngữ 4.60	Vật lý 3.75	Hóa học 3.75	Sinh học 1.50		
+
+Số báo danh: 03015922 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 7.50	Vật lý 8.50	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 03015923 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 7.75	Ngoại ngữ 9.80	Vật lý 8.25	Hóa học 8.75	Sinh học 8.25		
+
+Số báo danh: 03015924 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 8.00	Ngoại ngữ 3.40	Lịch sử 4.75	Địa lý 6.00	Giáo dục công dân 7.75		
+
+Số báo danh: 03015925 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 7.25	Ngoại ngữ 2.40	Lịch sử 6.50	Địa lý 6.25	Giáo dục công dân 8.75		
+
+Số báo danh: 03015926 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 03015927 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 7.50	Vật lý 7.00	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 03015928 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 8.25	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015929 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 9.00	Địa lý 10.00	Giáo dục công dân 9.25		
+
+Số báo danh: 03015930 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 8.75		
+
+Số báo danh: 03015931 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 5.00	Ngoại ngữ 9.00	Vật lý 7.00	Hóa học 5.50	Sinh học 4.00		
+
+Số báo danh: 03015932 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 9.40	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 03015933 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 9.50		
+
+Số báo danh: 03015934 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.60	Ngữ văn 7.25	Lịch sử 5.25	Địa lý 6.00		
+
+Số báo danh: 03015935 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015936 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 8.75	Sinh học 6.50		
+
+Số báo danh: 03015937 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 9.75	Địa lý 9.50	Giáo dục công dân 9.75		
+
+Số báo danh: 03015938 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 6.20	Lịch sử 7.50	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 03015939 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.75	Vật lý 3.25	Hóa học 2.00	Sinh học 3.50		
+
+Số báo danh: 03015940 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 8.50	Ngoại ngữ 3.20	Lịch sử 6.25	Địa lý 6.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015941 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.40	Vật lý 8.75	Hóa học 8.00	Sinh học 6.00		
+
+Số báo danh: 03015942 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 8.40	Vật lý 9.75	Hóa học 6.50	Sinh học 6.25		
+
+Số báo danh: 03015943 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 7.80	Vật lý 5.75	Hóa học 9.25	Sinh học 5.50		
+
+Số báo danh: 03015944 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 9.25	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 03015945 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 7.80	Lịch sử 7.50	Địa lý 6.00	Giáo dục công dân 7.25		
+
+Số báo danh: 03015946 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 7.20	Vật lý 4.50	Hóa học 7.75	Sinh học 5.25		
+
+Số báo danh: 03015947 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 7.75	Lịch sử 8.25	Địa lý 8.50		
+
+Số báo danh: 03015948 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 7.40	Lịch sử 9.50	Địa lý 8.00	Giáo dục công dân 9.50		
+
+Số báo danh: 03015949 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.40	Ngữ văn 4.00	Lịch sử 4.75	Địa lý 5.25		
+
+Số báo danh: 03015950 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.40	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 03015951 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.40	Ngữ văn 6.00	Lịch sử 3.50		
+
+Số báo danh: 03015952 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 7.00	Lịch sử 6.50	Địa lý 6.50		
+
+Số báo danh: 03015953 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.40	Ngữ văn 6.75	Lịch sử 6.75	Địa lý 7.50		
+
+Số báo danh: 03015954 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 6.20	Vật lý 7.25	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 03015955 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 5.20	Vật lý 7.25	Hóa học 8.25	Sinh học 5.25		
+
+Số báo danh: 03015956 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 3.60	Lịch sử 6.25	Địa lý 8.50	Giáo dục công dân 7.75		
+
+Số báo danh: 03015957 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 6.00	Ngoại ngữ 4.00	Vật lý 4.50	Hóa học 5.50	Sinh học 4.50		
+
+Số báo danh: 03015958 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.75	Ngoại ngữ 9.80	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 03015959 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 7.25	Ngoại ngữ 7.00	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 8.25		
+
+Số báo danh: 03015960 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 5.75	Ngoại ngữ 9.20	Vật lý 7.50	Hóa học 5.25	Sinh học 4.25		
+
+Số báo danh: 03015961 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 6.25	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 03015962 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 3.00	Lịch sử 5.25	Địa lý 6.25	Giáo dục công dân 7.25		
+
+Số báo danh: 03015963 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.80	Ngữ văn 6.25	Ngoại ngữ 2.20	Lịch sử 5.75	Địa lý 5.75	Giáo dục công dân 7.75		
+
+Số báo danh: 03015964 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.20	Ngữ văn 4.25	Ngoại ngữ 4.40	Lịch sử 4.50	Địa lý 5.50	Giáo dục công dân 7.00		
+
+Số báo danh: 03015965 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 7.75	Vật lý 7.75	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 03015966 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.20	Ngữ văn 9.00	Ngoại ngữ 9.00	Vật lý 8.25	Hóa học 5.75	Sinh học 7.25		
+
+Số báo danh: 03015967 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.60	Ngữ văn 5.75	Lịch sử 5.25	Địa lý 5.50		
+
+Số báo danh: 03015968 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.80	Ngữ văn 7.75	Ngoại ngữ 4.80	Lịch sử 4.75	Địa lý 6.00	Giáo dục công dân 8.25		
+
+Số báo danh: 03015969 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.60	Ngữ văn 3.25	Ngoại ngữ 2.80	Lịch sử 3.75	Địa lý 2.75	Giáo dục công dân 4.25		
+
+Số báo danh: 03015970 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 6.20	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 03015971 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 7.80	Vật lý 3.50	Hóa học 3.50	Sinh học 6.00		
+
+Số báo danh: 03015972 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 6.00	Sinh học 5.75		
+
+Số báo danh: 03015973 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 9.40	Vật lý 8.75	Hóa học 6.25	Sinh học 7.25		
+
+Số báo danh: 03015974 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 9.20	Vật lý 6.75	Hóa học 8.50	Sinh học 5.00		
+
+Số báo danh: 03015975 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 5.00	Ngoại ngữ 5.60	Vật lý 5.50	Hóa học 5.50	Sinh học 5.00		
+
+Số báo danh: 03015976 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 2.80	Ngữ văn 6.25	Lịch sử 4.75	Địa lý 6.75		
+
+Số báo danh: 03015977 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.80	Ngữ văn 9.25	Ngoại ngữ 10.00	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015978 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 7.00	Sinh học 5.25		
+
+Số báo danh: 03015979 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.40	Ngữ văn 4.75	Ngoại ngữ 5.20	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015980 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 9.00	Vật lý 5.25	Hóa học 7.50	Sinh học 8.00		
+
+Số báo danh: 03015981 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 4.00	Ngữ văn 7.00	Lịch sử 5.75	Địa lý 5.25		
+
+Số báo danh: 03015982 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 7.25	Hóa học 5.00	Sinh học 5.00		
+
+Số báo danh: 03015983 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 8.00	Lịch sử 7.75	Địa lý 8.25		
+
+Số báo danh: 03015984 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.20	Ngữ văn 8.00	Ngoại ngữ 2.60	Lịch sử 6.25	Địa lý 8.25	Giáo dục công dân 7.75		
+
+Số báo danh: 03015985 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 9.80	Lịch sử 7.00	Địa lý 5.25	Giáo dục công dân 9.75		
+
+Số báo danh: 03015986 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 8.25		
+
+Số báo danh: 03015987 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 7.75	Sinh học 7.50		
+
+Số báo danh: 03015988 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 3.50	Lịch sử 5.50	Địa lý 4.50		
+
+Số báo danh: 03015989 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 9.00	Ngữ văn 7.75	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 7.25	Sinh học 6.75		
+
+Số báo danh: 03015990 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.00	Ngữ văn 5.75	Lịch sử 5.75	Địa lý 6.75		
+
+Số báo danh: 03015991 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.20	Ngữ văn 6.25	Ngoại ngữ 5.00	Lịch sử 5.00	Địa lý 6.75	Giáo dục công dân 8.50		
+
+Số báo danh: 03015992 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.00	Vật lý 8.75	Hóa học 8.00	Sinh học 6.25		
+
+Số báo danh: 03015993 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 03015994 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 3.40	Ngữ văn 3.75	Lịch sử 4.25	Địa lý 5.25		
+
+Số báo danh: 03015995 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 9.20	Vật lý 5.25	Hóa học 5.50	Sinh học 4.75		
+
+Số báo danh: 03015996 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 7.50	Hóa học 9.50	Sinh học 7.50		
+
+Số báo danh: 03015997 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 6.00	Ngữ văn 7.50	Lịch sử 6.50	Địa lý 9.25		
+
+Số báo danh: 03015998 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 5.80	Ngữ văn 6.50	Ngoại ngữ 2.40	Lịch sử 5.75	Địa lý 7.50		
+
+Số báo danh: 03015999 Cụm thi: 03 - Sở GDĐT Hải Phòng		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 9.00	Vật lý 4.75	Hóa học 9.25	Sinh học 6.50		

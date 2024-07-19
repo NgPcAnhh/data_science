@@ -1,0 +1,183 @@
+import pyodbc
+import pandas as pd
+
+# Thay đổi các thông tin sau để phù hợp với môi trường của bạn
+server = 'DESKTOP-L9G0DQ6'
+database = 'phantichdiemthi'
+username = 'sa'
+password = '123456789'
+
+# Kết nối tới SQL Server
+conn = pyodbc.connect('DRIVER={SQL Server};'
+                      f'SERVER={server};'
+                      f'DATABASE={database};'
+                      f'UID={username};'
+                      f'PWD={password};'
+                      'Trusted_Connection=no;')
+
+# SQL query
+sql_query = '''
+
+SELECT 
+    'Toán' AS SubjectName,
+    Count(Case When Toán <> -1 then Toán else null  End) as SoLuong,
+    Round(AVG(CASE WHEN Toán <> -1 THEN Toán ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN Toán <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN Toán ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN Toán <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN Toán ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN Toán <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN Toán ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN Toán <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN Toán ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN Toán <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN Toán ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when Toán <= 1 then Toán else null  End) as SL_diemliet,
+    Count(Case when Toán >= 8.5 then Toán else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN Toán = 10 THEN Toán ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE Toán <> -1 
+
+UNION ALL
+
+SELECT 
+    'Ngu Van' AS SubjectName,
+    Count(Case When [Ngữ Văn] <> -1 then [Ngữ Văn] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Ngữ Văn] <> -1 THEN [Ngữ Văn] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Ngữ Văn] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Ngữ Văn] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Ngữ Văn] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Ngữ Văn] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Ngữ Văn] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Ngữ Văn] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Ngữ Văn] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Ngữ Văn] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Ngữ Văn] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Ngữ Văn] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Ngữ Văn] <= 1 then [Ngữ Văn] else null  End) as SL_diemliet,
+    Count(Case when [Ngữ Văn] >= 8.5 then [Ngữ Văn] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Ngữ Văn] = 10 THEN Toán ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Ngữ Văn] <> -1
+
+UNION ALL
+
+SELECT 
+    'Ngoai ngu' AS SubjectName,
+    Count(Case When [Ngoại ngữ] <> -1 then [Ngoại ngữ] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Ngoại ngữ] <> -1 THEN [Ngoại ngữ] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Ngoại ngữ] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Ngoại ngữ] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Ngoại ngữ] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Ngoại ngữ] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Ngoại ngữ] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Ngoại ngữ] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Ngoại ngữ] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Ngoại ngữ] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Ngoại ngữ] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Ngoại ngữ] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Ngoại ngữ] <= 1 then [Ngoại ngữ] else null  End) as SL_diemliet,
+    Count(Case when [Ngoại ngữ] >= 8.5 then [Ngoại ngữ] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Ngoại ngữ] = 10 THEN [Ngoại ngữ] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Ngoại ngữ] <> -1 
+
+UNION ALL
+
+SELECT 
+    'Hoa hoc' AS SubjectName,
+    Count(Case When [Hóa học] <> -1 then [Hóa học] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Hóa học] <> -1 THEN [Hóa học] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Hóa học] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Hóa học] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Hóa học] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Hóa học] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Hóa học] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Hóa học] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Hóa học] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Hóa học] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Hóa học] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Hóa học] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Hóa học] <= 1 then [Hóa học] else null  End) as SL_diemliet,
+    Count(Case when [Hóa học] >= 8.5 then [Hóa học] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Hóa học] = 10 THEN [Hóa học] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Hóa học] <> -1 
+
+UNION ALL
+
+SELECT 
+    'Vat ly ' AS SubjectName,
+    Count(Case When [Vật lý] <> -1 then [Vật lý] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Vật lý] <> -1 THEN [Vật lý] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Vật lý] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Vật lý] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Vật lý] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Vật lý] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Vật lý] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Vật lý] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Vật lý] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Vật lý] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Vật lý] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Vật lý] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Vật lý] <= 1 then [Vật lý] else null  End) as SL_diemliet,
+    Count(Case when [Vật lý] >= 8.5 then [Vật lý] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Vật lý] = 10 THEN [Vật lý] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Vật lý] <> -1 
+
+UNION ALL
+
+SELECT 
+    'Sinh hoc' AS SubjectName,
+    Count(Case When [Sinh học] <> -1 then [Sinh học] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Sinh học] <> -1 THEN [Sinh học] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Sinh học] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Sinh học] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Sinh học] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Sinh học] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Sinh học] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Sinh học] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Sinh học] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Sinh học] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Sinh học] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Sinh học] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Sinh học] <= 1 then [Sinh học] else null  End) as SL_diemliet,
+    Count(Case when [Sinh học] >= 8.5 then [Sinh học] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Sinh học] = 10 THEN [Sinh học] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Sinh học] <> -1 
+
+UNION ALL
+
+SELECT 
+    'Đia ly' AS SubjectName,
+    Count(Case When [Địa Lý] <> -1 then [Địa Lý] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Địa Lý] <> -1 THEN [Địa Lý] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Địa Lý] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Địa Lý] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Địa Lý] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Địa Lý] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Địa Lý] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Địa Lý] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Địa Lý] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Địa Lý] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Địa Lý] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Địa Lý] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Địa Lý] <= 1 then [Địa Lý] else null  End) as SL_diemliet,
+    Count(Case when [Địa Lý] >= 8.5 then [Địa Lý] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Địa Lý] = 10 THEN [Địa Lý] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Địa Lý] <> -1 
+
+UNION ALL
+
+SELECT 
+    'Lich su' AS SubjectName,
+    Count(Case When [Lịch sử] <> -1 then [Lịch sử] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Lịch sử] <> -1 THEN [Lịch sử] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Lịch sử] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Lịch sử] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Lịch sử] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Lịch sử] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Lịch sử] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Lịch sử] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Lịch sử] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Lịch sử] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Lịch sử] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Lịch sử] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Lịch sử] <= 1 then [Lịch sử] else null  End) as SL_diemliet,
+    Count(Case when [Lịch sử] >= 8.5 then [Lịch sử] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Lịch sử] = 10 THEN [Lịch sử] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Lịch sử] <> -1 
+
+
+UNION ALL
+
+SELECT 
+    'GDCD' AS SubjectName,
+    Count(Case When [Giáo Dục Công Dân] <> -1 then [Giáo Dục Công Dân] else null  End) as SoLuong,
+    Round(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 THEN [Giáo Dục Công Dân] ELSE NULL END),2) AS DiemTB,
+    ROUND(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 AND [Cụm thi] = '1 - S? GDÐT Hà N?i' THEN [Giáo Dục Công Dân] ELSE NULL END), 2) AS DiemTB_HN,
+    ROUND(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 AND [Cụm thi] = '03 - S? GDÐT H?i Phòng' THEN [Giáo Dục Công Dân] ELSE NULL END), 2) AS DiemTB_HP,
+    ROUND(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 AND [Cụm thi] = '04 - S? Ðà N?ng' THEN [Giáo Dục Công Dân] ELSE NULL END), 2) AS DiemTB_DN,
+    ROUND(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 AND [Cụm thi] = '25 - S? GDÐT Nam Ð?nh' THEN [Giáo Dục Công Dân] ELSE NULL END), 2) AS DiemTB_ND,
+    ROUND(AVG(CASE WHEN [Giáo Dục Công Dân] <> -1 AND [Cụm thi] = '02 - S? GDÐT TP. H? Chí Minh' THEN [Giáo Dục Công Dân] ELSE NULL END), 2) AS DiemTB_HCM,
+    Count(Case when [Giáo Dục Công Dân] <= 1 then [Giáo Dục Công Dân] else null  End) as SL_diemliet,
+    Count(Case when [Giáo Dục Công Dân] >= 8.5 then [Giáo Dục Công Dân] else null  End) as SL_diemgioi,
+    COUNT(CASE WHEN [Giáo Dục Công Dân] = 10 THEN [Giáo Dục Công Dân] ELSE NULL END) AS SL_diem10
+FROM ketquathithptqg
+WHERE [Giáo Dục Công Dân] <> -1;
+
+
+'''
+
+# Đọc kết quả từ SQL Server vào DataFrame
+df = pd.read_sql_query(sql_query, conn)
+
+# In ra DataFrame
+print(df)
+
+# Đóng kết nối
+conn.close()

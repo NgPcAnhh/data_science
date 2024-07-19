@@ -1,0 +1,1001 @@
+
+
+Số báo danh: 25001000 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 8.00	Sinh học 7.50		
+
+Số báo danh: 25001001 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 8.75	Ngoại ngữ 4.60	Vật lý 3.25	Hóa học 5.25	Sinh học 7.00		
+
+Số báo danh: 25001002 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 9.25	Ngoại ngữ 5.60	Lịch sử 9.25	Địa lý 8.75	Giáo dục công dân 8.75		
+
+Số báo danh: 25001003 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 6.20	Vật lý 7.00	Hóa học 7.75	Sinh học 6.25		
+
+Số báo danh: 25001004 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 9.50	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001005 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 7.40	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001006 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001007 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 9.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001008 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 7.75	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 25001009 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 6.00	Lịch sử 6.50	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001010 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 6.80	Lịch sử 9.50	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001011 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 8.50	Sinh học 6.75		
+
+Số báo danh: 25001012 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 6.80	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 25001013 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 7.80	Vật lý 6.25	Hóa học 8.00	Sinh học 6.50		
+
+Số báo danh: 25001014 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 7.40	Lịch sử 7.25	Địa lý 9.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001015 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 7.60	Vật lý 8.50	Hóa học 9.00	Sinh học 8.50		
+
+Số báo danh: 25001016 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 7.60	Lịch sử 9.00	Địa lý 7.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001017 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 5.60	Lịch sử 8.75	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001018 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 6.60	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001019 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 10.00		
+
+Số báo danh: 25001020 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.50	Ngoại ngữ 5.60	Lịch sử 9.00	Địa lý 7.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001021 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 5.80	Vật lý 6.75	Hóa học 5.75	Sinh học 4.25		
+
+Số báo danh: 25001022 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 8.75	Ngoại ngữ 7.60	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 25001023 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 6.40	Lịch sử 6.75	Địa lý 6.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001024 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.60	Vật lý 7.00	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 25001025 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 7.40	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 25001026 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 7.20	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001027 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 6.20	Vật lý 7.50	Hóa học 7.25	Sinh học 6.75		
+
+Số báo danh: 25001028 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 7.50	Hóa học 7.00	Sinh học 6.50		
+
+Số báo danh: 25001029 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.00	Vật lý 7.75	Hóa học 8.50	Sinh học 8.25		
+
+Số báo danh: 25001030 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 7.80	Vật lý 8.00	Hóa học 5.50	Sinh học 7.00		
+
+Số báo danh: 25001031 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 8.50	Hóa học 5.50	Sinh học 7.50		
+
+Số báo danh: 25001032 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 7.80	Vật lý 7.75	Hóa học 7.75	Sinh học 8.00		
+
+Số báo danh: 25001033 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 7.00	Vật lý 7.75	Hóa học 4.75	Sinh học 6.75		
+
+Số báo danh: 25001034 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 7.20	Lịch sử 7.75	Địa lý 9.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001035 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 3.25	Sinh học 5.00		
+
+Số báo danh: 25001036 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 8.00	Hóa học 4.50	Sinh học 6.50		
+
+Số báo danh: 25001037 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 7.20	Lịch sử 8.75	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 25001038 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 3.20	Vật lý 6.75	Hóa học 6.75	Sinh học 5.25		
+
+Số báo danh: 25001039 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 9.25	Sinh học 7.75		
+
+Số báo danh: 25001040 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 6.00	Vật lý 7.50	Hóa học 9.25	Sinh học 6.75		
+
+Số báo danh: 25001041 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.60	Vật lý 7.50	Hóa học 7.50	Sinh học 8.25		
+
+Số báo danh: 25001042 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 7.00	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 8.75		
+
+Số báo danh: 25001043 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 7.75	Sinh học 9.00		
+
+Số báo danh: 25001044 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.75	Ngoại ngữ 7.80	Vật lý 7.50	Hóa học 7.00	Sinh học 8.50		
+
+Số báo danh: 25001045 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.50	Ngoại ngữ 7.40	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 25001046 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 7.00	Vật lý 7.75	Hóa học 7.00	Sinh học 8.50		
+
+Số báo danh: 25001047 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 5.50	Sinh học 6.75		
+
+Số báo danh: 25001048 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 25001049 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.00	Vật lý 8.00	Hóa học 8.00	Sinh học 7.00		
+
+Số báo danh: 25001050 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 6.60	Vật lý 7.50	Hóa học 8.75	Sinh học 8.00		
+
+Số báo danh: 25001051 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.75	Ngoại ngữ 6.40	Lịch sử 7.75	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001052 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 4.40	Vật lý 4.75	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 25001053 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 9.20	Vật lý 7.75	Hóa học 6.75	Sinh học 8.75		
+
+Số báo danh: 25001054 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 5.25	Sinh học 7.25		
+
+Số báo danh: 25001055 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 6.00	Vật lý 7.75	Hóa học 6.75	Sinh học 4.50		
+
+Số báo danh: 25001056 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 7.80	Vật lý 8.75	Hóa học 8.50	Sinh học 8.25		
+
+Số báo danh: 25001057 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 9.00	Địa lý 9.75	Giáo dục công dân 10.00		
+
+Số báo danh: 25001058 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 7.80	Vật lý 5.00	Hóa học 8.75	Sinh học 6.00		
+
+Số báo danh: 25001059 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.80	Ngữ văn 6.50	Ngoại ngữ 7.20	Vật lý 6.25	Hóa học 3.75	Sinh học 7.75		
+
+Số báo danh: 25001060 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 6.00	Vật lý 8.00	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 25001061 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 5.20	Vật lý 8.25	Hóa học 8.00	Sinh học 5.75		
+
+Số báo danh: 25001062 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 6.40	Vật lý 7.50	Hóa học 5.25	Sinh học 8.25		
+
+Số báo danh: 25001063 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 7.40	Vật lý 8.75	Hóa học 5.25	Sinh học 6.00		
+
+Số báo danh: 25001064 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 7.75	Ngoại ngữ 4.60	Vật lý 4.50	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 25001065 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 9.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001066 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 9.00	Vật lý 7.50	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 25001067 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 7.25	Hóa học 7.75	Sinh học 7.50		
+
+Số báo danh: 25001068 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 6.40	Vật lý 8.50	Hóa học 8.50	Sinh học 7.50		
+
+Số báo danh: 25001069 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.40	Vật lý 8.25	Hóa học 6.50	Sinh học 7.75		
+
+Số báo danh: 25001070 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 8.75	Ngoại ngữ 8.00	Vật lý 5.50	Hóa học 5.00	Sinh học 7.00		
+
+Số báo danh: 25001071 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001072 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 6.00	Sinh học 7.25		
+
+Số báo danh: 25001073 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 25001074 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 6.80	Vật lý 9.25	Hóa học 6.75	Sinh học 8.00		
+
+Số báo danh: 25001075 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 25001076 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.20	Lịch sử 9.25	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001077 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 7.00	Vật lý 7.50	Hóa học 5.75	Sinh học 7.00		
+
+Số báo danh: 25001078 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 7.40	Lịch sử 9.75	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001079 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 8.20	Vật lý 6.75	Hóa học 9.00	Sinh học 8.00		
+
+Số báo danh: 25001080 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 9.00	Hóa học 8.25	Sinh học 8.50		
+
+Số báo danh: 25001081 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 6.20	Vật lý 6.50	Hóa học 7.00	Sinh học 7.00		
+
+Số báo danh: 25001082 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 8.75		
+
+Số báo danh: 25001083 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 6.80	Vật lý 3.50	Hóa học 6.25	Sinh học 7.75		
+
+Số báo danh: 25001084 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 8.50	Hóa học 7.50	Sinh học 7.75		
+
+Số báo danh: 25001085 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 7.80	Vật lý 7.50	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 25001086 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.20	Vật lý 7.50	Hóa học 5.75	Sinh học 6.75		
+
+Số báo danh: 25001087 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 10.00		
+
+Số báo danh: 25001088 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 6.00	Vật lý 8.50	Hóa học 9.75	Sinh học 6.25		
+
+Số báo danh: 25001089 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 6.80	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 25001090 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 8.25	Ngoại ngữ 8.00	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 9.75		
+
+Số báo danh: 25001091 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 9.75	Địa lý 8.50	Giáo dục công dân 9.75		
+
+Số báo danh: 25001092 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 7.75	Sinh học 8.00		
+
+Số báo danh: 25001093 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 8.75	Hóa học 5.25	Sinh học 7.25		
+
+Số báo danh: 25001094 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.20	Ngữ văn 8.00	Ngoại ngữ 5.40	Vật lý 8.75	Hóa học 9.00	Sinh học 7.75		
+
+Số báo danh: 25001095 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001096 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 25001097 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 6.40	Vật lý 7.75	Hóa học 6.75	Sinh học 6.25		
+
+Số báo danh: 25001098 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 6.00	Sinh học 6.75		
+
+Số báo danh: 25001099 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001100 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 7.75	Sinh học 7.00		
+
+Số báo danh: 25001101 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 7.50	Sinh học 7.75		
+
+Số báo danh: 25001102 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 6.60	Vật lý 6.50	Hóa học 5.00	Sinh học 6.00		
+
+Số báo danh: 25001103 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 7.80	Vật lý 8.00	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 25001104 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 9.25	Địa lý 9.25	Giáo dục công dân 9.75		
+
+Số báo danh: 25001105 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 25001106 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001107 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 7.75	Ngoại ngữ 9.40	Vật lý 8.25	Hóa học 9.00	Sinh học 8.25		
+
+Số báo danh: 25001108 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 9.25	Hóa học 8.00	Sinh học 6.25		
+
+Số báo danh: 25001109 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 5.00	Vật lý 8.25	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 25001110 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.40	Ngữ văn 7.00	Ngoại ngữ 3.00	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 7.00		
+
+Số báo danh: 25001111 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 6.40	Vật lý 9.50	Hóa học 8.25	Sinh học 7.25		
+
+Số báo danh: 25001112 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.80	Ngữ văn 8.75	Ngoại ngữ 9.40	Lịch sử 8.25	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001113 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 6.40	Vật lý 8.00	Hóa học 7.25	Sinh học 8.25		
+
+Số báo danh: 25001114 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 8.40	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 25001115 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.20	Vật lý 8.00	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 25001116 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 6.25	Hóa học 4.75	Sinh học 7.00		
+
+Số báo danh: 25001117 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 7.40	Vật lý 9.25	Hóa học 5.00	Sinh học 6.75		
+
+Số báo danh: 25001118 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 6.00	Vật lý 8.00	Hóa học 8.50	Sinh học 7.50		
+
+Số báo danh: 25001119 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 6.20	Vật lý 8.50	Hóa học 8.25	Sinh học 7.25		
+
+Số báo danh: 25001120 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 25001121 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.00	Ngoại ngữ 6.00	Vật lý 6.00	Hóa học 4.50	Sinh học 6.75		
+
+Số báo danh: 25001122 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 8.40	Vật lý 7.50	Hóa học 6.50	Sinh học 6.75		
+
+Số báo danh: 25001123 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001124 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 9.20	Vật lý 7.75	Hóa học 8.75	Sinh học 8.00		
+
+Số báo danh: 25001125 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 7.75		
+
+Số báo danh: 25001126 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 8.25	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 25001127 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 7.60	Vật lý 8.00	Hóa học 6.25	Sinh học 7.75		
+
+Số báo danh: 25001128 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.80	Vật lý 7.50	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 25001129 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 7.40	Vật lý 6.00	Hóa học 5.75	Sinh học 7.75		
+
+Số báo danh: 25001130 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 4.25	Sinh học 6.00		
+
+Số báo danh: 25001131 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 4.25	Hóa học 7.00	Sinh học 5.25		
+
+Số báo danh: 25001132 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 25001133 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.40	Vật lý 8.75	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 25001134 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 7.50	Sinh học 7.75		
+
+Số báo danh: 25001135 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 7.20	Vật lý 7.75	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 25001136 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 6.00	Vật lý 7.25	Hóa học 7.50	Sinh học 8.25		
+
+Số báo danh: 25001137 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 9.50	Ngoại ngữ 5.40	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001138 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 6.40	Vật lý 8.75	Hóa học 9.50	Sinh học 7.00		
+
+Số báo danh: 25001139 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 7.20	Vật lý 7.25	Hóa học 6.75	Sinh học 6.75		
+
+Số báo danh: 25001140 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 9.00	Ngoại ngữ 6.60	Vật lý 6.75	Hóa học 7.25	Sinh học 6.00		
+
+Số báo danh: 25001141 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 7.40	Vật lý 7.25	Hóa học 7.00	Sinh học 7.25		
+
+Số báo danh: 25001142 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 8.25	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001143 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001144 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 8.50	Sinh học 8.00		
+
+Số báo danh: 25001145 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 7.25	Sinh học 7.00		
+
+Số báo danh: 25001146 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 5.25	Sinh học 7.50		
+
+Số báo danh: 25001147 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 6.00	Ngoại ngữ 8.00	Vật lý 7.75	Hóa học 5.00	Sinh học 6.75		
+
+Số báo danh: 25001148 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 9.25	Hóa học 9.25	Sinh học 6.75		
+
+Số báo danh: 25001149 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 7.00	Vật lý 5.50	Hóa học 3.75	Sinh học 6.50		
+
+Số báo danh: 25001150 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 5.40	Vật lý 8.00	Hóa học 8.75	Sinh học 6.75		
+
+Số báo danh: 25001151 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.40	Ngữ văn 9.50	Ngoại ngữ 3.80	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 8.50		
+
+Số báo danh: 25001152 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 7.60	Vật lý 3.75	Hóa học 4.75	Sinh học 6.50		
+
+Số báo danh: 25001153 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 5.80	Vật lý 8.75	Hóa học 8.00	Sinh học 8.50		
+
+Số báo danh: 25001154 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 25001155 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 8.75	Ngoại ngữ 4.00	Vật lý 5.25	Hóa học 7.50	Sinh học 7.00		
+
+Số báo danh: 25001156 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.75	Ngoại ngữ 7.20	Lịch sử 6.50	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 25001157 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001158 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 7.00	Sinh học 7.25		
+
+Số báo danh: 25001159 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 7.60	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001160 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 6.40	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001161 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001162 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 7.00	Sinh học 6.00		
+
+Số báo danh: 25001163 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 7.60	Vật lý 8.75	Hóa học 6.50	Sinh học 6.75		
+
+Số báo danh: 25001164 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.00	Vật lý 8.25	Hóa học 8.25	Sinh học 6.00		
+
+Số báo danh: 25001165 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 25001166 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001167 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 7.40	Lịch sử 9.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001168 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 10.00		
+
+Số báo danh: 25001169 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 7.75	Sinh học 7.25		
+
+Số báo danh: 25001170 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.00	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001171 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 4.80	Vật lý 7.25	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 25001172 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 9.50	Sinh học 8.50		
+
+Số báo danh: 25001173 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 6.00	Vật lý 7.50	Hóa học 7.75	Sinh học 7.25		
+
+Số báo danh: 25001174 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 6.60	Vật lý 8.25	Hóa học 7.25	Sinh học 7.50		
+
+Số báo danh: 25001175 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 6.20	Vật lý 9.00	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 25001176 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 5.40	Vật lý 8.00	Hóa học 6.75	Sinh học 6.75		
+
+Số báo danh: 25001177 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001178 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 8.50	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001179 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 7.00	Hóa học 8.00	Sinh học 9.00		
+
+Số báo danh: 25001180 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 8.50	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001181 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 8.50	Địa lý 9.50	Giáo dục công dân 9.25		
+
+Số báo danh: 25001182 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 5.80	Vật lý 7.25	Hóa học 7.50	Sinh học 8.00		
+
+Số báo danh: 25001183 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 7.20	Vật lý 6.00	Hóa học 6.00	Sinh học 6.00		
+
+Số báo danh: 25001184 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 25001185 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.00	Sinh học 6.50		
+
+Số báo danh: 25001186 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 4.75	Sinh học 6.50		
+
+Số báo danh: 25001187 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 5.50	Ngoại ngữ 4.20	Vật lý 5.50	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 25001188 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 8.50	Sinh học 7.00		
+
+Số báo danh: 25001189 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 7.25		
+
+Số báo danh: 25001190 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001191 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 7.80	Vật lý 8.50	Hóa học 4.50	Sinh học 6.50		
+
+Số báo danh: 25001192 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 7.75	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 25001193 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 8.75	Sinh học 6.00		
+
+Số báo danh: 25001194 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 8.00	Sinh học 6.00		
+
+Số báo danh: 25001195 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 7.40	Vật lý 5.00	Hóa học 7.50	Sinh học 6.00		
+
+Số báo danh: 25001196 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 6.20	Lịch sử 9.00	Địa lý 7.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001197 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 4.40	Vật lý 7.25	Hóa học 7.75	Sinh học 6.50		
+
+Số báo danh: 25001198 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 10.00		
+
+Số báo danh: 25001199 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 7.50	Sinh học 7.75		
+
+Số báo danh: 25001200 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 5.80	Vật lý 3.50	Hóa học 6.75	Sinh học 8.00		
+
+Số báo danh: 25001201 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 5.60	Vật lý 8.25	Hóa học 7.00	Sinh học 7.75		
+
+Số báo danh: 25001202 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.40	Vật lý 9.25	Hóa học 6.50	Sinh học 8.50		
+
+Số báo danh: 25001203 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.40	Vật lý 6.75	Hóa học 7.75	Sinh học 7.50		
+
+Số báo danh: 25001204 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.75	Ngoại ngữ 7.00	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001205 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 5.75	Sinh học 7.25		
+
+Số báo danh: 25001206 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 6.60	Lịch sử 8.75	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001207 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 6.75	Hóa học 8.75	Sinh học 7.25		
+
+Số báo danh: 25001208 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 7.20	Vật lý 6.50	Hóa học 7.75	Sinh học 5.25		
+
+Số báo danh: 25001209 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 7.75	Ngoại ngữ 5.20	Lịch sử 5.00	Địa lý 5.25	Giáo dục công dân 7.75		
+
+Số báo danh: 25001210 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 9.75	Sinh học 8.25		
+
+Số báo danh: 25001211 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 7.75	Sinh học 8.00		
+
+Số báo danh: 25001212 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 6.40	Vật lý 4.25	Hóa học 9.00	Sinh học 8.50		
+
+Số báo danh: 25001213 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 7.00	Lịch sử 8.25	Địa lý 9.50	Giáo dục công dân 10.00		
+
+Số báo danh: 25001214 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 6.25	Ngoại ngữ 3.00	Vật lý 5.75	Hóa học 8.25	Sinh học 9.00		
+
+Số báo danh: 25001215 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.25	Sinh học 7.00		
+
+Số báo danh: 25001216 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 7.50	Ngoại ngữ 8.80	Vật lý 9.25	Hóa học 7.50	Sinh học 8.75		
+
+Số báo danh: 25001217 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 10.00		
+
+Số báo danh: 25001218 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 6.75	Hóa học 4.50	Sinh học 6.25		
+
+Số báo danh: 25001219 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 3.75	Hóa học 6.50	Sinh học 7.50		
+
+Số báo danh: 25001220 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 4.60	Vật lý 8.75	Hóa học 7.50	Sinh học 5.00		
+
+Số báo danh: 25001221 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 5.80	Vật lý 5.25	Hóa học 4.00	Sinh học 7.25		
+
+Số báo danh: 25001222 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 7.40	Vật lý 5.00	Hóa học 8.25	Sinh học 7.25		
+
+Số báo danh: 25001223 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 6.00	Vật lý 8.75	Hóa học 8.75	Sinh học 6.25		
+
+Số báo danh: 25001224 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.80	Ngữ văn 6.75	Ngoại ngữ 8.40	Vật lý 6.00	Hóa học 5.75	Sinh học 8.00		
+
+Số báo danh: 25001225 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 6.40	Vật lý 4.75	Hóa học 5.00	Sinh học 7.25		
+
+Số báo danh: 25001226 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 6.60	Vật lý 7.75	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 25001227 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 9.75	Địa lý 10.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001228 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 7.80	Vật lý 7.00	Hóa học 6.75	Sinh học 7.25		
+
+Số báo danh: 25001229 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 8.00	Vật lý 9.25	Hóa học 8.50	Sinh học 7.25		
+
+Số báo danh: 25001230 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 6.40	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001231 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.60	Vật lý 8.75	Hóa học 7.75	Sinh học 7.75		
+
+Số báo danh: 25001232 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 5.80	Vật lý 8.50	Hóa học 10.00	Sinh học 7.25		
+
+Số báo danh: 25001233 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 8.75	Sinh học 6.75		
+
+Số báo danh: 25001234 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 8.40	Vật lý 8.00	Hóa học 3.75	Sinh học 6.75		
+
+Số báo danh: 25001235 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 7.80	Vật lý 8.00	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 25001236 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 6.75	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 25001237 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.00	Ngữ văn 8.50	Ngoại ngữ 6.00	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 8.25		
+
+Số báo danh: 25001238 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 6.25	Hóa học 1.25	Sinh học 6.25		
+
+Số báo danh: 25001239 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 9.75	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001240 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 8.60	Vật lý 7.25	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 25001241 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 6.25	Sinh học 8.00		
+
+Số báo danh: 25001242 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 7.75	Hóa học 6.25	Sinh học 5.50		
+
+Số báo danh: 25001243 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 25001244 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 6.00	Sinh học 6.25		
+
+Số báo danh: 25001245 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 7.40	Vật lý 9.00	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 25001246 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001247 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 25001248 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.40	Vật lý 8.75	Hóa học 7.25	Sinh học 7.75		
+
+Số báo danh: 25001249 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 6.20	Vật lý 8.75	Hóa học 6.50	Sinh học 7.50		
+
+Số báo danh: 25001250 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 9.00	Ngoại ngữ 7.80	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001251 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 7.60	Lịch sử 9.25	Địa lý 9.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001252 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 4.25	Sinh học 4.50		
+
+Số báo danh: 25001253 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 25001254 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 4.60	Vật lý 7.00	Hóa học 6.25	Sinh học 6.50		
+
+Số báo danh: 25001255 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 6.60	Vật lý 7.50	Hóa học 7.25	Sinh học 7.50		
+
+Số báo danh: 25001256 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.40	Ngữ văn 6.25	Lịch sử 4.75	Địa lý 6.25		
+
+Số báo danh: 25001257 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 7.80	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 25001258 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 9.50	Giáo dục công dân 9.25		
+
+Số báo danh: 25001259 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.20	Vật lý 10.00	Hóa học 9.25	Sinh học 7.00		
+
+Số báo danh: 25001260 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.40	Ngữ văn 8.50	Lịch sử 5.50	Địa lý 7.00		
+
+Số báo danh: 25001261 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 7.80	Lịch sử 6.50	Địa lý 8.00	Giáo dục công dân 10.00		
+
+Số báo danh: 25001262 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 5.40	Vật lý 5.75	Hóa học 6.25	Sinh học 6.50		
+
+Số báo danh: 25001263 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 5.75	Sinh học 7.50		
+
+Số báo danh: 25001264 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 8.00	Lịch sử 6.00	Địa lý 6.75		
+
+Số báo danh: 25001265 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 7.25		
+
+Số báo danh: 25001266 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 5.00	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 25001267 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 6.60	Vật lý 6.75	Hóa học 7.50	Sinh học 6.50		
+
+Số báo danh: 25001268 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 5.80	Vật lý 7.50	Hóa học 8.75	Sinh học 7.50		
+
+Số báo danh: 25001269 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 9.50	Giáo dục công dân 9.75		
+
+Số báo danh: 25001270 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001271 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 8.50		
+
+Số báo danh: 25001272 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.20	Ngữ văn 5.75	Lịch sử 7.25	Địa lý 7.75		
+
+Số báo danh: 25001273 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 4.25	Sinh học 6.50		
+
+Số báo danh: 25001274 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 8.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001275 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 7.40	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001276 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 6.25	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 25001277 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001278 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 7.80	Vật lý 8.75	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 25001279 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.80	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 5.50	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 25001280 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 8.00	Lịch sử 6.25	Địa lý 6.75		
+
+Số báo danh: 25001281 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 6.00	Lịch sử 5.00	Địa lý 5.50		
+
+Số báo danh: 25001282 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 7.40	Vật lý 4.75	Hóa học 9.25	Sinh học 5.25		
+
+Số báo danh: 25001283 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 7.80	Vật lý 7.75	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 25001284 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 8.50	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001285 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 25001286 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.80	Vật lý 9.00	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 25001287 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.00	Ngữ văn 7.50	Lịch sử 7.50	Địa lý 8.25		
+
+Số báo danh: 25001288 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 7.40	Vật lý 5.75	Hóa học 3.75	Sinh học 5.00		
+
+Số báo danh: 25001289 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 6.80	Vật lý 7.50	Hóa học 8.25	Sinh học 5.50		
+
+Số báo danh: 25001290 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001291 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 9.00		
+
+Số báo danh: 25001292 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.50	Ngoại ngữ 7.80	Vật lý 5.25	Hóa học 8.25	Sinh học 6.50		
+
+Số báo danh: 25001293 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 6.00		
+
+Số báo danh: 25001294 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 6.75	Lịch sử 6.25	Địa lý 7.50		
+
+Số báo danh: 25001295 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001296 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 7.50	Lịch sử 5.00	Địa lý 6.75		
+
+Số báo danh: 25001297 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 7.50	Sinh học 7.50		
+
+Số báo danh: 25001298 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.60	Ngữ văn 6.25	Lịch sử 3.75	Địa lý 6.00		
+
+Số báo danh: 25001299 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.20	Ngữ văn 9.50	Ngoại ngữ 7.80	Vật lý 8.00	Hóa học 9.25	Sinh học 7.25		
+
+Số báo danh: 25001300 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 7.20	Lịch sử 4.25	Địa lý 6.75	Giáo dục công dân 8.50		
+
+Số báo danh: 25001301 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 6.00	Lịch sử 5.75	Địa lý 7.00		
+
+Số báo danh: 25001302 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 6.75	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001303 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 6.25	Lịch sử 4.25	Địa lý 6.25		
+
+Số báo danh: 25001304 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001305 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 8.75	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001306 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 7.80	Vật lý 8.50	Hóa học 6.25	Sinh học 6.75		
+
+Số báo danh: 25001307 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 2.20	Ngữ văn 6.50	Lịch sử 4.25	Địa lý 6.25		
+
+Số báo danh: 25001308 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001309 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 9.75		
+
+Số báo danh: 25001310 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 8.60	Lịch sử 7.25	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 25001311 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 7.60	Vật lý 8.00	Hóa học 3.25	Sinh học 7.50		
+
+Số báo danh: 25001312 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.75		
+
+Số báo danh: 25001313 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 8.60	Vật lý 6.75	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 25001314 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001315 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.00	Vật lý 8.00	Hóa học 7.25	Sinh học 6.75		
+
+Số báo danh: 25001316 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.00	Ngữ văn 8.25	Lịch sử 7.75	Địa lý 7.25		
+
+Số báo danh: 25001317 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 6.60	Vật lý 5.75	Hóa học 8.50	Sinh học 9.00		
+
+Số báo danh: 25001318 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 5.00	Sinh học 5.25		
+
+Số báo danh: 25001319 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 7.50	Lịch sử 5.25	Địa lý 5.50		
+
+Số báo danh: 25001320 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 8.50	Hóa học 4.25	Sinh học 6.25		
+
+Số báo danh: 25001321 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.20	Ngữ văn 8.25	Ngoại ngữ 5.40	Vật lý 7.75	Hóa học 8.75	Sinh học 6.50		
+
+Số báo danh: 25001322 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 2.20	Ngữ văn 2.75	Lịch sử 5.00	Địa lý 5.25		
+
+Số báo danh: 25001323 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 2.40	Ngữ văn 6.25	Lịch sử 4.50	Địa lý 7.50		
+
+Số báo danh: 25001324 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 5.75	Sinh học 7.75		
+
+Số báo danh: 25001325 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 6.00	Hóa học 8.00	Sinh học 7.00		
+
+Số báo danh: 25001326 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 5.20	Vật lý 6.75	Hóa học 8.25	Sinh học 6.25		
+
+Số báo danh: 25001327 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.60	Vật lý 8.00	Hóa học 5.25	Sinh học 5.25		
+
+Số báo danh: 25001328 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 8.75	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 25001329 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 9.25	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001330 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 6.80	Vật lý 6.75	Hóa học 7.75	Sinh học 6.25		
+
+Số báo danh: 25001331 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 8.75	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001332 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.00	Ngữ văn 8.50	Lịch sử 6.00	Địa lý 6.50		
+
+Số báo danh: 25001333 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 8.50	Lịch sử 5.75	Địa lý 6.50		
+
+Số báo danh: 25001334 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001335 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 8.50	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001336 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 4.80	Vật lý 8.25	Hóa học 7.50	Sinh học 8.25		
+
+Số báo danh: 25001337 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 7.25	Lịch sử 7.00	Địa lý 7.25		
+
+Số báo danh: 25001338 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.40	Ngữ văn 7.00	Lịch sử 7.50	Địa lý 7.25		
+
+Số báo danh: 25001339 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 8.25	Lịch sử 6.75	Địa lý 7.25		
+
+Số báo danh: 25001340 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001341 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 7.40	Lịch sử 4.75	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 25001342 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 9.80	Vật lý 9.00	Hóa học 5.50	Sinh học 7.25		
+
+Số báo danh: 25001343 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 6.50	Hóa học 5.25	Sinh học 7.00		
+
+Số báo danh: 25001344 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.00	Ngữ văn 7.75	Lịch sử 6.50	Địa lý 7.50		
+
+Số báo danh: 25001345 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 9.25	Hóa học 6.25	Sinh học 7.75		
+
+Số báo danh: 25001346 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 7.00	Địa lý 6.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001347 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 8.20	Lịch sử 7.00	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001348 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 6.00	Lịch sử 5.50	Địa lý 7.25	Giáo dục công dân 8.00		
+
+Số báo danh: 25001349 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 6.25	Sinh học 7.50		
+
+Số báo danh: 25001350 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.20	Ngữ văn 8.25	Lịch sử 7.25	Địa lý 8.25		
+
+Số báo danh: 25001351 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 8.00	Lịch sử 6.75	Địa lý 7.25		
+
+Số báo danh: 25001352 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.00	Ngữ văn 6.50	Lịch sử 5.00	Địa lý 6.00		
+
+Số báo danh: 25001353 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 4.60	Vật lý 7.25	Hóa học 7.50	Sinh học 6.50		
+
+Số báo danh: 25001354 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 4.00	Sinh học 7.25		
+
+Số báo danh: 25001355 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.00	Vật lý 8.75	Hóa học 9.00	Sinh học 6.25		
+
+Số báo danh: 25001356 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 7.50		
+
+Số báo danh: 25001357 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 8.00	Hóa học 7.50	Sinh học 8.00		
+
+Số báo danh: 25001358 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 3.00	Sinh học 6.75		
+
+Số báo danh: 25001359 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001360 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001361 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 6.20	Vật lý 7.25	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 25001362 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 5.00	Lịch sử 4.75	Địa lý 6.50		
+
+Số báo danh: 25001363 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 5.40	Vật lý 7.75	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 25001364 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 6.20	Lịch sử 6.50	Địa lý 5.75	Giáo dục công dân 8.75		
+
+Số báo danh: 25001365 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 8.25	Sinh học 6.75		
+
+Số báo danh: 25001366 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 7.60	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 9.00		
+
+Số báo danh: 25001367 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.80	Ngữ văn 6.00	Lịch sử 7.75	Địa lý 7.00		
+
+Số báo danh: 25001368 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 6.00	Sinh học 8.50		
+
+Số báo danh: 25001369 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.40	Vật lý 9.00	Hóa học 4.00	Sinh học 7.50		
+
+Số báo danh: 25001370 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 7.50	Hóa học 3.75	Sinh học 6.25		
+
+Số báo danh: 25001371 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.60	Vật lý 8.75	Hóa học 6.50	Sinh học 7.50		
+
+Số báo danh: 25001372 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 9.00	Sinh học 7.00		
+
+Số báo danh: 25001373 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 2.60	Ngữ văn 4.25	Lịch sử 5.25	Địa lý 6.75		
+
+Số báo danh: 25001374 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 5.75	Sinh học 6.50		
+
+Số báo danh: 25001375 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 2.80	Ngữ văn 8.00	Lịch sử 6.00	Địa lý 6.00		
+
+Số báo danh: 25001376 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 7.80	Vật lý 8.75	Hóa học 4.00	Sinh học 7.25		
+
+Số báo danh: 25001377 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 5.00	Vật lý 6.50	Hóa học 8.75	Sinh học 8.25		
+
+Số báo danh: 25001378 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.25	Sinh học 7.25		
+
+Số báo danh: 25001379 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 6.20	Vật lý 6.75	Hóa học 6.25	Sinh học 5.75		
+
+Số báo danh: 25001380 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 9.00	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 25001381 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.20	Ngữ văn 8.25	Lịch sử 7.50	Địa lý 7.25		
+
+Số báo danh: 25001382 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 8.00	Địa lý 9.50	Giáo dục công dân 9.75		
+
+Số báo danh: 25001383 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 9.40	Vật lý 7.25	Hóa học 5.50	Sinh học 7.25		
+
+Số báo danh: 25001384 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 3.25	Hóa học 3.25	Sinh học 6.25		
+
+Số báo danh: 25001385 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 7.00	Sinh học 8.25		
+
+Số báo danh: 25001386 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001387 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 7.50	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 25001388 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001389 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.40	Ngữ văn 4.75	Lịch sử 5.25	Địa lý 6.75		
+
+Số báo danh: 25001390 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.40	Ngữ văn 7.50	Lịch sử 7.50	Địa lý 7.50		
+
+Số báo danh: 25001391 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 5.00	Lịch sử 5.25	Địa lý 7.00		
+
+Số báo danh: 25001392 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 6.40	Lịch sử 6.75	Địa lý 8.75	Giáo dục công dân 8.75		
+
+Số báo danh: 25001393 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.80	Ngữ văn 7.50	Lịch sử 7.75	Địa lý 8.00		
+
+Số báo danh: 25001394 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.00	Ngữ văn 8.00	Ngoại ngữ 8.20	Lịch sử 5.25	Địa lý 7.75	Giáo dục công dân 8.00		
+
+Số báo danh: 25001395 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 7.25	Địa lý 8.25	Giáo dục công dân 9.50		
+
+Số báo danh: 25001396 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 9.50	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 25001397 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 7.60	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001398 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 8.00	Địa lý 8.75	Giáo dục công dân 8.25		
+
+Số báo danh: 25001399 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 6.80	Vật lý 8.75	Hóa học 7.50	Sinh học 6.75		
+
+Số báo danh: 25001400 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001401 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 5.80	Vật lý 8.50	Hóa học 9.00	Sinh học 5.50		
+
+Số báo danh: 25001402 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 8.25		
+
+Số báo danh: 25001403 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 7.60	Vật lý 7.50	Hóa học 3.00	Sinh học 5.00		
+
+Số báo danh: 25001404 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.60	Ngữ văn 7.00	Lịch sử 5.75	Địa lý 6.25		
+
+Số báo danh: 25001405 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.40	Ngữ văn 6.00	Lịch sử 4.25	Địa lý 5.50		
+
+Số báo danh: 25001406 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 7.25	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001407 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.20	Ngữ văn 6.00	Lịch sử 6.75	Địa lý 6.25		
+
+Số báo danh: 25001408 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.75		
+
+Số báo danh: 25001409 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 6.40	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001410 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 8.25	Ngoại ngữ 5.80	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 8.25		
+
+Số báo danh: 25001411 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.50	Ngoại ngữ 9.40	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.75		
+
+Số báo danh: 25001412 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001413 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 10.00	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.00		
+
+Số báo danh: 25001414 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 7.60	Lịch sử 8.75	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 25001415 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 7.75	Lịch sử 7.25	Địa lý 8.00		
+
+Số báo danh: 25001416 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 8.75	Sinh học 7.50		
+
+Số báo danh: 25001417 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.40	Ngữ văn 7.25	Lịch sử 8.50	Địa lý 8.25		
+
+Số báo danh: 25001418 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 7.20	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001419 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 25001420 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 6.50	Lịch sử 6.00	Địa lý 5.75		
+
+Số báo danh: 25001421 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.80	Ngữ văn 6.25	Lịch sử 4.75	Địa lý 6.50		
+
+Số báo danh: 25001422 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 7.60	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 25001423 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 7.60	Lịch sử 6.75	Địa lý 6.25	Giáo dục công dân 9.25		
+
+Số báo danh: 25001424 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 7.80	Lịch sử 8.00	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 25001425 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 5.50	Sinh học 7.50		
+
+Số báo danh: 25001426 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 5.40	Vật lý 7.25	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 25001427 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 5.80	Vật lý 9.00	Hóa học 7.75	Sinh học 5.00		
+
+Số báo danh: 25001428 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.75		
+
+Số báo danh: 25001429 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 6.20	Vật lý 7.50	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 25001430 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 8.50	Ngoại ngữ 8.00	Vật lý 8.00	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 25001431 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 8.20	Lịch sử 7.25	Địa lý 6.25	Giáo dục công dân 8.75		
+
+Số báo danh: 25001432 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 9.25	Sinh học 9.00		
+
+Số báo danh: 25001433 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.00	Ngữ văn 5.50	Lịch sử 6.25	Địa lý 5.50		
+
+Số báo danh: 25001434 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 7.25	Lịch sử 7.25	Địa lý 6.25		
+
+Số báo danh: 25001435 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 4.25	Sinh học 6.50		
+
+Số báo danh: 25001436 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 5.80	Vật lý 7.75	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 25001437 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 6.60	Vật lý 7.50	Hóa học 4.00	Sinh học 6.75		
+
+Số báo danh: 25001438 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 5.40	Vật lý 6.50	Hóa học 7.50	Sinh học 6.75		
+
+Số báo danh: 25001439 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 9.00	Sinh học 6.00		
+
+Số báo danh: 25001440 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 25001441 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.80	Vật lý 9.25	Hóa học 9.00	Sinh học 6.25		
+
+Số báo danh: 25001442 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 9.60	Vật lý 7.50	Hóa học 5.75	Sinh học 5.75		
+
+Số báo danh: 25001443 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 4.00	Sinh học 5.25		
+
+Số báo danh: 25001444 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 6.40	Vật lý 6.00	Hóa học 7.00	Sinh học 6.25		
+
+Số báo danh: 25001445 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 6.75	Sinh học 7.75		
+
+Số báo danh: 25001446 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 7.50	Lịch sử 6.00	Địa lý 6.75		
+
+Số báo danh: 25001447 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 8.25	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 25001448 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 3.40	Vật lý 7.75	Hóa học 6.75	Sinh học 5.75		
+
+Số báo danh: 25001449 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 7.75	Lịch sử 6.75	Địa lý 7.50		
+
+Số báo danh: 25001450 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 7.00	Hóa học 8.75	Sinh học 6.00		
+
+Số báo danh: 25001451 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 3.60	Ngữ văn 6.75	Lịch sử 4.75	Địa lý 5.50		
+
+Số báo danh: 25001452 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 9.00	Ngữ văn 7.75	Ngoại ngữ 8.40	Vật lý 9.25	Hóa học 6.50	Sinh học 7.50		
+
+Số báo danh: 25001453 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 7.50	Địa lý 9.00	Giáo dục công dân 8.50		
+
+Số báo danh: 25001454 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 10.00	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001455 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 6.25	Lịch sử 3.00	Địa lý 6.50		
+
+Số báo danh: 25001456 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.00	Ngữ văn 7.50	Lịch sử 5.75	Địa lý 7.00		
+
+Số báo danh: 25001457 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 9.40	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 8.00		
+
+Số báo danh: 25001458 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 7.75	Lịch sử 6.75	Địa lý 7.50		
+
+Số báo danh: 25001459 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.60	Ngữ văn 8.00	Ngoại ngữ 5.60	Lịch sử 4.75	Địa lý 5.75	Giáo dục công dân 7.00		
+
+Số báo danh: 25001460 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 3.00	Sinh học 6.25		
+
+Số báo danh: 25001461 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 7.00	Vật lý 8.75	Hóa học 10.00	Sinh học 4.25		
+
+Số báo danh: 25001462 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 7.40	Vật lý 8.75	Hóa học 9.00	Sinh học 8.25		
+
+Số báo danh: 25001463 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.60	Ngữ văn 7.25	Lịch sử 7.00	Địa lý 8.25		
+
+Số báo danh: 25001464 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 9.20	Vật lý 9.00	Hóa học 6.00	Sinh học 6.75		
+
+Số báo danh: 25001465 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 7.50	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001466 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.40	Vật lý 8.75	Hóa học 9.25	Sinh học 7.75		
+
+Số báo danh: 25001467 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 7.50	Hóa học 5.00	Sinh học 7.25		
+
+Số báo danh: 25001468 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.60	Ngữ văn 7.75	Ngoại ngữ 7.80	Lịch sử 7.00	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 25001469 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.75		
+
+Số báo danh: 25001470 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 8.25	Sinh học 7.25		
+
+Số báo danh: 25001471 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 9.50	Địa lý 9.00	Giáo dục công dân 9.00		
+
+Số báo danh: 25001472 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 9.40	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 9.00		
+
+Số báo danh: 25001473 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 25001474 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 9.00	Vật lý 8.25	Hóa học 6.75	Sinh học 7.75		
+
+Số báo danh: 25001475 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 5.40	Vật lý 8.25	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 25001476 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 10.00		
+
+Số báo danh: 25001477 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 9.25		
+
+Số báo danh: 25001478 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.40	Vật lý 7.00	Hóa học 3.75	Sinh học 6.75		
+
+Số báo danh: 25001479 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.60	Vật lý 8.75	Hóa học 7.75	Sinh học 8.00		
+
+Số báo danh: 25001480 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.20	Ngữ văn 8.00	Lịch sử 8.00	Địa lý 8.25		
+
+Số báo danh: 25001481 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 9.75	Địa lý 9.75	Giáo dục công dân 9.50		
+
+Số báo danh: 25001482 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.40	Ngữ văn 7.25	Lịch sử 4.75	Địa lý 5.25		
+
+Số báo danh: 25001483 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 4.20	Ngữ văn 8.00	Lịch sử 3.75	Địa lý 6.25		
+
+Số báo danh: 25001484 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 5.40	Vật lý 8.00	Hóa học 9.50	Sinh học 6.25		
+
+Số báo danh: 25001485 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.40	Ngữ văn 5.00	Lịch sử 6.75	Địa lý 5.50		
+
+Số báo danh: 25001486 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 8.00	Vật lý 8.75	Hóa học 8.50	Sinh học 7.00		
+
+Số báo danh: 25001487 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 7.75	Hóa học 8.50	Sinh học 5.75		
+
+Số báo danh: 25001488 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 8.40	Vật lý 6.75	Hóa học 4.00	Sinh học 7.25		
+
+Số báo danh: 25001489 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 8.00	Sinh học 6.00		
+
+Số báo danh: 25001490 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 6.20	Lịch sử 9.25	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 25001491 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 5.80	Ngữ văn 5.00	Lịch sử 5.75	Địa lý 7.50		
+
+Số báo danh: 25001492 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 7.20	Lịch sử 9.00	Địa lý 10.00	Giáo dục công dân 9.50		
+
+Số báo danh: 25001493 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 8.25	Lịch sử 7.50	Địa lý 8.00		
+
+Số báo danh: 25001494 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 6.40	Ngữ văn 7.25	Lịch sử 5.25	Địa lý 6.25		
+
+Số báo danh: 25001495 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.00	Ngữ văn 8.00	Lịch sử 8.25	Địa lý 9.00		
+
+Số báo danh: 25001496 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 9.00	Sinh học 6.50		
+
+Số báo danh: 25001497 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 6.40	Vật lý 6.25	Hóa học 5.50	Sinh học 6.75		
+
+Số báo danh: 25001498 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 9.00	Vật lý 7.00	Hóa học 3.75	Sinh học 5.25		
+
+Số báo danh: 25001499 Cụm thi: 25 - Sở GDĐT Nam Định		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 8.50	Sinh học 5.75		

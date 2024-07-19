@@ -1,0 +1,1240 @@
+
+Số báo danh: 01016000 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 8.40	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 8.25		
+
+Số báo danh: 01016001 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 6.75	Lịch sử 5.75	Địa lý 6.00		
+
+Số báo danh: 01016002 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 01016003 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 4.75	Sinh học 5.25		
+
+Số báo danh: 01016004 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 7.80	Lịch sử 7.25	Địa lý 8.50	Giáo dục công dân 8.00		
+
+Số báo danh: 01016005 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 9.40	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 01016006 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 8.00	Ngoại ngữ 5.40	Lịch sử 6.25	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 01016007 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 7.25	Ngoại ngữ 5.40	Lịch sử 5.75	Địa lý 6.75	Giáo dục công dân 8.25		
+
+Số báo danh: 01016008 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 6.00	Hóa học 3.50	Sinh học 6.00		
+
+Số báo danh: 01016009 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 7.80	Vật lý 8.00	Hóa học 5.25	Sinh học 6.25		
+
+Số báo danh: 01016010 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 01016011 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 9.80	Vật lý 5.75	Hóa học 5.75	Sinh học 7.75		
+
+Số báo danh: 01016012 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 8.00	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 01016013 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 7.50	Sinh học 4.75		
+
+Số báo danh: 01016014 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 01016015 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 6.80	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 01016016 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 7.50	Sinh học 7.00		
+
+Số báo danh: 01016017 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 7.40	Vật lý 7.00	Hóa học 4.50	Sinh học 7.50		
+
+Số báo danh: 01016018 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 5.25	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 6.25	Sinh học 8.00		
+
+Số báo danh: 01016019 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 8.50	Ngoại ngữ 4.80	Lịch sử 6.50	Địa lý 6.75	Giáo dục công dân 7.50		
+
+Số báo danh: 01016020 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 5.20	Vật lý 2.25	Hóa học 7.50	Sinh học 4.25		
+
+Số báo danh: 01016021 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 6.60	Lịch sử 9.75	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 01016022 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 9.00	Địa lý 8.75	Giáo dục công dân 9.00		
+
+Số báo danh: 01016023 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 7.50	Ngoại ngữ 6.20	Lịch sử 8.00	Địa lý 7.00	Giáo dục công dân 9.25		
+
+Số báo danh: 01016024 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 9.50	Giáo dục công dân 8.75		
+
+Số báo danh: 01016025 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 8.20	Vật lý 5.75	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 01016026 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 8.50	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 01016027 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 8.00	Lịch sử 4.50	Địa lý 7.75		
+
+Số báo danh: 01016028 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 8.60	Vật lý 8.00	Hóa học 7.25	Sinh học 4.75		
+
+Số báo danh: 01016029 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.25	Ngoại ngữ 3.60	Lịch sử 6.25	Địa lý 8.00		
+
+Số báo danh: 01016030 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 3.20	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 7.00		
+
+Số báo danh: 01016031 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.20	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 01016032 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 8.40	Lịch sử 7.25	Địa lý 8.75	Giáo dục công dân 8.00		
+
+Số báo danh: 01016033 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.25	Ngoại ngữ 4.60	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 01016034 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 7.25	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 01016035 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 7.00	Lịch sử 4.00	Địa lý 5.50		
+
+Số báo danh: 01016036 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 7.00	Lịch sử 4.00	Địa lý 6.75	Giáo dục công dân 8.25		
+
+Số báo danh: 01016037 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 5.00	Vật lý 7.00	Hóa học 4.75	Sinh học 5.75		
+
+Số báo danh: 01016038 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 7.00	Sinh học 6.00		
+
+Số báo danh: 01016039 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 7.75	Ngoại ngữ 7.20	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 01016040 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 9.40	Lịch sử 8.50	Địa lý 9.75	Giáo dục công dân 9.75		
+
+Số báo danh: 01016041 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 8.20	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 01016042 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 9.40	Vật lý 8.50	Hóa học 4.25	Sinh học 5.50		
+
+Số báo danh: 01016043 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 3.60	Lịch sử 6.00	Địa lý 6.50	Giáo dục công dân 7.00		
+
+Số báo danh: 01016044 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 9.00	Ngoại ngữ 6.40	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 8.50		
+
+Số báo danh: 01016045 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 9.20	Lịch sử 5.25	Địa lý 6.75	Giáo dục công dân 7.75		
+
+Số báo danh: 01016046 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 7.80	Vật lý 5.50	Hóa học 4.25	Sinh học 7.25		
+
+Số báo danh: 01016047 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 9.40	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 01016048 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 6.00	Địa lý 6.25	Giáo dục công dân 7.50		
+
+Số báo danh: 01016049 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 7.60	Vật lý 7.25	Hóa học 6.25	Sinh học 5.25		
+
+Số báo danh: 01016050 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 6.75	Lịch sử 6.75	Địa lý 7.75		
+
+Số báo danh: 01016051 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 7.25	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 01016052 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 8.25	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 01016053 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 7.00		
+
+Số báo danh: 01016054 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 9.60	Vật lý 5.75	Hóa học 7.00	Sinh học 7.75		
+
+Số báo danh: 01016055 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 7.75	Lịch sử 7.00	Địa lý 5.00		
+
+Số báo danh: 01016056 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.00	Lịch sử 4.00	Địa lý 6.00		
+
+Số báo danh: 01016057 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 7.75	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 01016058 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 6.25	Hóa học 7.50	Sinh học 8.75		
+
+Số báo danh: 01016059 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 9.40	Vật lý 8.25	Hóa học 6.25	Sinh học 7.50		
+
+Số báo danh: 01016060 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 6.20	Lịch sử 8.00	Địa lý 5.50	Giáo dục công dân 7.25		
+
+Số báo danh: 01016061 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.25		
+
+Số báo danh: 01016062 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.75	Ngoại ngữ 7.80	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.25		
+
+Số báo danh: 01016063 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 4.75	Sinh học 7.25		
+
+Số báo danh: 01016064 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 9.40	Vật lý 8.75	Hóa học 8.00	Sinh học 7.50		
+
+Số báo danh: 01016065 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 6.80	Lịch sử 6.50	Địa lý 7.00	Giáo dục công dân 7.75		
+
+Số báo danh: 01016066 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 7.50	Lịch sử 7.25	Địa lý 7.25		
+
+Số báo danh: 01016067 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 9.80	Vật lý 2.25	Hóa học 8.25	Sinh học 6.50		
+
+Số báo danh: 01016068 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 8.75		
+
+Số báo danh: 01016069 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 9.60	Vật lý 4.50	Hóa học 8.25	Sinh học 6.25		
+
+Số báo danh: 01016070 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 5.80	Lịch sử 6.00	Địa lý 5.50	Giáo dục công dân 7.25		
+
+Số báo danh: 01016071 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 01016072 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 3.75	Hóa học 7.50	Sinh học 8.50		
+
+Số báo danh: 01016073 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 8.50	Ngoại ngữ 5.00	Lịch sử 5.25	Địa lý 6.50	Giáo dục công dân 7.00		
+
+Số báo danh: 01016074 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 7.75	Giáo dục công dân 9.00		
+
+Số báo danh: 01016075 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 7.40	Lịch sử 6.50	Địa lý 5.25	Giáo dục công dân 7.75		
+
+Số báo danh: 01016076 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 7.20	Vật lý 3.50	Hóa học 2.50	Sinh học 4.00		
+
+Số báo danh: 01016077 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 8.20	Vật lý 8.00	Hóa học 7.50	Sinh học 5.25		
+
+Số báo danh: 01016078 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.75	Ngoại ngữ 9.00	Lịch sử 4.50	Địa lý 6.50	Giáo dục công dân 7.75		
+
+Số báo danh: 01016079 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 6.25	Ngoại ngữ 7.40	Vật lý 6.25	Hóa học 4.75	Sinh học 7.00		
+
+Số báo danh: 01016080 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.00	Lịch sử 7.00	Địa lý 8.25	Giáo dục công dân 8.50		
+
+Số báo danh: 01016081 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.50	Ngoại ngữ 9.20	Vật lý 7.50	Hóa học 6.25	Sinh học 7.25		
+
+Số báo danh: 01016082 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 9.00		
+
+Số báo danh: 01016083 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 8.60	Vật lý 6.75	Hóa học 9.25	Sinh học 7.25		
+
+Số báo danh: 01016084 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 8.25		
+
+Số báo danh: 01016085 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 01016086 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 01016087 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 9.60	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 9.75		
+
+Số báo danh: 01016088 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 9.00	Hóa học 8.25	Sinh học 8.25		
+
+Số báo danh: 01016089 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.00		
+
+Số báo danh: 01016090 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 8.00	Lịch sử 6.50	Địa lý 6.00	Giáo dục công dân 8.25		
+
+Số báo danh: 01016091 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 7.50	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 01016092 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 7.50		
+
+Số báo danh: 01016093 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 7.50	Lịch sử 5.50	Địa lý 5.50		
+
+Số báo danh: 01016094 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 9.80	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.50		
+
+Số báo danh: 01016095 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 6.80	Lịch sử 6.50	Địa lý 7.50	Giáo dục công dân 8.50		
+
+Số báo danh: 01016096 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.00	Ngoại ngữ 9.60	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 9.25		
+
+Số báo danh: 01016097 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 4.75	Hóa học 4.50	Sinh học 6.25		
+
+Số báo danh: 01016098 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.20	Vật lý 8.50	Hóa học 7.00	Sinh học 6.50		
+
+Số báo danh: 01016099 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 7.75	Ngoại ngữ 6.40	Vật lý 8.25	Hóa học 7.50	Sinh học 6.00		
+
+Số báo danh: 01016100 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 9.50	Địa lý 9.00	Giáo dục công dân 9.75	
+
+Số báo danh: 01016101 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 5.50	Hóa học 3.75	Sinh học 5.25	
+
+Số báo danh: 01016102 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 9.60	Lịch sử 6.25	Địa lý 5.00	Giáo dục công dân 8.00	
+
+Số báo danh: 01016103 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 4.00	Hóa học 8.25	Sinh học 6.25	
+
+Số báo danh: 01016104 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 8.00	Ngoại ngữ 2.00	Lịch sử 4.25	Địa lý 6.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01016105 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 9.00	Vật lý 8.25	Hóa học 6.75	Sinh học 7.50	
+
+Số báo danh: 01016106 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 6.00	Ngoại ngữ 4.40	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 8.00	
+
+Số báo danh: 01016107 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 9.00	Giáo dục công dân 9.50	
+
+Số báo danh: 01016108 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 4.25	Lịch sử 6.25	Địa lý 8.00	
+
+Số báo danh: 01016109 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 7.60	Lịch sử 6.25	Địa lý 5.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01016111 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 8.60	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.75	
+
+Số báo danh: 01016112 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 9.40	Vật lý 5.75	Hóa học 6.75	Sinh học 6.50	
+
+Số báo danh: 01016113 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 9.20	Vật lý 2.25	Hóa học 4.00	Sinh học 4.50	
+
+Số báo danh: 01016114 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 10.00	Lịch sử 6.75	Địa lý 7.25	Giáo dục công dân 9.50	
+
+Số báo danh: 01016115 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 9.75	Địa lý 8.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01016116 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 8.75	Hóa học 9.00	Sinh học 5.75	
+
+Số báo danh: 01016117 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.50	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 8.50	
+
+Số báo danh: 01016118 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 8.25	
+
+Số báo danh: 01016119 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 9.40	Vật lý 9.25	Hóa học 3.25	Sinh học 7.50	
+
+Số báo danh: 01016120 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 6.50	Sinh học 4.25	
+
+Số báo danh: 01016121 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.25	Lịch sử 5.75	Địa lý 7.50	
+
+Số báo danh: 01016122 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 6.40	Vật lý 4.75	Hóa học 5.25	Sinh học 5.75	
+
+Số báo danh: 01016123 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 9.60	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 8.25	
+
+Số báo danh: 01016124 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 6.50	Ngoại ngữ 5.00	Vật lý 4.00	Hóa học 5.75	Sinh học 6.00	
+
+Số báo danh: 01016125 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 7.25	Sinh học 8.25	
+
+Số báo danh: 01016126 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 6.50	Địa lý 7.25	Giáo dục công dân 8.75	
+
+Số báo danh: 01016127 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 7.80	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 8.00	
+
+Số báo danh: 01017000 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 6.75	Ngoại ngữ 7.60	Lịch sử 7.75	Địa lý 5.50	Giáo dục công dân 7.25	
+
+Số báo danh: 01017001 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 9.60	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 7.25	
+
+Số báo danh: 01017002 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017003 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 8.00	Giáo dục công dân 9.25	
+
+Số báo danh: 01017004 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 9.00	Ngoại ngữ 6.80	Lịch sử 7.00	Địa lý 8.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017005 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 8.25	
+
+Số báo danh: 01017006 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 6.80	Lịch sử 9.50	Địa lý 9.50	Giáo dục công dân 9.75	
+
+Số báo danh: 01017007 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017008 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 9.75	
+
+Số báo danh: 01017009 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 9.50	Ngoại ngữ 9.80	Lịch sử 9.00	Địa lý 8.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017010 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 9.50	Ngoại ngữ 6.20	Lịch sử 6.50	Địa lý 7.75	Giáo dục công dân 9.25	
+
+Số báo danh: 01017011 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 9.50	Ngoại ngữ 7.20	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 7.25	
+
+Số báo danh: 01017012 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 7.25	Địa lý 7.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01017013 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 6.25	Địa lý 8.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017014 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 7.80	Lịch sử 6.50	Địa lý 6.25	Giáo dục công dân 7.50	
+
+Số báo danh: 01017015 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 8.50	Ngoại ngữ 3.00	Lịch sử 6.00	Địa lý 5.75	Giáo dục công dân 7.50	
+
+Số báo danh: 01017016 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 9.40	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 9.25	
+
+Số báo danh: 01017017 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 8.25	Ngoại ngữ 3.20	Lịch sử 7.00	Địa lý 5.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017018 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.75	
+
+Số báo danh: 01017019 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 5.00	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017020 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 9.40	Lịch sử 7.25	Địa lý 8.25	Giáo dục công dân 8.75	
+
+Số báo danh: 01017021 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.25	Ngoại ngữ 9.40	Lịch sử 8.25	Địa lý 7.50	Giáo dục công dân 9.00	
+
+Số báo danh: 01017022 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 8.20	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017023 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 6.80	Lịch sử 5.75	Địa lý 5.25	Giáo dục công dân 7.50	
+
+Số báo danh: 01017024 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 7.80	Lịch sử 6.25	Địa lý 5.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017025 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 8.75	
+
+Số báo danh: 01017026 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 7.20	Lịch sử 6.75	Địa lý 5.50	Giáo dục công dân 7.25	
+
+Số báo danh: 01017027 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.75	Ngoại ngữ 5.80	Lịch sử 5.00	Địa lý 4.50	Giáo dục công dân 6.00	
+
+Số báo danh: 01017028 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 9.25	Địa lý 9.25	Giáo dục công dân 9.75	
+
+Số báo danh: 01017029 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017030 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 8.00	Ngoại ngữ 8.80	Lịch sử 5.50	Địa lý 5.50	Giáo dục công dân 8.50	
+
+Số báo danh: 01017031 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 7.00	Lịch sử 5.75	Địa lý 6.75	Giáo dục công dân 6.00	
+
+Số báo danh: 01017032 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 8.80	Lịch sử 7.00	Địa lý 6.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017033 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 6.80	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 8.00	
+
+Số báo danh: 01017034 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.50	Ngoại ngữ 7.40	Lịch sử 6.25	Địa lý 6.25	Giáo dục công dân 8.50	
+
+Số báo danh: 01017035 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 8.50	Ngoại ngữ 2.60	Lịch sử 5.50	Địa lý 6.50	Giáo dục công dân 6.25	
+
+Số báo danh: 01017036 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 9.80	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017037 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 7.75	
+
+Số báo danh: 01017038 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.80	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01017039 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017040 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 7.20	Lịch sử 7.75	Địa lý 7.25	Giáo dục công dân 8.25	
+
+Số báo danh: 01017041 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 7.25	Ngoại ngữ 4.40	Lịch sử 5.50	Địa lý 5.75	Giáo dục công dân 6.50	
+
+Số báo danh: 01017042 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 9.25	
+
+Số báo danh: 01017043 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 7.20	Lịch sử 6.00	Địa lý 7.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017044 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.80	Lịch sử 5.75	Địa lý 8.00	Giáo dục công dân 9.25	
+
+Số báo danh: 01017045 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 10.00	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017046 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.60	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 8.75	
+
+Số báo danh: 01017047 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 7.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017048 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.50	Ngoại ngữ 2.80	Lịch sử 4.75	Địa lý 5.50	Giáo dục công dân 7.50	
+
+Số báo danh: 01017049 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.20	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017050 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 9.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017051 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.40	Lịch sử 7.25	Địa lý 6.75	Giáo dục công dân 8.50	
+
+Số báo danh: 01017052 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.25	Ngoại ngữ 9.60	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017053 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 9.60	Lịch sử 6.25	Địa lý 8.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017054 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017055 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 9.50	Địa lý 8.75	Giáo dục công dân 8.25	
+
+Số báo danh: 01017056 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.50	Ngoại ngữ 8.00	Lịch sử 6.25	Địa lý 6.00	Giáo dục công dân 7.00	
+
+Số báo danh: 01017057 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 5.40	Lịch sử 6.50	Địa lý 6.50	Giáo dục công dân 7.00	
+
+Số báo danh: 01017058 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 6.80	Lịch sử 6.75	Địa lý 6.25	Giáo dục công dân 8.00	
+
+Số báo danh: 01017059 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 7.00	Lịch sử 5.25	Địa lý 6.75	Giáo dục công dân 6.00	
+
+Số báo danh: 01017060 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 7.00	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 9.75	
+
+Số báo danh: 01017061 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 7.50	Ngoại ngữ 3.60	Lịch sử 6.00	Địa lý 5.50	Giáo dục công dân 7.25	
+
+Số báo danh: 01017062 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 6.80	Lịch sử 7.25	Địa lý 7.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017063 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.50	Ngoại ngữ 7.20	Lịch sử 5.50	Địa lý 5.25	Giáo dục công dân 8.25	
+
+Số báo danh: 01017064 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 6.40	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01017065 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 4.60	Lịch sử 5.75	Địa lý 6.50	Giáo dục công dân 8.25	
+
+Số báo danh: 01017066 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 8.00	
+
+Số báo danh: 01017067 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017068 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 7.50	Địa lý 6.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017069 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.67	Ngoại ngữ 6.00	Lịch sử 8.00	Địa lý 9.00	Giáo dục công dân 8.00	
+
+Số báo danh: 01017070 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.75	Ngoại ngữ 7.40	Lịch sử 7.25	Địa lý 5.75	Giáo dục công dân 7.75	
+
+Số báo danh: 01017071 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 7.25	Địa lý 8.25	Giáo dục công dân 8.75	
+
+Số báo danh: 01017072 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 9.00	Địa lý 7.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01017073 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017074 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 8.75	Ngoại ngữ 5.20	Lịch sử 6.00	Địa lý 5.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017075 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 4.75	Địa lý 6.50	Giáo dục công dân 8.00	
+
+Số báo danh: 01017076 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.50	Ngoại ngữ 9.60	Lịch sử 9.25	Địa lý 9.75	Giáo dục công dân 9.50	
+
+Số báo danh: 01017077 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017078 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.80	Lịch sử 9.00	Địa lý 8.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017079 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.50	Ngoại ngữ 9.60	Lịch sử 7.00	Địa lý 6.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017080 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 7.60	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 8.75	
+
+Số báo danh: 01017081 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 8.00	Ngoại ngữ 6.20	Lịch sử 5.25	Địa lý 8.00	Giáo dục công dân 7.00	
+
+Số báo danh: 01017082 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 7.75	Ngoại ngữ 4.40	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 8.25	
+
+Số báo danh: 01017083 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 8.50	Địa lý 7.50	Giáo dục công dân 9.00	
+
+Số báo danh: 01017084 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 8.60	Lịch sử 7.75	Địa lý 7.75	Giáo dục công dân 9.25	
+
+Số báo danh: 01017085 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 8.25	
+
+Số báo danh: 01017086 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 7.50	Giáo dục công dân 9.50	
+
+Số báo danh: 01017087 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 8.25	Địa lý 9.00	Giáo dục công dân 9.50	
+
+Số báo danh: 01017088 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 8.75	Địa lý 9.00	Giáo dục công dân 9.25	
+
+Số báo danh: 01017089 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 7.75	
+
+Số báo danh: 01017090 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 9.40	Lịch sử 9.25	Địa lý 8.50	Giáo dục công dân 9.75	
+
+Số báo danh: 01017091 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 9.40	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017092 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 8.75	Địa lý 8.75	Giáo dục công dân 9.50	
+
+Số báo danh: 01017093 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.75	Ngoại ngữ 9.80	Lịch sử 7.50	Địa lý 8.00	Giáo dục công dân 8.50	
+
+Số báo danh: 01017094 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.25	Ngoại ngữ 9.60	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.50	
+
+Số báo danh: 01017095 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.50	Ngoại ngữ 9.20	Lịch sử 8.50	Địa lý 7.00	Giáo dục công dân 8.25	
+
+Số báo danh: 01017096 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 7.50	
+
+Số báo danh: 01017097 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 5.75	Địa lý 7.00	Giáo dục công dân 7.25	
+
+Số báo danh: 01017098 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017099 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 8.00	Địa lý 7.25	Giáo dục công dân 7.75	
+
+Số báo danh: 01017100 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 4.40	Lịch sử 5.50	Địa lý 8.00	Giáo dục công dân 8.25	
+
+Số báo danh: 01017101 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 9.75	Địa lý 7.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017102 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.80	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 8.25	
+
+Số báo danh: 01017103 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 6.50	Địa lý 8.00	Giáo dục công dân 8.25	
+
+Số báo danh: 01017104 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 9.25	Địa lý 7.75	Giáo dục công dân 9.75	
+
+Số báo danh: 01017105 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 8.75	Ngoại ngữ 6.40	Lịch sử 5.50	Địa lý 6.00	Giáo dục công dân 7.25	
+
+Số báo danh: 01017106 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 8.75	
+
+Số báo danh: 01017107 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.00	
+
+Số báo danh: 01017108 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.50	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.25	
+
+Số báo danh: 01017109 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 7.00	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 8.25	
+
+Số báo danh: 01017110 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 8.00	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 8.75	
+
+Số báo danh: 01017111 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017112 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 9.00	Địa lý 9.00	Giáo dục công dân 9.25	
+
+Số báo danh: 01017113 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 6.75	Địa lý 7.00	Giáo dục công dân 8.00	
+
+Số báo danh: 01017114 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017115 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017116 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.25	Ngoại ngữ 9.80	Lịch sử 9.25	Địa lý 9.75	Giáo dục công dân 9.25	
+
+Số báo danh: 01017117 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 7.00	Địa lý 7.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017118 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 8.50	Địa lý 8.00	Giáo dục công dân 8.75	
+
+Số báo danh: 01017119 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 8.50	
+
+Số báo danh: 01017120 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 9.00	Lịch sử 8.75	Địa lý 9.50	Giáo dục công dân 9.50	
+
+Số báo danh: 01017121 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 9.20	Lịch sử 6.75	Địa lý 8.25	Giáo dục công dân 7.25	
+
+Số báo danh: 01017122 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 9.00	Ngoại ngữ 8.80	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 8.25	
+
+Số báo danh: 01017123 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 9.75	Địa lý 9.25	Giáo dục công dân 9.25	
+
+Số báo danh: 01017124 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.25	Ngoại ngữ 8.20	Lịch sử 6.50	Địa lý 8.25	Giáo dục công dân 8.50	
+
+Số báo danh: 01017125 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.00	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 9.25	Giáo dục công dân 9.00	
+
+Số báo danh: 01017126 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 7.60	Lịch sử 7.50	Địa lý 6.75	Giáo dục công dân 7.50	
+
+Số báo danh: 01017127 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 8.80	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.50	
+
+Số báo danh: 01017128 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 8.60	Lịch sử 8.25	Địa lý 8.00	Giáo dục công dân 9.00	
+
+Số báo danh: 01017129 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 9.00	Ngoại ngữ 8.20	Lịch sử 4.25	Địa lý 7.00	Giáo dục công dân 8.00	
+
+Số báo danh: 01017130 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.50	Ngoại ngữ 7.40	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.75	
+
+Số báo danh: 01017131 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 9.80	Lịch sử 8.25	Địa lý 8.75	Giáo dục công dân 9.75	
+
+Số báo danh: 01017132 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017133 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 8.60	Lịch sử 8.75	Địa lý 9.50	Giáo dục công dân 8.75
+
+Số báo danh: 01017134 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 6.80	Lịch sử 6.25	Địa lý 6.75	Giáo dục công dân 8.75
+
+Số báo danh: 01017135 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 9.20	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.75
+
+Số báo danh: 01017136 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 8.80	Lịch sử 9.25	Địa lý 9.00	Giáo dục công dân 9.50
+
+Số báo danh: 01017137 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 9.25	Ngoại ngữ 9.20	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.00
+
+Số báo danh: 01017138 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 8.00	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 8.75
+
+Số báo danh: 01017139 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 5.00	Lịch sử 4.50	Địa lý 3.25	
+
+Số báo danh: 01017140 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.50	Lịch sử 6.00	Địa lý 5.50	
+
+Số báo danh: 01017141 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 5.50	Lịch sử 5.25	Địa lý 5.50	
+
+Số báo danh: 01017142 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 5.25	Lịch sử 4.50	Địa lý 5.00	
+
+Số báo danh: 01017143 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 6.50	Lịch sử 7.75	Địa lý 7.50	
+
+Số báo danh: 01017144 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 3.75	Lịch sử 3.75	Địa lý 5.75	
+
+Số báo danh: 01017145 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 7.00	Lịch sử 4.25	Địa lý 6.00	
+
+Số báo danh: 01017146 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 8.00	Lịch sử 6.75	Địa lý 7.25	
+
+Số báo danh: 01017147 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.75	Lịch sử 4.00	Địa lý 4.75	
+
+Số báo danh: 01017148 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 8.25	Lịch sử 5.50	Địa lý 7.75	
+
+Số báo danh: 01017149 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 5.75	Lịch sử 4.75	Địa lý 6.25	
+
+Số báo danh: 01017150 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.80	Ngữ văn 2.25	Lịch sử 3.75	Địa lý 5.00	
+
+Số báo danh: 01017151 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 6.25	Lịch sử 6.75	Địa lý 5.50	
+
+Số báo danh: 01017152 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 6.25	Lịch sử 5.75	Địa lý 7.00	
+
+Số báo danh: 01017153 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 4.00	Lịch sử 3.25	Địa lý 6.25	
+
+Số báo danh: 01017154 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 4.25	Lịch sử 6.00	Địa lý 4.75	
+
+Số báo danh: 01017155 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.00	Lịch sử 5.75	Địa lý 7.00	
+
+Số báo danh: 01017156 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 7.00	Lịch sử 9.75	Địa lý 7.75	
+
+Số báo danh: 01017157 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 8.25	Lịch sử 6.75	Địa lý 7.25	
+
+Số báo danh: 01017158 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.75	Lịch sử 6.25	Địa lý 7.50	
+
+Số báo danh: 01017159 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.75	Lịch sử 6.25	Địa lý 7.25	
+
+Số báo danh: 01017160 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.50	Lịch sử 8.00	Địa lý 9.00	
+
+Số báo danh: 01017161 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 6.75	Lịch sử 7.75	Địa lý 8.50	
+
+Số báo danh: 01017162 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 4.00	Lịch sử 7.75	Địa lý 7.75	
+
+Số báo danh: 01017163 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.40	Ngữ văn 4.00	Lịch sử 3.00	Địa lý 3.50	
+
+Số báo danh: 01017164 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 6.50	Lịch sử 4.25	Địa lý 5.25	
+
+Số báo danh: 01017165 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.25	Lịch sử 3.25	Địa lý 5.25	
+
+Số báo danh: 01017166 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.00	Lịch sử 6.25	Địa lý 5.75	
+
+Số báo danh: 01017167 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 7.00	Lịch sử 4.25	Địa lý 5.00	
+
+Số báo danh: 01017168 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 8.25	Lịch sử 6.50	Địa lý 6.25	
+
+Số báo danh: 01017169 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 6.75	Lịch sử 5.25	Địa lý 5.00	
+
+Số báo danh: 01017170 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.00	Lịch sử 6.75	Địa lý 7.50	
+
+Số báo danh: 01017171 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.75	Lịch sử 6.00	Địa lý 6.50	
+
+Số báo danh: 01017172 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 8.25	Lịch sử 5.75	Địa lý 6.50	
+
+Số báo danh: 01017173 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 6.25	Lịch sử 3.75	Địa lý 7.75	
+
+Số báo danh: 01017174 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 5.75	Lịch sử 6.50	Địa lý 7.75	
+
+Số báo danh: 01017175 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 3.25	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017176 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 3.00	Lịch sử 3.00	Địa lý 4.00	
+
+Số báo danh: 01017177 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 8.00	Lịch sử 6.00	Địa lý 6.75	
+
+Số báo danh: 01017178 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.00	Lịch sử 5.75	Địa lý 5.75	
+
+Số báo danh: 01017179 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 4.75	Lịch sử 4.75	Địa lý 6.75	
+
+Số báo danh: 01017180 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 7.25	Lịch sử 7.25	Địa lý 7.00	
+
+Số báo danh: 01017181 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 5.00	Lịch sử 7.25	Địa lý 6.25	
+
+Số báo danh: 01017182 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 8.00	Lịch sử 6.00	Địa lý 7.25	
+
+Số báo danh: 01017183 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.25	Lịch sử 5.50	Địa lý 7.75	
+
+Số báo danh: 01017184 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.20	Ngữ văn 5.58	Lịch sử 4.75	Địa lý 5.75	
+
+Số báo danh: 01017185 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 4.50	Lịch sử 3.75	Địa lý 4.50	
+
+Số báo danh: 01017186 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.00	Lịch sử 8.50	Địa lý 7.25	
+
+Số báo danh: 01017187 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 5.75	Lịch sử 3.50	Địa lý 4.25	
+
+Số báo danh: 01017188 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 7.00	Lịch sử 4.25	Địa lý 5.50	
+
+Số báo danh: 01017189 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 6.75	Lịch sử 7.00	Địa lý 6.25	
+
+Số báo danh: 01017190 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 2.00	Lịch sử 6.25	Địa lý 8.50	
+
+Số báo danh: 01017191 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 7.25	Lịch sử 7.75	Địa lý 6.50	
+
+Số báo danh: 01017192 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 4.50	
+
+Số báo danh: 01017193 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 7.25	Lịch sử 6.00	Địa lý 7.00	
+
+Số báo danh: 01017194 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.20	Ngữ văn 5.00	Lịch sử 5.25	Địa lý 6.25	
+
+Số báo danh: 01017195 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 7.50	Lịch sử 7.75	Địa lý 6.75	
+
+Số báo danh: 01017196 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.50	Lịch sử 7.50	Địa lý 8.25	
+
+Số báo danh: 01017197 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 6.25	Lịch sử 3.75	Địa lý 5.75	
+
+Số báo danh: 01017198 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 5.75	Lịch sử 7.50	Địa lý 8.00	
+
+Số báo danh: 01017199 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 7.25	
+
+Số báo danh: 01017200 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 5.25	Lịch sử 4.00	Địa lý 6.25	
+
+Số báo danh: 01017201 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 8.00	Lịch sử 7.50	Địa lý 7.50	
+
+Số báo danh: 01017202 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.00	Lịch sử 7.25	Địa lý 5.75	
+
+Số báo danh: 01017203 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 6.25	Lịch sử 5.25	Địa lý 7.50	
+
+Số báo danh: 01017204 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 5.00	Lịch sử 4.00	Địa lý 5.50	
+
+Số báo danh: 01017205 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 4.00	Lịch sử 4.25	Địa lý 6.50	
+
+Số báo danh: 01017206 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 4.00	Lịch sử 6.50	Địa lý 7.50	
+
+Số báo danh: 01017207 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.80	Ngữ văn 4.00	Lịch sử 6.25	Địa lý 6.25	
+
+Số báo danh: 01017208 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.25	Lịch sử 6.25	Địa lý 5.25	
+
+Số báo danh: 01017209 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 8.00	Lịch sử 7.50	Địa lý 8.00	
+
+Số báo danh: 01017210 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 5.00	Lịch sử 3.00	Địa lý 4.25	
+
+Số báo danh: 01017211 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.40	Ngữ văn 7.00	Lịch sử 3.75	Địa lý 4.75	
+
+Số báo danh: 01017212 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 5.75	Lịch sử 4.75	Địa lý 4.25	
+
+Số báo danh: 01017213 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 5.25	Lịch sử 5.75	Địa lý 7.75	
+
+Số báo danh: 01017214 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 7.75	Lịch sử 6.00	Địa lý 6.50	
+
+Số báo danh: 01017216 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 6.50	Lịch sử 8.25	Địa lý 6.25	
+
+Số báo danh: 01017217 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.75	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017219 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 6.50	Lịch sử 5.50	Địa lý 5.25	
+
+Số báo danh: 01017220 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 7.00	Lịch sử 5.25	Địa lý 6.50	
+
+Số báo danh: 01017221 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 7.00	Lịch sử 3.50	Địa lý 4.75	
+
+Số báo danh: 01017222 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 4.50	Lịch sử 4.75	Địa lý 5.00	
+
+Số báo danh: 01017223 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 7.50	Lịch sử 7.25	Địa lý 5.75	
+
+Số báo danh: 01017224 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 7.25	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017225 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 4.25	Lịch sử 8.00	Địa lý 7.50	
+
+Số báo danh: 01017226 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 6.00	Lịch sử 5.75	Địa lý 7.50	
+
+Số báo danh: 01017227 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.50	Lịch sử 5.25	Địa lý 5.50	
+
+Số báo danh: 01017228 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 7.50	Lịch sử 7.25	Địa lý 8.25	
+
+Số báo danh: 01017229 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 5.00	Lịch sử 2.75	Địa lý 6.00	
+
+Số báo danh: 01017230 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 8.00	Lịch sử 5.00	Địa lý 5.75	
+
+Số báo danh: 01017231 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 5.50	Lịch sử 3.25	Địa lý 4.00	
+
+Số báo danh: 01017232 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 6.75	Lịch sử 6.50	Địa lý 6.75	
+
+Số báo danh: 01017233 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 5.75	Lịch sử 7.25	Địa lý 7.25	
+
+Số báo danh: 01017234 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 7.25	Lịch sử 6.75	Địa lý 7.25	
+
+Số báo danh: 01017235 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 4.50	Lịch sử 5.50	Địa lý 5.25	
+
+Số báo danh: 01017236 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 6.75	Lịch sử 4.25	Địa lý 5.00	
+
+Số báo danh: 01017237 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 4.25	Lịch sử 4.00	Địa lý 5.25	
+
+Số báo danh: 01017238 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.75	Lịch sử 7.25	Địa lý 7.75	
+
+Số báo danh: 01017239 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.80	Ngữ văn 4.00	Lịch sử 4.00	Địa lý 5.25	
+
+Số báo danh: 01017240 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 6.75	Lịch sử 6.25	Địa lý 7.25	
+
+Số báo danh: 01017241 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 3.75	Lịch sử 4.75	Địa lý 3.00	
+
+Số báo danh: 01017242 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 6.83	Lịch sử 6.75	Địa lý 6.75	
+
+Số báo danh: 01017243 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 7.25	Lịch sử 6.75	Địa lý 6.00	
+
+Số báo danh: 01017244 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 5.50	Lịch sử 5.50	Địa lý 5.25	
+
+Số báo danh: 01017245 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.75	Lịch sử 6.00	Địa lý 7.25	
+
+Số báo danh: 01017246 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 5.25	Lịch sử 4.75	Địa lý 7.25	
+
+Số báo danh: 01017247 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.75	Lịch sử 7.00	Địa lý 8.00	
+
+Số báo danh: 01017248 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 5.25	Lịch sử 5.75	Địa lý 7.00	
+
+Số báo danh: 01017249 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 8.00	Lịch sử 8.50	Địa lý 6.50	
+
+Số báo danh: 01017250 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 7.75	Lịch sử 6.00	Địa lý 7.75	
+
+Số báo danh: 01017251 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 5.25	Lịch sử 6.25	Địa lý 7.25	
+
+Số báo danh: 01017252 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.75	Lịch sử 7.00	Địa lý 7.50	
+
+Số báo danh: 01017253 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 7.75	Lịch sử 7.00	Địa lý 7.25	
+
+Số báo danh: 01017254 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 8.00	Lịch sử 6.50	Địa lý 7.25	
+
+Số báo danh: 01017255 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 4.00	Lịch sử 5.25	Địa lý 5.75	
+
+Số báo danh: 01017256 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 5.25	
+
+Số báo danh: 01017257 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.00	Lịch sử 5.75	Địa lý 6.25	
+
+Số báo danh: 01017258 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 3.75	Lịch sử 6.75	Địa lý 5.75	
+
+Số báo danh: 01017259 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.25	Lịch sử 6.25	Địa lý 6.50	
+
+Số báo danh: 01017260 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 7.00	Lịch sử 5.25	Địa lý 4.25	
+
+Số báo danh: 01017261 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 5.50	Lịch sử 6.25	Địa lý 7.50	
+
+Số báo danh: 01017262 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 6.00	Lịch sử 3.75	Địa lý 6.25	
+
+Số báo danh: 01017263 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 8.75	Lịch sử 9.50	Địa lý 8.75	
+
+Số báo danh: 01017264 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 5.00	Lịch sử 5.25	Địa lý 5.00	
+
+Số báo danh: 01017265 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 6.25	Lịch sử 7.00	Địa lý 6.75	
+
+Số báo danh: 01017266 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 4.00	Lịch sử 5.75	Địa lý 6.00	
+
+Số báo danh: 01017267 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 6.00	Lịch sử 6.50	Địa lý 5.25	
+
+Số báo danh: 01017268 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 6.50	Lịch sử 5.50	Địa lý 6.25	
+
+Số báo danh: 01017269 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 5.50	Lịch sử 4.25	Địa lý 5.75	
+
+Số báo danh: 01017270 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 5.50	Lịch sử 4.50	Địa lý 4.75	
+
+Số báo danh: 01017271 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 7.00	Lịch sử 6.25	Địa lý 7.00	
+
+Số báo danh: 01017272 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 8.00	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017273 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 7.50	Lịch sử 3.75	Địa lý 7.25	
+
+Số báo danh: 01017274 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.50	Lịch sử 7.00	Địa lý 8.00	
+
+Số báo danh: 01017275 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.00	Lịch sử 4.00	Địa lý 7.50	
+
+Số báo danh: 01017276 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 6.00	Lịch sử 6.50	Địa lý 5.75	
+
+Số báo danh: 01017277 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 6.50	Lịch sử 6.00	Địa lý 6.00	
+
+Số báo danh: 01017278 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 4.00	Lịch sử 6.50	Địa lý 6.75	
+
+Số báo danh: 01017279 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 5.25	Lịch sử 6.25	Địa lý 6.50	
+
+Số báo danh: 01017280 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 5.75	Lịch sử 5.00	Địa lý 5.00	
+
+Số báo danh: 01017281 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 8.75	Lịch sử 7.25	Địa lý 7.00	
+
+Số báo danh: 01017282 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 8.25	Lịch sử 9.25	Địa lý 6.75	
+
+Số báo danh: 01017283 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 7.50	Lịch sử 6.00	Địa lý 6.50	
+
+Số báo danh: 01017284 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 7.50	Lịch sử 4.25	Địa lý 5.50	
+
+Số báo danh: 01017285 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 3.75	Lịch sử 5.50	Địa lý 6.50	
+
+Số báo danh: 01017286 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 5.75	
+
+Số báo danh: 01017287 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 6.75	Lịch sử 4.75	Địa lý 5.50	
+
+Số báo danh: 01017288 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 6.50	Lịch sử 5.25	Địa lý 5.00	
+
+Số báo danh: 01017289 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 6.25	Lịch sử 4.25	Địa lý 4.00	
+
+Số báo danh: 01017290 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.75	Lịch sử 5.75	Địa lý 7.50	
+
+Số báo danh: 01017291 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 6.25	Lịch sử 6.50	Địa lý 8.00	
+
+Số báo danh: 01017292 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 7.25	
+
+Số báo danh: 01017293 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.00	Ngữ văn 6.25	Lịch sử 5.25	Địa lý 5.75	
+
+Số báo danh: 01017294 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.20	Ngữ văn 8.25	Lịch sử 7.50	Địa lý 8.50	
+
+Số báo danh: 01017295 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 5.75	Lịch sử 7.00	Địa lý 6.75	
+
+Số báo danh: 01017296 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.25	Lịch sử 6.75	Địa lý 7.00	
+
+Số báo danh: 01017297 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 7.25	Lịch sử 5.00	Địa lý 5.75	
+
+Số báo danh: 01017298 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 5.50	Lịch sử 5.00	Địa lý 6.25	
+
+Số báo danh: 01017299 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 7.00	Lịch sử 5.50	Địa lý 7.50	
+
+Số báo danh: 01017300 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 4.75	Lịch sử 5.25	Địa lý 5.25	
+
+Số báo danh: 01017301 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 6.25	Lịch sử 5.50	Địa lý 5.50	
+
+Số báo danh: 01017302 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 7.50	Lịch sử 6.25	Địa lý 6.75	
+
+Số báo danh: 01017303 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.50	Lịch sử 5.75	Địa lý 6.50	
+
+Số báo danh: 01017304 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 4.50	Lịch sử 5.00	Địa lý 6.75	
+
+Số báo danh: 01017305 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 6.33	Lịch sử 5.25	Địa lý 6.75	
+
+Số báo danh: 01017306 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 7.00	Lịch sử 7.50	Địa lý 7.75	
+
+Số báo danh: 01017307 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 4.50	Lịch sử 6.00	Địa lý 5.75	
+
+Số báo danh: 01017308 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 7.50	Lịch sử 7.00	Địa lý 7.25	
+
+Số báo danh: 01017309 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 4.00	Lịch sử 5.50	Địa lý 6.25	
+
+Số báo danh: 01017310 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 6.17	Lịch sử 5.00	Địa lý 6.25	
+
+Số báo danh: 01017311 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 5.25	Lịch sử 4.75	Địa lý 5.75	
+
+Số báo danh: 01017312 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 7.25	Lịch sử 4.00	Địa lý 7.00	
+
+Số báo danh: 01017313 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.40	Ngữ văn 6.75	Lịch sử 8.00	Địa lý 6.50	
+
+Số báo danh: 01017316 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 6.25	Lịch sử 7.00	Địa lý 7.00	
+
+Số báo danh: 01017317 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 6.50	Lịch sử 5.25	Địa lý 7.00	
+
+Số báo danh: 01017318 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 6.25	Lịch sử 5.00	Địa lý 4.25	
+
+Số báo danh: 01017320 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 6.50	Lịch sử 7.25	Địa lý 6.00	
+
+Số báo danh: 01017321 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.00	Ngữ văn 4.00	Lịch sử 4.00	Địa lý 7.50	
+
+Số báo danh: 01017322 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 4.50	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017323 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.75	Lịch sử 5.75	Địa lý 7.25	
+
+Số báo danh: 01017324 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.75	Lịch sử 7.00	Địa lý 9.50	
+
+Số báo danh: 01017325 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 7.00	Lịch sử 7.00	Địa lý 7.00	
+
+Số báo danh: 01017326 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 5.50	Lịch sử 2.75	Địa lý 4.75	
+
+Số báo danh: 01017327 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.40	Ngữ văn 6.00	Lịch sử 2.25	Địa lý 6.00	
+
+Số báo danh: 01017328 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.25	Lịch sử 4.75	Địa lý 6.50	
+
+Số báo danh: 01017329 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 6.00	Lịch sử 6.50	Địa lý 7.75	
+
+Số báo danh: 01017330 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 6.25	Lịch sử 6.00	Địa lý 6.50	
+
+Số báo danh: 01017331 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.80	Ngữ văn 4.50	Lịch sử 7.75	Địa lý 3.75	
+
+Số báo danh: 01017332 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 6.00	Lịch sử 5.50	Địa lý 5.50	
+
+Số báo danh: 01017333 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 6.50	Lịch sử 3.50	Địa lý 6.25	
+
+Số báo danh: 01017334 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 5.50	Lịch sử 5.75	Địa lý 5.50	
+
+Số báo danh: 01017335 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 7.00	Lịch sử 6.25	Địa lý 7.50	
+
+Số báo danh: 01017336 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 4.25	Lịch sử 4.25	Địa lý 6.25	
+
+Số báo danh: 01017337 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.40	Ngữ văn 5.50	Lịch sử 6.50	Địa lý 6.00	
+
+Số báo danh: 01017338 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.20	Ngữ văn 4.25	Lịch sử 3.25	Địa lý 5.50	
+
+Số báo danh: 01017339 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.40	Ngữ văn 5.50	Lịch sử 5.25	Địa lý 6.25	
+
+Số báo danh: 01017340 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.75	Lịch sử 7.50	Địa lý 8.00	
+
+Số báo danh: 01017341 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.25	Lịch sử 7.75	Địa lý 8.75	
+
+Số báo danh: 01017342 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.50	Lịch sử 5.50	Địa lý 7.25	
+
+Số báo danh: 01017343 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 7.50	Lịch sử 7.00	Địa lý 7.25	
+
+Số báo danh: 01017344 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 6.50	Lịch sử 4.00	Địa lý 7.50	
+
+Số báo danh: 01017345 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.20	Ngữ văn 5.50	Lịch sử 4.25	Địa lý 6.50	
+
+Số báo danh: 01017346 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 6.50	Lịch sử 7.00	Địa lý 7.00	
+
+Số báo danh: 01017347 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 8.25	Lịch sử 7.25	Địa lý 6.00	
+
+Số báo danh: 01017348 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 8.25	Lịch sử 6.50	Địa lý 6.75	
+
+Số báo danh: 01017349 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 7.25	Lịch sử 5.25	Địa lý 6.25	
+
+Số báo danh: 01017350 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 8.00	Lịch sử 8.00	Địa lý 7.75	
+
+Số báo danh: 01017351 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 5.75	Lịch sử 5.75	Địa lý 7.00	
+
+Số báo danh: 01017352 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.20	Ngữ văn 4.00	Lịch sử 4.75	Địa lý 5.00	
+
+Số báo danh: 01017353 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 6.50	Lịch sử 4.25	Địa lý 6.50	
+
+Số báo danh: 01017354 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 7.00	Lịch sử 2.75	Địa lý 4.75	
+
+Số báo danh: 01017355 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 8.00	Lịch sử 2.25	Địa lý 4.00	
+
+Số báo danh: 01017356 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 7.75	Lịch sử 8.50	Địa lý 7.50	
+
+Số báo danh: 01017357 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 6.00	Lịch sử 5.25	Địa lý 7.25	
+
+Số báo danh: 01017358 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.00	Lịch sử 6.00	Địa lý 6.50	
+
+Số báo danh: 01017359 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 5.75	Lịch sử 4.75	Địa lý 6.75	
+
+Số báo danh: 01017360 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.60	Ngữ văn 6.75	Lịch sử 4.50	Địa lý 7.25	
+
+Số báo danh: 01017361 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 5.75	Lịch sử 6.25	Địa lý 6.00	
+
+Số báo danh: 01017362 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 2.80	Ngữ văn 5.25	Lịch sử 5.00	Địa lý 4.25	
+
+Số báo danh: 01017363 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.40	Ngữ văn 7.75	Lịch sử 4.00	Địa lý 6.00	
+
+Số báo danh: 01017364 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 4.50	Lịch sử 5.25	Địa lý 6.25	
+
+Số báo danh: 01017366 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 4.75	Lịch sử 5.00	Địa lý 6.50	
+
+Số báo danh: 01017367 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 7.50	Lịch sử 7.00	Địa lý 7.50	
+
+Số báo danh: 01017368 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.00	Ngữ văn 5.50	Lịch sử 4.50	Địa lý 4.25	
+
+Số báo danh: 01017369 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 6.75	Lịch sử 6.25	Địa lý 7.00	
+
+Số báo danh: 01017370 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.20	Ngữ văn 8.00	Lịch sử 6.50	Địa lý 6.50	
+
+Số báo danh: 01017371 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.20	Ngữ văn 7.75	Lịch sử 4.50	Địa lý 4.25	
+
+Số báo danh: 01017372 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.60	Ngữ văn 6.25	Lịch sử 3.75	Địa lý 7.25	
+
+Số báo danh: 01017373 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.80	Ngữ văn 7.75	Lịch sử 6.00	Địa lý 6.25	
+
+Số báo danh: 01017374 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.75	Lịch sử 9.00	Địa lý 8.50	
+
+Số báo danh: 01017375 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.00	Ngữ văn 7.00	Lịch sử 3.75	Địa lý 6.50	
+
+Số báo danh: 01017376 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 7.25	Lịch sử 6.25	Địa lý 6.25	
+
+Số báo danh: 01017377 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.25	Lịch sử 5.00	Địa lý 7.50	
+
+Số báo danh: 01017378 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 7.00	Lịch sử 3.75	Địa lý 6.25	
+
+Số báo danh: 01017379 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 5.75	Lịch sử 6.00	Địa lý 7.00	
+
+Số báo danh: 01017380 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.80	Ngữ văn 6.50	Lịch sử 5.25	Địa lý 6.75	
+
+Số báo danh: 01017381 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.75	Lịch sử 5.25	Địa lý 4.75	
+
+Số báo danh: 01017382 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 7.75	Lịch sử 6.50	Địa lý 6.00	
+
+Số báo danh: 01017383 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 4.60	Ngữ văn 8.00	Lịch sử 5.75	Địa lý 4.50	
+
+Số báo danh: 01017384 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 3.60	Ngữ văn 6.50	Lịch sử 4.75	Địa lý 5.25	
+
+Số báo danh: 01017385 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 1.80	Ngữ văn 5.00	Lịch sử 5.25	Địa lý 5.25	
+
+Số báo danh: 01017386 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.75	Ngoại ngữ 9.40	Vật lý 5.75	Hóa học 5.75	Sinh học 6.25	
+
+Số báo danh: 01017387 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 5.80	Vật lý 6.75	Hóa học 3.00	Sinh học 4.00	
+
+Số báo danh: 01017388 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 7.75	Hóa học 6.75	Sinh học 6.25	
+
+Số báo danh: 01017389 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 9.00	Vật lý 8.75	Hóa học 6.50	Sinh học 7.25	
+
+Số báo danh: 01017390 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 9.40	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017391 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 6.00	Sinh học 7.00	
+
+Số báo danh: 01017392 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.60	Ngữ văn 7.75	Ngoại ngữ 8.60	Lịch sử 5.25	Địa lý 7.00	Giáo dục công dân 7.25	
+
+Số báo danh: 01017394 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 3.75	Sinh học 4.00	
+
+Số báo danh: 01017395 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 4.75	Sinh học 7.00	
+
+Số báo danh: 01017396 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 9.50	Ngoại ngữ 9.00	Lịch sử 6.25	Địa lý 7.50	Giáo dục công dân 7.25	
+
+Số báo danh: 01017397 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 3.25	Hóa học 6.25	Sinh học 7.25	
+
+Số báo danh: 01017398 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 7.00	Vật lý 5.50	Hóa học 6.75	Sinh học 6.00	
+
+Số báo danh: 01017399 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.50	Ngoại ngữ 7.60	Vật lý 7.00	Hóa học 5.25	Sinh học 6.75	
+
+Số báo danh: 01017400 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.60	Vật lý 9.25	Hóa học 6.00	Sinh học 5.00	
+
+Số báo danh: 01017401 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 9.25	
+
+Số báo danh: 01017402 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 8.80	Vật lý 9.25	Hóa học 5.00	Sinh học 5.00	
+
+Số báo danh: 01017403 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.60	Vật lý 6.75	Hóa học 3.75	Sinh học 5.50	
+
+Số báo danh: 01017404 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.50	Ngoại ngữ 9.20	Vật lý 8.00	Hóa học 3.25	Sinh học 4.75	
+
+Số báo danh: 01017405 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 8.50	Ngoại ngữ 9.40	Vật lý 8.75	Hóa học 6.25	Sinh học 7.75	
+
+Số báo danh: 01017406 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 5.75	Hóa học 9.00	Sinh học 7.25	
+
+Số báo danh: 01017407 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 9.20	Vật lý 6.25	Hóa học 8.00	Sinh học 8.50	
+
+Số báo danh: 01017408 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 7.50	Hóa học 6.00	Sinh học 7.00	
+
+Số báo danh: 01017409 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.75	
+
+Số báo danh: 01017410 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.40	Ngữ văn 8.50	Ngoại ngữ 5.40	Vật lý 7.00	Hóa học 7.25	Sinh học 5.75	
+
+Số báo danh: 01017411 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 9.00	Sinh học 4.25	
+
+Số báo danh: 01017412 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 3.00	Sinh học 3.50	
+
+Số báo danh: 01017413 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.25	Ngoại ngữ 7.80	Vật lý 6.50	Hóa học 4.75	Sinh học 5.25	
+
+Số báo danh: 01017414 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 5.50	Hóa học 3.50	Sinh học 5.00	
+
+Số báo danh: 01017415 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 6.50	Ngoại ngữ 9.80	Vật lý 9.00	Hóa học 5.00	Sinh học 6.25	
+
+Số báo danh: 01017416 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 8.60	Vật lý 5.00	Hóa học 7.25	Sinh học 5.75	
+
+Số báo danh: 01017417 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 9.20	Vật lý 5.00	Hóa học 7.25	Sinh học 5.50	
+
+Số báo danh: 01017418 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 7.50	Ngoại ngữ 5.80	Vật lý 8.25	Hóa học 9.00	Sinh học 5.50	
+
+Số báo danh: 01017419 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 6.50	Ngoại ngữ 4.60	Vật lý 4.75	Hóa học 4.00	Sinh học 5.50	
+
+Số báo danh: 01017420 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 9.60	Vật lý 6.00	Hóa học 6.00	Sinh học 6.75	
+
+Số báo danh: 01017421 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.25	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.50	Sinh học 7.75	
+
+Số báo danh: 01017422 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 9.50	Ngoại ngữ 7.80	Vật lý 5.50	Hóa học 5.50	Sinh học 5.75	
+
+Số báo danh: 01017423 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 9.25	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 5.25	Sinh học 4.50	
+
+Số báo danh: 01017424 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.60	Vật lý 8.00	Hóa học 4.50	Sinh học 6.25	
+
+Số báo danh: 01017425 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 9.60	Vật lý 7.50	Hóa học 5.00	Sinh học 6.00	
+
+Số báo danh: 01017426 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 9.60	Vật lý 8.25	Hóa học 6.25	Sinh học 7.00	
+
+Số báo danh: 01017427 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 7.80	Vật lý 7.00	Hóa học 5.50	Sinh học 5.50	
+
+Số báo danh: 01017428 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 9.75	Sinh học 7.00	
+
+Số báo danh: 01017429 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 7.00	Hóa học 5.25	Sinh học 5.75	
+
+Số báo danh: 01017430 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 7.25	Hóa học 3.75	Sinh học 4.25	
+
+Số báo danh: 01017431 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.60	Vật lý 4.00	Hóa học 6.25	Sinh học 5.75	
+
+Số báo danh: 01017432 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 6.75	Sinh học 7.25	
+
+Số báo danh: 01017433 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 10.00	Vật lý 6.75	Hóa học 7.50	Sinh học 6.50	
+
+Số báo danh: 01017434 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 9.00	Vật lý 7.25	Hóa học 6.25	Sinh học 6.00	
+
+Số báo danh: 01017435 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.00	Ngoại ngữ 9.00	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 8.75	
+
+Số báo danh: 01017436 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 7.00	Sinh học 4.50	
+
+Số báo danh: 01017437 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 4.00	Sinh học 6.50	
+
+Số báo danh: 01017438 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.00	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 5.50	Hóa học 5.50	Sinh học 5.75	
+
+Số báo danh: 01017439 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 9.40	Vật lý 6.50	Hóa học 8.75	Sinh học 7.75	
+
+Số báo danh: 01017440 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 9.20	Vật lý 6.75	Hóa học 4.25	Sinh học 5.75	
+
+Số báo danh: 01017441 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.50	Ngoại ngữ 8.40	Vật lý 6.25	Hóa học 8.75	Sinh học 8.00	
+
+Số báo danh: 01017442 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 5.75	Sinh học 6.00	
+
+Số báo danh: 01017443 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 8.25	Sinh học 7.00	
+
+Số báo danh: 01017444 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 6.60	Vật lý 4.50	Hóa học 2.75	Sinh học 4.25	
+
+Số báo danh: 01017445 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 9.00	Ngoại ngữ 9.00	Vật lý 9.50	Hóa học 4.75	Sinh học 6.75	
+
+Số báo danh: 01017446 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 9.00	Ngoại ngữ 9.20	Vật lý 8.00	Hóa học 6.25	Sinh học 6.50	
+
+Số báo danh: 01017447 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 4.50	Sinh học 6.25	
+
+Số báo danh: 01017448 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.25	Ngoại ngữ 9.60	Vật lý 8.25	Hóa học 7.50	Sinh học 6.00	
+
+Số báo danh: 01017449 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 8.75	Hóa học 9.25	Sinh học 6.25	
+
+Số báo danh: 01017450 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.00	Ngoại ngữ 9.80	Vật lý 6.00	Hóa học 4.00	Sinh học 6.50	
+
+Số báo danh: 01017451 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 9.00	Vật lý 7.75	Hóa học 6.00	Sinh học 7.25	
+
+Số báo danh: 01017452 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.00	Ngữ văn 7.75	Ngoại ngữ 9.80	Vật lý 7.50	Hóa học 9.50	Sinh học 7.00	
+
+Số báo danh: 01017453 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 9.40	Vật lý 7.25	Hóa học 5.25	Sinh học 5.00	
+
+Số báo danh: 01017454 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 8.00	Ngoại ngữ 6.00	Vật lý 6.50	Hóa học 4.00	Sinh học 5.50	
+
+Số báo danh: 01017455 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 5.00	Vật lý 7.75	Hóa học 7.50	Sinh học 6.75	
+
+Số báo danh: 01017456 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 6.00	Hóa học 5.00	Sinh học 6.00	
+
+Số báo danh: 01017457 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 7.20	Vật lý 5.25	Hóa học 5.25	Sinh học 7.75	
+
+Số báo danh: 01017458 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 4.50	Sinh học 5.00	
+
+Số báo danh: 01017459 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.75	Ngoại ngữ 8.60	Vật lý 5.00	Hóa học 5.75	Sinh học 6.75	
+
+Số báo danh: 01017460 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 7.00	Ngoại ngữ 4.00	Vật lý 3.00	Hóa học 2.75	Sinh học 4.25	
+
+Số báo danh: 01017461 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.25	Ngoại ngữ 8.80	Vật lý 7.50	Hóa học 7.00	Sinh học 7.00	
+
+Số báo danh: 01017462 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 8.75	Ngoại ngữ 9.40	Vật lý 8.50	Hóa học 7.00	Sinh học 8.00	
+
+Số báo danh: 01017463 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.40	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 8.75	Hóa học 7.00	Sinh học 7.00	
+
+Số báo danh: 01017464 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 5.25	Hóa học 3.00	Sinh học 6.00	
+
+Số báo danh: 01017465 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 7.00	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 8.50	Sinh học 5.75	
+
+Số báo danh: 01017466 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 9.20	Vật lý 7.75	Hóa học 3.50	Sinh học 4.50	
+
+Số báo danh: 01017467 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 6.40	Vật lý 6.50	Hóa học 5.75	Sinh học 6.75	
+
+Số báo danh: 01017468 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.75	Ngoại ngữ 8.40	Lịch sử 7.50	Địa lý 7.50	Giáo dục công dân 8.00	
+
+Số báo danh: 01017469 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 8.25	Ngoại ngữ 9.40	Vật lý 7.00	Hóa học 5.75	Sinh học 6.75	
+
+Số báo danh: 01017470 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 9.00	Ngoại ngữ 9.60	Lịch sử 7.50	Địa lý 7.75	Giáo dục công dân 8.00	
+
+Số báo danh: 01017471 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 8.00	Vật lý 8.75	Hóa học 8.75	Sinh học 6.00	
+
+Số báo danh: 01017472 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 8.20	Vật lý 4.50	Hóa học 4.00	Sinh học 3.75	
+
+Số báo danh: 01017473 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 5.25	Sinh học 7.00	
+
+Số báo danh: 01017474 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 9.60	Vật lý 8.25	Hóa học 3.50	Sinh học 6.25	
+
+Số báo danh: 01017475 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.20	Ngữ văn 8.75	Ngoại ngữ 9.00	Vật lý 5.75	Hóa học 7.50	Sinh học 7.25	
+
+Số báo danh: 01017476 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 9.80	Vật lý 8.00	Hóa học 5.75	Sinh học 6.50	
+
+Số báo danh: 01017477 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 9.20	Ngữ văn 9.25	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 9.25	Sinh học 8.00	
+
+Số báo danh: 01017478 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 4.80	Vật lý 5.50	Hóa học 4.75	Sinh học 4.25	
+
+Số báo danh: 01017479 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 3.80	Vật lý 7.25	Hóa học 4.50	Sinh học 3.25	
+
+Số báo danh: 01017480 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.00	Vật lý 3.50	Hóa học 7.50	Sinh học 7.75	
+
+Số báo danh: 01017481 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 9.00	Ngoại ngữ 9.40	Vật lý 9.00	Hóa học 7.75	Sinh học 8.00	
+
+Số báo danh: 01017482 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 4.00	Vật lý 2.50	Hóa học 7.50	Sinh học 7.00	
+
+Số báo danh: 01017483 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 7.75	Ngoại ngữ 5.80	Vật lý 4.25	Hóa học 8.75	Sinh học 7.50	
+
+Số báo danh: 01017484 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 7.00	Hóa học 6.00	Sinh học 7.25	
+
+Số báo danh: 01017485 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Vật lý 8.25	Hóa học 8.75	Sinh học 7.50	
+
+Số báo danh: 01017486 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 8.20	Vật lý 4.25	Hóa học 7.75	Sinh học 3.50	
+
+Số báo danh: 01017487 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 7.60	Vật lý 5.00	Hóa học 5.25	Sinh học 6.00	
+
+Số báo danh: 01017488 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.40	Vật lý 8.50	Hóa học 4.25	Sinh học 6.75	
+
+Số báo danh: 01017489 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.80	Ngữ văn 8.75	Ngoại ngữ 8.20	Vật lý 4.00	Hóa học 6.50	Sinh học 5.50	
+
+Số báo danh: 01017490 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 9.20	Vật lý 8.25	Hóa học 7.25	Sinh học 6.50	
+
+Số báo danh: 01017491 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.60	Vật lý 3.50	Hóa học 8.50	Sinh học 9.50	
+
+Số báo danh: 01017492 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 5.80	Ngữ văn 8.50	Ngoại ngữ 5.80	Vật lý 6.00	Hóa học 3.00	Sinh học 6.00	
+
+Số báo danh: 01017493 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.75	Ngoại ngữ 10.00	Lịch sử 8.75	Địa lý 9.00	Giáo dục công dân 9.75	
+
+Số báo danh: 01017494 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.80	Ngữ văn 4.25	Ngoại ngữ 9.20	Vật lý 5.00	Hóa học 7.00	Sinh học 4.75	
+
+Số báo danh: 01017495 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 9.60	Vật lý 7.00	Hóa học 5.25	Sinh học 5.50	
+
+Số báo danh: 01017496 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.80	Ngữ văn 9.25	Ngoại ngữ 8.20	Vật lý 3.50	Hóa học 7.25	Sinh học 6.00	
+
+Số báo danh: 01017497 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 6.60	Ngữ văn 7.50	Ngoại ngữ 9.80	Lịch sử 8.50	Địa lý 6.75	Giáo dục công dân 9.00	
+
+Số báo danh: 01017498 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.60	Ngữ văn 9.50	Ngoại ngữ 7.40	Vật lý 4.75	Hóa học 8.00	Sinh học 5.25	
+
+Số báo danh: 01017499 Cụm thi: 01 - Sở GDĐT Hà Nội		Toán 8.40	Ngữ văn 8.50	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 6.00	Sinh học 6.75		

@@ -1,0 +1,1001 @@
+
+
+Số báo danh: 02036000 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.00	Ngoại ngữ 7.60	Vật lý 7.00	Hóa học 9.25	Sinh học 8.75		
+
+Số báo danh: 02036001 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.75	Ngoại ngữ 9.20	Vật lý 7.75	Hóa học 6.50	Sinh học 4.50		
+
+Số báo danh: 02036002 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.25	Ngoại ngữ 7.20	Vật lý 9.25	Hóa học 9.50	Sinh học 7.25		
+
+Số báo danh: 02036003 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 5.25	Hóa học 6.00	Sinh học 6.25		
+
+Số báo danh: 02036004 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 6.20	Vật lý 5.00	Hóa học 4.50	Sinh học 6.00		
+
+Số báo danh: 02036005 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 5.50	Ngoại ngữ 6.40	Lịch sử 6.50	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036006 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 5.60	Lịch sử 4.00	Địa lý 6.75	Giáo dục công dân 8.25		
+
+Số báo danh: 02036007 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 9.00	Vật lý 7.00	Hóa học 7.75	Sinh học 7.00		
+
+Số báo danh: 02036008 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 5.75	Ngoại ngữ 5.40	Vật lý 7.75	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 02036009 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 3.00	Ngoại ngữ 9.40	Vật lý 7.50	Hóa học 6.25	Sinh học 7.50		
+
+Số báo danh: 02036010 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 6.00	Vật lý 8.00	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036011 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 8.75	Hóa học 9.00	Sinh học 6.25		
+
+Số báo danh: 02036012 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 5.80	Vật lý 7.25	Hóa học 7.75	Sinh học 5.50		
+
+Số báo danh: 02036013 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.50	Ngoại ngữ 8.00	Vật lý 7.75	Hóa học 8.00	Sinh học 8.25		
+
+Số báo danh: 02036014 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 6.75	Ngoại ngữ 8.60	Vật lý 9.00	Hóa học 6.00	Sinh học 7.50		
+
+Số báo danh: 02036015 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 5.75	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 9.00	Sinh học 6.25		
+
+Số báo danh: 02036016 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.00	Ngoại ngữ 8.60	Vật lý 6.25	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 02036017 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 5.75	Ngoại ngữ 6.20	Vật lý 7.00	Hóa học 7.50	Sinh học 5.50		
+
+Số báo danh: 02036018 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.50	Ngoại ngữ 7.60	Vật lý 5.50	Hóa học 6.75	Sinh học 5.50		
+
+Số báo danh: 02036019 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 5.25	Ngoại ngữ 9.00	Vật lý 7.75	Hóa học 5.50	Sinh học 5.75		
+
+Số báo danh: 02036020 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 5.50	Ngoại ngữ 9.80	Vật lý 5.00	Hóa học 8.75	Sinh học 6.75		
+
+Số báo danh: 02036021 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 6.80	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036022 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 6.60	Vật lý 8.00	Hóa học 8.50	Sinh học 5.50		
+
+Số báo danh: 02036023 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 7.00	Vật lý 8.25	Hóa học 5.00	Sinh học 5.50		
+
+Số báo danh: 02036024 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 7.25	Hóa học 6.00	Sinh học 6.25		
+
+Số báo danh: 02036025 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 6.00	Hóa học 7.25	Sinh học 5.75		
+
+Số báo danh: 02036026 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.75	Ngoại ngữ 8.00	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 8.50		
+
+Số báo danh: 02036027 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 5.50	Ngoại ngữ 7.20	Vật lý 7.25	Hóa học 6.50	Sinh học 5.00		
+
+Số báo danh: 02036028 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 4.40	Vật lý 5.50	Hóa học 7.25	Sinh học 6.00		
+
+Số báo danh: 02036029 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036030 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 7.00	Sinh học 5.25		
+
+Số báo danh: 02036031 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.00	Vật lý 2.50	Hóa học 9.00	Sinh học 3.75		
+
+Số báo danh: 02036032 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.75	Ngoại ngữ 8.20	Vật lý 6.75	Hóa học 6.25	Sinh học 6.75		
+
+Số báo danh: 02036033 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 6.80	Vật lý 4.25	Hóa học 8.25	Sinh học 8.50		
+
+Số báo danh: 02036034 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.80	Ngữ văn 7.50	Ngoại ngữ 7.60	Lịch sử 4.50	Địa lý 6.25	Giáo dục công dân 6.50		
+
+Số báo danh: 02036035 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 6.60	Vật lý 8.25	Hóa học 5.50	Sinh học 7.25		
+
+Số báo danh: 02036036 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 8.20	Vật lý 6.75	Hóa học 4.50	Sinh học 4.50		
+
+Số báo danh: 02036037 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 8.00	Ngoại ngữ 6.60	Lịch sử 6.75	Địa lý 8.00	Giáo dục công dân 8.00		
+
+Số báo danh: 02036038 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 7.75	Hóa học 6.00	Sinh học 6.00		
+
+Số báo danh: 02036039 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 7.20	Vật lý 3.75	Hóa học 3.75	Sinh học 4.25		
+
+Số báo danh: 02036040 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 7.00	Vật lý 4.50	Hóa học 7.25	Sinh học 6.00		
+
+Số báo danh: 02036041 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 6.20	Vật lý 8.00	Hóa học 8.75	Sinh học 5.50		
+
+Số báo danh: 02036042 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.50	Ngoại ngữ 7.80	Vật lý 7.75	Hóa học 7.00	Sinh học 5.50		
+
+Số báo danh: 02036043 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 5.50	Sinh học 6.00		
+
+Số báo danh: 02036044 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 6.60	Vật lý 5.25	Hóa học 5.50	Sinh học 6.75		
+
+Số báo danh: 02036045 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 4.60	Lịch sử 6.75	Địa lý 7.25	Giáo dục công dân 8.25		
+
+Số báo danh: 02036046 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.00	Ngoại ngữ 4.60	Vật lý 6.50	Hóa học 5.00	Sinh học 4.75		
+
+Số báo danh: 02036047 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 8.75		
+
+Số báo danh: 02036048 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.75	Ngoại ngữ 8.00	Vật lý 4.25	Hóa học 5.00	Sinh học 7.00		
+
+Số báo danh: 02036049 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 8.00	Vật lý 9.00	Hóa học 6.50	Sinh học 7.75		
+
+Số báo danh: 02036050 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.75	Ngoại ngữ 6.80	Lịch sử 7.50	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036051 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 8.60	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 9.25		
+
+Số báo danh: 02036052 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 9.00	Lịch sử 5.50	Địa lý 7.00	Giáo dục công dân 8.25		
+
+Số báo danh: 02036053 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 9.00	Địa lý 9.50	Giáo dục công dân 9.25		
+
+Số báo danh: 02036054 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.00	Ngoại ngữ 8.40	Vật lý 4.50	Hóa học 7.00	Sinh học 7.75		
+
+Số báo danh: 02036055 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 8.20	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.25		
+
+Số báo danh: 02036056 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 8.40	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 8.25		
+
+Số báo danh: 02036057 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 6.00	Vật lý 4.25	Hóa học 2.75	Sinh học 5.25		
+
+Số báo danh: 02036058 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.25	Ngoại ngữ 4.80	Vật lý 6.50	Hóa học 6.75	Sinh học 6.25		
+
+Số báo danh: 02036059 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 6.00	Vật lý 6.00	Hóa học 7.00	Sinh học 6.50		
+
+Số báo danh: 02036060 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.25	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 02036061 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 9.20	Vật lý 6.25	Hóa học 4.00	Sinh học 5.50		
+
+Số báo danh: 02036062 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 6.75	Ngoại ngữ 4.60	Lịch sử 6.00	Địa lý 6.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036063 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 7.00	Ngoại ngữ 7.20	Vật lý 7.50	Hóa học 5.75	Sinh học 6.00		
+
+Số báo danh: 02036064 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 7.25	Ngoại ngữ 4.40	Lịch sử 5.50	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036065 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 5.80	Vật lý 4.25	Hóa học 6.00	Sinh học 6.00		
+
+Số báo danh: 02036066 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 5.80	Lịch sử 6.50	Địa lý 7.00	Giáo dục công dân 9.25		
+
+Số báo danh: 02036067 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 5.75	Ngoại ngữ 4.40	Vật lý 6.50	Hóa học 6.50	Sinh học 6.00		
+
+Số báo danh: 02036068 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 5.50	Ngoại ngữ 7.20	Vật lý 7.00	Hóa học 6.75	Sinh học 7.25		
+
+Số báo danh: 02036069 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 7.25	Hóa học 5.50	Sinh học 5.75		
+
+Số báo danh: 02036070 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 4.25	Ngoại ngữ 5.60	Vật lý 5.00	Hóa học 6.50	Sinh học 5.00		
+
+Số báo danh: 02036071 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.75	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 7.25	Sinh học 8.00		
+
+Số báo danh: 02036072 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 6.20	Vật lý 7.25	Hóa học 4.50	Sinh học 5.50		
+
+Số báo danh: 02036073 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.50	Ngoại ngữ 7.40	Vật lý 7.25	Hóa học 7.50	Sinh học 5.25		
+
+Số báo danh: 02036074 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 8.00	Hóa học 8.25	Sinh học 7.75		
+
+Số báo danh: 02036075 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 7.40	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 8.25		
+
+Số báo danh: 02036076 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 6.80	Vật lý 7.25	Hóa học 7.50	Sinh học 6.00		
+
+Số báo danh: 02036077 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 8.40	Lịch sử 8.50	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 02036078 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 8.25	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 02036079 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.50	Ngoại ngữ 8.00	Lịch sử 7.25	Địa lý 6.75	Giáo dục công dân 8.75		
+
+Số báo danh: 02036080 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036081 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.75	Ngoại ngữ 6.80	Vật lý 7.50	Hóa học 7.00	Sinh học 6.00		
+
+Số báo danh: 02036082 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.50	Ngoại ngữ 6.40	Lịch sử 6.00	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 02036083 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 5.20	Vật lý 5.50	Hóa học 7.25	Sinh học 7.75		
+
+Số báo danh: 02036084 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 8.00	Vật lý 7.25	Hóa học 4.25	Sinh học 5.75		
+
+Số báo danh: 02036085 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.00	Ngoại ngữ 6.00	Vật lý 3.50	Hóa học 8.50	Sinh học 8.00		
+
+Số báo danh: 02036086 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 4.25	Ngoại ngữ 6.80	Vật lý 4.75	Hóa học 6.00	Sinh học 5.25		
+
+Số báo danh: 02036087 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 6.20	Vật lý 7.00	Hóa học 7.50	Sinh học 6.25		
+
+Số báo danh: 02036088 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 9.00	Vật lý 8.25	Hóa học 5.25	Sinh học 5.25		
+
+Số báo danh: 02036089 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 8.25	Hóa học 6.50	Sinh học 6.25		
+
+Số báo danh: 02036090 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 9.20	Vật lý 7.25	Hóa học 8.50	Sinh học 7.25		
+
+Số báo danh: 02036091 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 5.60	Vật lý 5.25	Hóa học 7.00	Sinh học 5.75		
+
+Số báo danh: 02036092 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 8.80	Vật lý 5.75	Hóa học 6.25	Sinh học 6.50		
+
+Số báo danh: 02036093 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 4.60	Ngữ văn 6.75	Vật lý 4.25	Hóa học 5.25	Sinh học 3.75		
+
+Số báo danh: 02036094 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 8.00	Hóa học 8.00	Sinh học 8.50		
+
+Số báo danh: 02036095 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 4.40	Lịch sử 8.00	Địa lý 8.75	Giáo dục công dân 9.50		
+
+Số báo danh: 02036096 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 6.75	Ngoại ngữ 5.60	Vật lý 5.75	Hóa học 6.00	Sinh học 5.75		
+
+Số báo danh: 02036097 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 5.60	Vật lý 6.75	Hóa học 9.00	Sinh học 8.50		
+
+Số báo danh: 02036098 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 6.50	Ngoại ngữ 7.00	Vật lý 7.50	Hóa học 7.50	Sinh học 6.50		
+
+Số báo danh: 02036099 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.25	Ngoại ngữ 5.00	Vật lý 7.25	Hóa học 7.75	Sinh học 6.25		
+
+Số báo danh: 02036100 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 6.60	Vật lý 8.50	Hóa học 5.50	Sinh học 6.00		
+
+Số báo danh: 02036101 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.00	Ngoại ngữ 6.40	Vật lý 7.50	Hóa học 6.00	Sinh học 6.75		
+
+Số báo danh: 02036102 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 6.60	Vật lý 7.75	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 02036103 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.40	Ngữ văn 5.00	Ngoại ngữ 3.20	Lịch sử 4.50	Địa lý 7.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036104 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.20	Ngữ văn 6.75	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 5.00	Sinh học 5.00		
+
+Số báo danh: 02036105 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.50	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 5.00	Sinh học 6.25		
+
+Số báo danh: 02036106 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 6.40	Vật lý 8.50	Hóa học 8.25	Sinh học 7.00		
+
+Số báo danh: 02036107 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.50	Ngoại ngữ 8.60	Vật lý 7.50	Hóa học 8.00	Sinh học 6.50		
+
+Số báo danh: 02036108 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 5.00	Ngoại ngữ 4.80	Vật lý 3.50	Hóa học 4.50	Sinh học 6.75		
+
+Số báo danh: 02036109 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 8.00	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036110 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 8.20	Vật lý 6.50	Hóa học 4.25	Sinh học 5.00		
+
+Số báo danh: 02036111 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.00	Ngữ văn 7.00	Ngoại ngữ 8.40	Lịch sử 6.50	Địa lý 6.75	Giáo dục công dân 7.25		
+
+Số báo danh: 02036112 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.20	Ngữ văn 7.25	Ngoại ngữ 3.80	Lịch sử 5.00	Địa lý 6.25	Giáo dục công dân 7.50		
+
+Số báo danh: 02036113 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 7.25	Ngoại ngữ 7.40	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.25		
+
+Số báo danh: 02036114 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 6.50	Hóa học 6.25	Sinh học 5.75		
+
+Số báo danh: 02036115 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.40	Ngữ văn 7.50	Ngoại ngữ 6.80	Lịch sử 7.00	Địa lý 7.00	Giáo dục công dân 7.25		
+
+Số báo danh: 02036116 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.00	Ngữ văn 7.00	Ngoại ngữ 6.00	Lịch sử 5.25	Địa lý 6.50	Giáo dục công dân 7.50		
+
+Số báo danh: 02036117 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 7.00	Địa lý 5.75	Giáo dục công dân 8.00		
+
+Số báo danh: 02036118 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 9.00	Ngoại ngữ 6.60	Lịch sử 4.50	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 02036119 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 5.75	Ngoại ngữ 8.60	Vật lý 7.25	Hóa học 4.50	Sinh học 5.25		
+
+Số báo danh: 02036120 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 7.75	Ngoại ngữ 7.20	Vật lý 4.75	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 02036121 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.50	Ngoại ngữ 8.20	Vật lý 7.00	Hóa học 5.00	Sinh học 6.25		
+
+Số báo danh: 02036122 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 6.00	Vật lý 7.75	Hóa học 8.25	Sinh học 7.25		
+
+Số báo danh: 02036123 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 6.20	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 7.50		
+
+Số báo danh: 02036124 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 8.25	Sinh học 7.50		
+
+Số báo danh: 02036125 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.20	Ngữ văn 6.75	Ngoại ngữ 3.40	Lịch sử 6.50	Địa lý 7.25	Giáo dục công dân 8.25		
+
+Số báo danh: 02036126 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.75	Ngoại ngữ 4.60	Vật lý 8.25	Hóa học 7.75	Sinh học 6.50		
+
+Số báo danh: 02036127 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 7.00	Lịch sử 7.00	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036128 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 6.60	Vật lý 4.75	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 02036129 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 7.40	Vật lý 8.25	Hóa học 7.25	Sinh học 6.50		
+
+Số báo danh: 02036130 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 8.00	Lịch sử 6.50	Địa lý 6.25	Giáo dục công dân 7.50		
+
+Số báo danh: 02036131 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 7.40	Lịch sử 9.50	Địa lý 9.75	Giáo dục công dân 9.75		
+
+Số báo danh: 02036132 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 5.75	Hóa học 4.50	Sinh học 7.50		
+
+Số báo danh: 02036133 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 5.50	Ngoại ngữ 3.80	Lịch sử 7.50	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036134 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.00	Ngoại ngữ 7.60	Vật lý 7.50	Hóa học 5.00	Sinh học 4.75		
+
+Số báo danh: 02036135 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 7.75	Hóa học 7.25	Sinh học 7.25		
+
+Số báo danh: 02036136 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 7.40	Vật lý 6.00	Hóa học 4.75	Sinh học 6.00		
+
+Số báo danh: 02036137 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.25	Ngoại ngữ 6.40	Vật lý 7.25	Hóa học 7.25	Sinh học 5.50		
+
+Số báo danh: 02036138 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 8.75	Ngoại ngữ 7.60	Vật lý 5.50	Hóa học 8.00	Sinh học 7.00		
+
+Số báo danh: 02036139 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.00	Vật lý 6.00	Hóa học 6.00	Sinh học 7.75		
+
+Số báo danh: 02036140 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 8.50	Sinh học 8.50		
+
+Số báo danh: 02036141 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 3.80	Ngữ văn 6.25	Ngoại ngữ 2.60	Vật lý 5.00	Hóa học 5.50	Sinh học 6.75		
+
+Số báo danh: 02036142 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 7.50	Hóa học 5.25	Sinh học 6.25		
+
+Số báo danh: 02036143 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 4.75	Ngoại ngữ 6.80	Vật lý 5.00	Hóa học 10.00	Sinh học 8.75		
+
+Số báo danh: 02036144 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 6.25	Sinh học 7.00		
+
+Số báo danh: 02036145 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 2.25	Hóa học 6.00	Sinh học 6.75		
+
+Số báo danh: 02036146 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.50	Ngoại ngữ 7.80	Lịch sử 6.75	Địa lý 6.50	Giáo dục công dân 7.50		
+
+Số báo danh: 02036147 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 5.00	Ngoại ngữ 4.00	Lịch sử 8.50	Địa lý 8.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036148 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 4.00	Ngoại ngữ 10.00	Vật lý 8.00	Hóa học 4.75	Sinh học 5.75		
+
+Số báo danh: 02036149 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 5.25	Ngoại ngữ 5.40	Vật lý 8.75	Hóa học 7.75	Sinh học 6.50		
+
+Số báo danh: 02036150 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 6.80	Vật lý 7.00	Hóa học 8.00	Sinh học 4.25		
+
+Số báo danh: 02036151 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 9.00	Vật lý 8.75	Hóa học 6.25	Sinh học 7.50		
+
+Số báo danh: 02036152 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 3.50	Ngoại ngữ 8.80	Vật lý 3.75	Hóa học 7.50	Sinh học 6.75		
+
+Số báo danh: 02036153 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 7.40	Vật lý 7.50	Hóa học 7.75	Sinh học 6.25		
+
+Số báo danh: 02036154 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 5.50	Ngoại ngữ 5.20	Lịch sử 6.75	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 02036155 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 5.80	Vật lý 8.00	Hóa học 9.00	Sinh học 6.25		
+
+Số báo danh: 02036156 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 5.75	Ngoại ngữ 6.40	Lịch sử 6.00	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036157 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.25	Ngoại ngữ 4.40	Vật lý 8.25	Hóa học 6.50	Sinh học 4.75		
+
+Số báo danh: 02036158 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 6.25	Ngoại ngữ 5.20	Vật lý 5.75	Hóa học 5.25	Sinh học 6.25		
+
+Số báo danh: 02036159 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 3.00	Ngoại ngữ 5.80	Vật lý 7.00	Hóa học 8.50	Sinh học 4.75		
+
+Số báo danh: 02036160 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.00	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036161 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.00	Ngữ văn 4.75	Ngoại ngữ 4.80	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 02036162 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 5.00	Ngoại ngữ 8.20	Vật lý 8.00	Hóa học 4.25	Sinh học 4.50		
+
+Số báo danh: 02036163 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 7.00	Vật lý 3.25	Hóa học 4.25	Sinh học 4.00		
+
+Số báo danh: 02036164 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 4.80	Lịch sử 7.00	Địa lý 7.75	Giáo dục công dân 8.75		
+
+Số báo danh: 02036165 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.00	Ngoại ngữ 4.20	Vật lý 7.25	Hóa học 6.50	Sinh học 5.75		
+
+Số báo danh: 02036166 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 6.25	Sinh học 5.75		
+
+Số báo danh: 02036167 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 9.40	Vật lý 7.50	Hóa học 7.00	Sinh học 7.00		
+
+Số báo danh: 02036168 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 7.25	Ngoại ngữ 6.60	Lịch sử 6.75	Địa lý 7.50	Giáo dục công dân 7.75		
+
+Số báo danh: 02036169 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.00	Ngoại ngữ 8.40	Vật lý 8.25	Hóa học 6.50	Sinh học 6.25		
+
+Số báo danh: 02036170 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 8.40	Vật lý 8.75	Hóa học 5.50	Sinh học 6.50		
+
+Số báo danh: 02036171 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 5.00	Ngoại ngữ 7.60	Vật lý 7.00	Hóa học 5.75	Sinh học 7.25		
+
+Số báo danh: 02036172 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.25	Ngoại ngữ 6.20	Vật lý 7.25	Hóa học 4.25	Sinh học 6.25		
+
+Số báo danh: 02036173 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.00	Ngữ văn 6.00	Ngoại ngữ 8.80	Lịch sử 6.25	Địa lý 6.00	Giáo dục công dân 8.00		
+
+Số báo danh: 02036174 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 6.75	Hóa học 5.25	Sinh học 7.75		
+
+Số báo danh: 02036175 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.75	Ngoại ngữ 7.80	Vật lý 6.25	Hóa học 7.75	Sinh học 5.75		
+
+Số báo danh: 02036176 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 5.75	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036177 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 6.40	Vật lý 8.25	Hóa học 7.00	Sinh học 6.25		
+
+Số báo danh: 02036178 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 4.25	Ngoại ngữ 5.20	Vật lý 7.75	Hóa học 8.25	Sinh học 6.25		
+
+Số báo danh: 02036179 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 4.25	Ngoại ngữ 4.40	Lịch sử 7.00	Địa lý 5.75	Giáo dục công dân 6.50		
+
+Số báo danh: 02036180 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 5.75	Ngoại ngữ 8.60	Vật lý 9.00	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 02036181 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 7.00	Ngoại ngữ 6.40	Lịch sử 5.25	Địa lý 5.50	Giáo dục công dân 7.75		
+
+Số báo danh: 02036182 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 7.20	Lịch sử 8.75	Địa lý 9.75	Giáo dục công dân 10.00		
+
+Số báo danh: 02036183 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 6.20	Vật lý 7.75	Hóa học 7.50	Sinh học 6.75		
+
+Số báo danh: 02036184 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 4.50	Ngoại ngữ 5.40	Vật lý 5.50	Hóa học 6.00	Sinh học 4.25		
+
+Số báo danh: 02036185 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 6.00	Ngoại ngữ 7.80	Vật lý 6.50	Hóa học 6.50	Sinh học 5.25		
+
+Số báo danh: 02036186 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 7.75	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 02036187 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.00	Ngoại ngữ 8.20	Vật lý 8.50	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 02036188 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 8.60	Lịch sử 9.50	Địa lý 9.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036189 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 4.50	Ngoại ngữ 7.40	Vật lý 7.25	Hóa học 3.75	Sinh học 3.75		
+
+Số báo danh: 02036190 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.50	Ngoại ngữ 7.80	Vật lý 5.25	Hóa học 4.75	Sinh học 6.75		
+
+Số báo danh: 02036191 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 6.00	Ngoại ngữ 6.80	Vật lý 9.00	Hóa học 8.75	Sinh học 4.50		
+
+Số báo danh: 02036192 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 4.25	Ngoại ngữ 6.80	Vật lý 8.25	Hóa học 4.00	Sinh học 5.50		
+
+Số báo danh: 02036193 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.00	Ngoại ngữ 4.00	Vật lý 6.50	Hóa học 7.25	Sinh học 6.50		
+
+Số báo danh: 02036194 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 6.00	Vật lý 7.25	Hóa học 5.50	Sinh học 6.00		
+
+Số báo danh: 02036195 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 7.20	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036196 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 7.75	Ngoại ngữ 8.80	Vật lý 8.50	Hóa học 5.50	Sinh học 6.25		
+
+Số báo danh: 02036197 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.25	Ngoại ngữ 8.20	Vật lý 5.00	Hóa học 6.00	Sinh học 6.50		
+
+Số báo danh: 02036198 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 8.50	Ngoại ngữ 8.40	Lịch sử 8.75	Địa lý 8.00	Giáo dục công dân 9.25		
+
+Số báo danh: 02036199 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 9.00	Vật lý 7.50	Hóa học 7.25	Sinh học 8.25		
+
+Số báo danh: 02036200 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 7.20	Vật lý 6.75	Hóa học 6.75	Sinh học 7.50		
+
+Số báo danh: 02036201 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 6.50	Ngoại ngữ 6.80	Vật lý 6.50	Hóa học 8.00	Sinh học 6.75		
+
+Số báo danh: 02036202 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 9.20	Vật lý 2.75	Hóa học 2.50	Sinh học 5.75		
+
+Số báo danh: 02036203 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 5.60	Vật lý 4.75	Hóa học 8.50	Sinh học 7.75		
+
+Số báo danh: 02036204 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 3.80	Ngữ văn 5.50	Ngoại ngữ 8.00	Lịch sử 5.75	Địa lý 7.00	Giáo dục công dân 9.50		
+
+Số báo danh: 02036205 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 8.20	Lịch sử 8.50	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036206 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 8.00	Vật lý 4.25	Hóa học 3.75	Sinh học 5.25		
+
+Số báo danh: 02036207 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.60	Vật lý 7.75	Hóa học 6.00	Sinh học 8.00		
+
+Số báo danh: 02036208 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 6.00	Hóa học 6.75	Sinh học 5.50		
+
+Số báo danh: 02036209 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 4.75	Hóa học 5.75	Sinh học 6.00		
+
+Số báo danh: 02036210 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.25	Ngoại ngữ 8.60	Lịch sử 9.00	Địa lý 9.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036211 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.80	Ngữ văn 8.75	Ngoại ngữ 6.40	Lịch sử 8.75	Địa lý 9.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036212 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 7.00	Hóa học 5.75	Sinh học 6.00		
+
+Số báo danh: 02036213 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 7.00	Vật lý 6.25	Hóa học 5.75	Sinh học 5.25		
+
+Số báo danh: 02036214 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 8.60	Vật lý 4.75	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 02036215 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 9.00	Vật lý 7.50	Hóa học 4.50	Sinh học 7.00		
+
+Số báo danh: 02036216 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 4.60	Lịch sử 5.25	Địa lý 6.25	Giáo dục công dân 8.75		
+
+Số báo danh: 02036217 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 5.25	Hóa học 6.75	Sinh học 7.25		
+
+Số báo danh: 02036218 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 6.00	Vật lý 8.75	Hóa học 8.75	Sinh học 6.00		
+
+Số báo danh: 02036219 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.25	Ngoại ngữ 6.20	Vật lý 4.75	Hóa học 5.75	Sinh học 5.50		
+
+Số báo danh: 02036220 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 8.40	Vật lý 4.75	Hóa học 5.50	Sinh học 3.75		
+
+Số báo danh: 02036221 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 6.40	Vật lý 5.75	Hóa học 5.50	Sinh học 5.50		
+
+Số báo danh: 02036222 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.50	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036223 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 5.20	Vật lý 5.25	Hóa học 5.00	Sinh học 5.25		
+
+Số báo danh: 02036224 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 6.80	Vật lý 3.50	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 02036225 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 7.80	Vật lý 6.50	Hóa học 3.00	Sinh học 6.75		
+
+Số báo danh: 02036226 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.75	Ngoại ngữ 9.00	Lịch sử 5.25	Địa lý 8.00	Giáo dục công dân 7.50		
+
+Số báo danh: 02036227 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 8.20	Lịch sử 6.75	Địa lý 6.50	Giáo dục công dân 8.00		
+
+Số báo danh: 02036228 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 6.60	Vật lý 5.50	Hóa học 5.25	Sinh học 5.25		
+
+Số báo danh: 02036229 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 4.00	Lịch sử 7.50	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036230 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 6.50	Địa lý 8.00	Giáo dục công dân 8.25		
+
+Số báo danh: 02036231 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 6.60	Vật lý 7.25	Hóa học 6.00	Sinh học 4.75		
+
+Số báo danh: 02036232 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.50	Ngoại ngữ 7.40	Vật lý 6.00	Hóa học 9.00	Sinh học 8.75		
+
+Số báo danh: 02036233 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 4.50	Sinh học 5.50		
+
+Số báo danh: 02036234 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 5.75	Ngoại ngữ 6.60	Vật lý 8.00	Hóa học 5.25	Sinh học 7.75		
+
+Số báo danh: 02036235 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 6.50	Ngoại ngữ 7.60	Vật lý 8.25	Hóa học 3.50	Sinh học 6.25		
+
+Số báo danh: 02036236 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 5.00	Vật lý 6.75	Hóa học 7.50	Sinh học 5.75		
+
+Số báo danh: 02036237 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.75	Ngoại ngữ 6.60	Vật lý 8.00	Hóa học 5.25	Sinh học 5.75		
+
+Số báo danh: 02036238 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.50	Ngoại ngữ 4.40	Vật lý 4.25	Hóa học 6.00	Sinh học 6.25		
+
+Số báo danh: 02036239 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 6.80	Vật lý 8.00	Hóa học 3.25	Sinh học 6.25		
+
+Số báo danh: 02036240 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 7.75	Ngoại ngữ 3.40	Vật lý 4.50	Hóa học 5.50	Sinh học 7.00		
+
+Số báo danh: 02036241 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 4.75	Hóa học 6.00	Sinh học 5.00		
+
+Số báo danh: 02036242 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.00	Vật lý 7.75	Hóa học 6.00	Sinh học 6.50		
+
+Số báo danh: 02036243 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 5.60	Vật lý 7.50	Hóa học 6.75	Sinh học 6.00		
+
+Số báo danh: 02036244 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.25	Ngoại ngữ 6.60	Vật lý 4.75	Hóa học 9.00	Sinh học 6.75		
+
+Số báo danh: 02036245 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 6.75	Hóa học 5.75	Sinh học 7.00		
+
+Số báo danh: 02036246 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 6.60	Vật lý 6.00	Hóa học 5.50	Sinh học 6.25		
+
+Số báo danh: 02036247 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 02036248 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 8.60	Vật lý 5.25	Hóa học 8.00	Sinh học 5.50		
+
+Số báo danh: 02036249 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 8.40	Vật lý 8.75	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036250 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 6.00	Vật lý 7.00	Hóa học 8.25	Sinh học 8.00		
+
+Số báo danh: 02036251 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.25	Ngoại ngữ 7.20	Vật lý 5.75	Hóa học 6.75	Sinh học 6.50		
+
+Số báo danh: 02036252 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.25	Ngoại ngữ 7.40	Vật lý 8.75	Hóa học 5.00	Sinh học 4.50		
+
+Số báo danh: 02036253 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 5.60	Vật lý 7.25	Hóa học 4.00	Sinh học 5.75		
+
+Số báo danh: 02036254 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 7.50	Hóa học 7.75	Sinh học 5.75		
+
+Số báo danh: 02036255 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 7.40	Vật lý 7.50	Hóa học 7.50	Sinh học 8.50		
+
+Số báo danh: 02036256 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 4.20	Vật lý 4.00	Hóa học 5.00	Sinh học 4.50		
+
+Số báo danh: 02036257 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 5.20	Vật lý 7.75	Hóa học 7.25	Sinh học 5.50		
+
+Số báo danh: 02036258 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 7.80	Vật lý 7.50	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 02036259 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 7.50	Sinh học 8.00		
+
+Số báo danh: 02036260 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 5.25	Sinh học 5.25		
+
+Số báo danh: 02036261 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 9.00	Sinh học 8.25		
+
+Số báo danh: 02036262 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 6.00	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 02036263 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 8.60	Vật lý 5.50	Hóa học 6.25	Sinh học 7.75		
+
+Số báo danh: 02036264 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 3.25	Sinh học 4.75		
+
+Số báo danh: 02036265 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 6.40	Vật lý 7.50	Hóa học 6.75	Sinh học 6.50		
+
+Số báo danh: 02036266 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 6.25	Ngoại ngữ 8.20	Vật lý 8.75	Hóa học 9.25	Sinh học 6.25		
+
+Số báo danh: 02036267 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 4.75	Sinh học 7.00		
+
+Số báo danh: 02036268 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 6.00	Vật lý 8.25	Hóa học 6.50	Sinh học 5.25		
+
+Số báo danh: 02036269 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.25	Ngoại ngữ 8.00	Vật lý 9.00	Hóa học 6.75	Sinh học 7.25		
+
+Số báo danh: 02036270 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.25	Ngoại ngữ 9.00	Vật lý 7.50	Hóa học 9.25	Sinh học 8.00		
+
+Số báo danh: 02036271 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 9.40	Vật lý 6.25	Hóa học 5.75	Sinh học 7.75		
+
+Số báo danh: 02036272 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 7.60	Vật lý 7.25	Hóa học 8.00	Sinh học 6.75		
+
+Số báo danh: 02036273 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 6.60	Vật lý 7.50	Hóa học 4.50	Sinh học 6.75		
+
+Số báo danh: 02036274 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 7.60	Vật lý 6.00	Hóa học 7.00	Sinh học 6.50		
+
+Số báo danh: 02036275 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 4.80	Vật lý 4.75	Hóa học 6.50	Sinh học 6.75		
+
+Số báo danh: 02036276 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 6.00	Sinh học 6.00		
+
+Số báo danh: 02036277 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 7.00	Hóa học 6.00	Sinh học 6.50		
+
+Số báo danh: 02036278 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.50	Ngoại ngữ 7.80	Lịch sử 6.75	Địa lý 5.25	Giáo dục công dân 8.00		
+
+Số báo danh: 02036279 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 6.60	Vật lý 3.25	Hóa học 5.25	Sinh học 4.25		
+
+Số báo danh: 02036280 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 3.75	Ngoại ngữ 7.00	Vật lý 6.50	Hóa học 5.00	Sinh học 5.25		
+
+Số báo danh: 02036281 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 3.80	Lịch sử 8.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036282 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 8.40	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036283 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 4.40	Vật lý 7.00	Hóa học 7.75	Sinh học 6.50		
+
+Số báo danh: 02036284 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 8.20	Vật lý 4.25	Hóa học 8.25	Sinh học 8.50		
+
+Số báo danh: 02036285 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 6.75	Sinh học 6.25		
+
+Số báo danh: 02036286 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 6.00	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 02036287 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 5.80	Vật lý 3.50	Hóa học 8.25	Sinh học 8.50		
+
+Số báo danh: 02036288 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 8.00	Vật lý 6.50	Hóa học 8.75	Sinh học 8.00		
+
+Số báo danh: 02036289 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 8.25	Hóa học 5.75	Sinh học 8.00		
+
+Số báo danh: 02036290 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 6.80	Lịch sử 6.75	Địa lý 6.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036291 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.50	Ngoại ngữ 8.20	Vật lý 6.25	Hóa học 6.75	Sinh học 8.00		
+
+Số báo danh: 02036292 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 8.60	Vật lý 8.75	Hóa học 5.25	Sinh học 7.25		
+
+Số báo danh: 02036293 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 7.25	Sinh học 6.75		
+
+Số báo danh: 02036294 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.75	Ngoại ngữ 6.00	Vật lý 7.00	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036295 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 6.60	Lịch sử 5.75	Địa lý 7.75	Giáo dục công dân 9.50		
+
+Số báo danh: 02036296 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.50	Vật lý 6.25	Hóa học 6.75	Sinh học 7.50		
+
+Số báo danh: 02036297 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.50	Ngoại ngữ 8.40	Vật lý 7.75	Hóa học 6.25	Sinh học 6.75		
+
+Số báo danh: 02036298 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 7.20	Vật lý 8.50	Hóa học 8.75	Sinh học 7.00		
+
+Số báo danh: 02036299 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.25	Ngoại ngữ 8.40	Vật lý 6.25	Hóa học 7.50	Sinh học 7.25		
+
+Số báo danh: 02036300 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.40	Ngữ văn 8.50	Ngoại ngữ 8.20	Lịch sử 7.75	Địa lý 9.25	Giáo dục công dân 9.50		
+
+Số báo danh: 02036301 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 3.50	Ngoại ngữ 4.00	Lịch sử 4.25	Địa lý 5.25	Giáo dục công dân 6.25		
+
+Số báo danh: 02036302 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.50	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 8.25	Giáo dục công dân 8.75		
+
+Số báo danh: 02036303 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 3.20	Lịch sử 4.50	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036304 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 8.40	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 8.75		
+
+Số báo danh: 02036305 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.00	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 5.50	Sinh học 7.00		
+
+Số báo danh: 02036306 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 4.40	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.25		
+
+Số báo danh: 02036307 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.40	Ngữ văn 7.75	Ngoại ngữ 5.40	Lịch sử 8.00	Địa lý 7.50	Giáo dục công dân 8.25		
+
+Số báo danh: 02036308 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 5.40	Vật lý 6.00	Hóa học 7.25	Sinh học 5.75		
+
+Số báo danh: 02036309 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 4.00	Vật lý 5.00	Hóa học 6.50	Sinh học 6.50		
+
+Số báo danh: 02036310 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 7.80	Vật lý 7.50	Hóa học 5.00	Sinh học 4.75		
+
+Số báo danh: 02036311 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.25	Ngoại ngữ 6.00	Vật lý 5.75	Hóa học 6.00	Sinh học 6.25		
+
+Số báo danh: 02036312 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 8.00	Ngoại ngữ 4.20	Lịch sử 7.75	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 02036313 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 6.80	Vật lý 4.50	Hóa học 5.25	Sinh học 6.00		
+
+Số báo danh: 02036314 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 8.75	Hóa học 9.25	Sinh học 6.25		
+
+Số báo danh: 02036315 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 9.20	Vật lý 5.25	Hóa học 6.75	Sinh học 6.50		
+
+Số báo danh: 02036316 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 8.60	Vật lý 7.25	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 02036317 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 6.50	Ngoại ngữ 7.80	Lịch sử 6.75	Địa lý 7.50	Giáo dục công dân 8.00		
+
+Số báo danh: 02036318 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 7.60	Lịch sử 7.00	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036319 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.50	Ngoại ngữ 6.40	Vật lý 3.75	Hóa học 6.50	Sinh học 5.25		
+
+Số báo danh: 02036320 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.25	Ngoại ngữ 8.00	Vật lý 5.50	Hóa học 4.50	Sinh học 6.00		
+
+Số báo danh: 02036321 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.60	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 8.50	Hóa học 5.75	Sinh học 6.25		
+
+Số báo danh: 02036322 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 9.20	Lịch sử 8.00	Địa lý 8.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036323 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 3.25	Ngoại ngữ 9.60	Vật lý 4.50	Hóa học 4.50	Sinh học 6.50		
+
+Số báo danh: 02036324 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 5.75	Ngoại ngữ 6.60	Vật lý 4.75	Hóa học 7.75	Sinh học 6.00		
+
+Số báo danh: 02036325 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 9.20	Vật lý 6.75	Hóa học 8.00	Sinh học 7.25		
+
+Số báo danh: 02036326 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 4.50	Ngoại ngữ 7.80	Vật lý 7.00	Hóa học 4.75	Sinh học 4.75		
+
+Số báo danh: 02036327 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.25	Ngoại ngữ 6.20	Vật lý 8.25	Hóa học 7.75	Sinh học 6.25		
+
+Số báo danh: 02036328 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 9.25	Ngoại ngữ 7.80	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036329 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 9.40	Vật lý 8.00	Hóa học 8.50	Sinh học 7.50		
+
+Số báo danh: 02036330 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.50	Ngoại ngữ 6.60	Vật lý 8.50	Hóa học 8.75	Sinh học 7.50		
+
+Số báo danh: 02036331 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 3.80	Vật lý 6.75	Hóa học 8.25	Sinh học 6.50		
+
+Số báo danh: 02036332 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 3.25	Hóa học 7.00	Sinh học 5.75		
+
+Số báo danh: 02036333 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 6.75	Hóa học 7.25	Sinh học 6.50		
+
+Số báo danh: 02036334 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.25	Ngoại ngữ 7.00	Vật lý 8.00	Hóa học 4.25	Sinh học 6.50		
+
+Số báo danh: 02036335 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.00	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 3.75	Sinh học 5.75		
+
+Số báo danh: 02036336 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.50	Ngoại ngữ 3.20	Lịch sử 6.00	Địa lý 7.50	Giáo dục công dân 7.50		
+
+Số báo danh: 02036337 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 7.40	Lịch sử 6.50	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036338 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 5.60	Vật lý 8.50	Hóa học 7.25	Sinh học 5.00		
+
+Số báo danh: 02036339 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 8.25	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 4.50	Sinh học 6.25		
+
+Số báo danh: 02036340 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 7.00	Vật lý 6.50	Hóa học 6.25	Sinh học 5.75		
+
+Số báo danh: 02036341 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.00	Ngoại ngữ 7.80	Vật lý 7.25	Hóa học 6.75	Sinh học 6.25		
+
+Số báo danh: 02036342 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 8.00	Ngoại ngữ 5.00	Vật lý 3.25	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 02036343 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 5.50	Ngoại ngữ 3.60	Vật lý 7.75	Hóa học 7.50	Sinh học 5.75		
+
+Số báo danh: 02036344 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 9.25	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036345 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.00	Ngoại ngữ 8.40	Lịch sử 7.75	Địa lý 8.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036346 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 7.80	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 8.00		
+
+Số báo danh: 02036347 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 5.75	Ngoại ngữ 3.80	Lịch sử 5.25	Địa lý 8.25	Giáo dục công dân 7.75		
+
+Số báo danh: 02036348 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.75	Ngoại ngữ 6.40	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 02036349 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.75	Ngoại ngữ 8.40	Vật lý 7.25	Hóa học 6.75	Sinh học 7.50		
+
+Số báo danh: 02036350 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.25	Ngoại ngữ 8.20	Lịch sử 8.25	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 02036351 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 4.00	Ngoại ngữ 7.00	Vật lý 3.00	Hóa học 7.50	Sinh học 6.50		
+
+Số báo danh: 02036352 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.75	Ngoại ngữ 7.40	Vật lý 4.25	Hóa học 5.75	Sinh học 6.50		
+
+Số báo danh: 02036353 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 4.20	Vật lý 5.75	Hóa học 5.75	Sinh học 5.75		
+
+Số báo danh: 02036354 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.50	Ngoại ngữ 6.00	Vật lý 5.50	Hóa học 8.75	Sinh học 8.50		
+
+Số báo danh: 02036355 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 8.00	Ngoại ngữ 8.00	Lịch sử 6.00	Địa lý 6.50	Giáo dục công dân 7.25		
+
+Số báo danh: 02036356 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.75	Ngoại ngữ 6.80	Vật lý 7.25	Hóa học 4.50	Sinh học 5.75		
+
+Số báo danh: 02036357 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.25	Ngoại ngữ 9.00	Lịch sử 8.00	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 02036358 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 8.20	Vật lý 6.25	Hóa học 5.25	Sinh học 4.00		
+
+Số báo danh: 02036359 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.25	Ngoại ngữ 7.80	Vật lý 6.00	Hóa học 7.25	Sinh học 7.75		
+
+Số báo danh: 02036360 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.50	Ngoại ngữ 7.60	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 7.75		
+
+Số báo danh: 02036361 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 8.00	Lịch sử 8.50	Địa lý 7.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036362 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.25	Ngoại ngữ 6.00	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 02036363 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 8.80	Vật lý 7.75	Hóa học 5.25	Sinh học 6.00		
+
+Số báo danh: 02036364 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.00	Ngoại ngữ 8.20	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 7.25		
+
+Số báo danh: 02036365 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.00	Ngoại ngữ 6.60	Vật lý 2.75	Hóa học 4.75	Sinh học 5.25		
+
+Số báo danh: 02036366 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 4.80	Lịch sử 8.75	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036367 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 5.75	Ngoại ngữ 6.00	Vật lý 7.50	Hóa học 6.50	Sinh học 5.00		
+
+Số báo danh: 02036368 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 6.40	Vật lý 7.25	Hóa học 5.00	Sinh học 6.00		
+
+Số báo danh: 02036369 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 4.00	Vật lý 7.00	Hóa học 6.50	Sinh học 4.25		
+
+Số báo danh: 02036370 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.75	Ngoại ngữ 8.60	Vật lý 5.00	Hóa học 9.25	Sinh học 8.75		
+
+Số báo danh: 02036371 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Vật lý 7.00	Hóa học 8.00	Sinh học 8.00		
+
+Số báo danh: 02036372 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 7.40	Lịch sử 5.25	Địa lý 5.50	Giáo dục công dân 7.50		
+
+Số báo danh: 02036373 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 8.00	Vật lý 5.50	Hóa học 8.25	Sinh học 8.00		
+
+Số báo danh: 02036374 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 6.75	Ngoại ngữ 7.80	Lịch sử 7.25	Địa lý 9.00	Giáo dục công dân 9.00		
+
+Số báo danh: 02036375 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.75	Ngoại ngữ 6.00	Vật lý 4.25	Hóa học 8.00	Sinh học 8.00		
+
+Số báo danh: 02036376 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.75	Ngoại ngữ 7.80	Vật lý 5.50	Hóa học 8.00	Sinh học 7.75		
+
+Số báo danh: 02036377 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 8.75	Hóa học 4.75	Sinh học 6.00		
+
+Số báo danh: 02036378 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.75	Ngoại ngữ 9.40	Lịch sử 7.50	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 02036379 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.75	Ngoại ngữ 7.60	Vật lý 5.75	Hóa học 7.00	Sinh học 6.75		
+
+Số báo danh: 02036380 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.25	Ngoại ngữ 9.40	Vật lý 6.50	Hóa học 5.50	Sinh học 7.00		
+
+Số báo danh: 02036381 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.50	Ngoại ngữ 9.00	Vật lý 4.50	Hóa học 5.75	Sinh học 6.50		
+
+Số báo danh: 02036382 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.00	Ngoại ngữ 8.00	Vật lý 5.75	Hóa học 4.75	Sinh học 6.50		
+
+Số báo danh: 02036383 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 8.50	Ngoại ngữ 8.80	Lịch sử 8.50	Địa lý 8.25	Giáo dục công dân 9.75		
+
+Số báo danh: 02036384 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 8.25	Ngoại ngữ 8.20	Lịch sử 6.25	Địa lý 7.00	Giáo dục công dân 9.00		
+
+Số báo danh: 02036385 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.00	Ngoại ngữ 4.80	Vật lý 5.25	Hóa học 5.00	Sinh học 6.00		
+
+Số báo danh: 02036386 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 6.50	Ngoại ngữ 8.20	Lịch sử 7.75	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 02036387 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 4.75	Ngoại ngữ 6.00	Vật lý 7.50	Hóa học 7.25	Sinh học 5.25		
+
+Số báo danh: 02036388 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 8.00	Ngoại ngữ 9.20	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 8.25		
+
+Số báo danh: 02036389 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 8.40	Vật lý 5.75	Hóa học 6.75	Sinh học 7.00		
+
+Số báo danh: 02036390 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.25	Ngoại ngữ 8.20	Vật lý 8.25	Hóa học 6.50	Sinh học 6.25		
+
+Số báo danh: 02036391 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 5.20	Vật lý 4.25	Hóa học 8.00	Sinh học 8.00		
+
+Số báo danh: 02036392 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 7.80	Vật lý 6.75	Hóa học 6.00	Sinh học 7.50		
+
+Số báo danh: 02036393 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 7.00	Ngoại ngữ 5.60	Vật lý 6.25	Hóa học 5.25	Sinh học 6.75		
+
+Số báo danh: 02036394 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.00	Ngữ văn 7.25	Ngoại ngữ 9.40	Vật lý 8.25	Hóa học 7.50	Sinh học 8.00		
+
+Số báo danh: 02036395 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.40	Ngữ văn 6.75	Ngoại ngữ 5.40	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.75		
+
+Số báo danh: 02036396 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 7.75	Hóa học 4.75	Sinh học 5.75		
+
+Số báo danh: 02036397 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 8.00	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 9.75		
+
+Số báo danh: 02036398 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 10.00	Vật lý 5.25	Hóa học 6.50	Sinh học 8.00		
+
+Số báo danh: 02036399 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 5.25	Ngoại ngữ 4.60	Vật lý 8.50	Hóa học 7.25	Sinh học 5.50		
+
+Số báo danh: 02036400 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.25	Ngoại ngữ 3.40	Vật lý 5.25	Hóa học 5.25	Sinh học 7.00		
+
+Số báo danh: 02036401 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 7.20	Vật lý 7.75	Hóa học 5.50	Sinh học 8.00		
+
+Số báo danh: 02036402 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 3.00	Lịch sử 5.25	Địa lý 6.75	Giáo dục công dân 6.50		
+
+Số báo danh: 02036403 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.75	Ngoại ngữ 3.80	Vật lý 6.00	Hóa học 5.75	Sinh học 6.25		
+
+Số báo danh: 02036404 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 5.00	Ngoại ngữ 8.60	Vật lý 5.75	Hóa học 5.50	Sinh học 7.00		
+
+Số báo danh: 02036405 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.00	Ngoại ngữ 5.60	Vật lý 7.25	Hóa học 7.50	Sinh học 5.75		
+
+Số báo danh: 02036406 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.75	Ngoại ngữ 9.00	Vật lý 5.75	Hóa học 7.50	Sinh học 8.25		
+
+Số báo danh: 02036407 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.80	Ngữ văn 6.50	Ngoại ngữ 5.00	Lịch sử 6.00	Địa lý 7.25	Giáo dục công dân 7.50		
+
+Số báo danh: 02036408 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 7.00	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036409 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 7.25	Ngoại ngữ 8.80	Lịch sử 7.25	Địa lý 7.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036410 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.50	Ngoại ngữ 5.80	Vật lý 5.00	Hóa học 7.00	Sinh học 5.25		
+
+Số báo danh: 02036411 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.25	Ngoại ngữ 7.40	Lịch sử 8.00	Địa lý 7.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036412 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.75	Ngoại ngữ 6.40	Lịch sử 7.00	Địa lý 8.50	Giáo dục công dân 9.00		
+
+Số báo danh: 02036413 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 6.40	Lịch sử 7.75	Địa lý 9.00	Giáo dục công dân 9.50		
+
+Số báo danh: 02036414 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 4.60	Lịch sử 5.75	Địa lý 6.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036415 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 7.75	Ngoại ngữ 6.60	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036416 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.50	Ngoại ngữ 8.60	Vật lý 7.25	Hóa học 6.75	Sinh học 6.50		
+
+Số báo danh: 02036417 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 5.25	Ngoại ngữ 5.80	Lịch sử 7.75	Địa lý 8.00	Giáo dục công dân 8.75		
+
+Số báo danh: 02036418 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 5.60	Vật lý 5.00	Hóa học 9.25	Sinh học 8.25		
+
+Số báo danh: 02036419 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.00	Ngoại ngữ 7.20	Vật lý 5.50	Hóa học 9.00	Sinh học 8.25		
+
+Số báo danh: 02036420 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.25	Ngoại ngữ 8.60	Vật lý 9.00	Hóa học 8.50	Sinh học 6.00		
+
+Số báo danh: 02036421 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 6.80	Vật lý 5.50	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 02036422 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 6.50	Ngoại ngữ 6.20	Lịch sử 7.75	Địa lý 8.25	Giáo dục công dân 9.00		
+
+Số báo danh: 02036423 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 4.40	Vật lý 7.25	Hóa học 7.50	Sinh học 5.00		
+
+Số báo danh: 02036424 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.50	Ngoại ngữ 4.80	Vật lý 6.75	Hóa học 7.25	Sinh học 5.75		
+
+Số báo danh: 02036425 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 7.40	Vật lý 6.75	Hóa học 3.25	Sinh học 5.00		
+
+Số báo danh: 02036426 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 6.00	Ngoại ngữ 5.60	Lịch sử 7.25	Địa lý 7.50	Giáo dục công dân 7.25		
+
+Số báo danh: 02036427 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.75	Ngoại ngữ 7.20	Vật lý 6.75	Hóa học 5.25	Sinh học 5.50		
+
+Số báo danh: 02036428 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.75	Ngoại ngữ 5.60	Lịch sử 7.50	Địa lý 8.00	Giáo dục công dân 9.00		
+
+Số báo danh: 02036429 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.75	Ngoại ngữ 8.20	Lịch sử 8.00	Địa lý 8.50	Giáo dục công dân 8.00		
+
+Số báo danh: 02036430 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.20	Ngữ văn 6.75	Ngoại ngữ 6.00	Lịch sử 4.75	Địa lý 6.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036431 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 5.00	Ngoại ngữ 6.60	Vật lý 7.75	Hóa học 7.50	Sinh học 5.00		
+
+Số báo danh: 02036432 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 5.00	Ngoại ngữ 6.20	Vật lý 6.75	Hóa học 3.75	Sinh học 3.50		
+
+Số báo danh: 02036433 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.25	Ngoại ngữ 8.00	Vật lý 7.00	Hóa học 5.00	Sinh học 4.75		
+
+Số báo danh: 02036434 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 5.00	Ngoại ngữ 4.60	Vật lý 7.50	Hóa học 8.50	Sinh học 5.75		
+
+Số báo danh: 02036435 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 4.50	Ngoại ngữ 5.40	Vật lý 7.00	Hóa học 6.25	Sinh học 6.25		
+
+Số báo danh: 02036436 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 5.50	Ngoại ngữ 7.60	Vật lý 5.00	Hóa học 3.75	Sinh học 6.50		
+
+Số báo danh: 02036437 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 5.50	Ngoại ngữ 3.60	Vật lý 3.00	Hóa học 6.50	Sinh học 4.25		
+
+Số báo danh: 02036438 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.25	Ngoại ngữ 6.60	Vật lý 8.50	Hóa học 9.50	Sinh học 6.75		
+
+Số báo danh: 02036439 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.75	Ngoại ngữ 7.40	Vật lý 5.25	Hóa học 7.00	Sinh học 5.25		
+
+Số báo danh: 02036440 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.50	Ngoại ngữ 4.80	Vật lý 6.25	Hóa học 7.50	Sinh học 4.50		
+
+Số báo danh: 02036441 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 5.50	Hóa học 5.00	Sinh học 7.00		
+
+Số báo danh: 02036442 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 6.25	Ngoại ngữ 5.60	Lịch sử 7.50	Địa lý 8.25	Giáo dục công dân 9.25		
+
+Số báo danh: 02036443 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 8.25	Ngoại ngữ 7.00	Vật lý 3.25	Hóa học 4.00	Sinh học 4.25		
+
+Số báo danh: 02036444 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 5.25	Ngoại ngữ 3.60	Lịch sử 7.25	Địa lý 7.25	Giáo dục công dân 8.50		
+
+Số báo danh: 02036445 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.80	Ngữ văn 7.25	Ngoại ngữ 5.80	Vật lý 4.25	Hóa học 3.25	Sinh học 6.25		
+
+Số báo danh: 02036446 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.50	Ngoại ngữ 5.40	Vật lý 6.00	Hóa học 7.00	Sinh học 7.50		
+
+Số báo danh: 02036447 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 5.75	Ngoại ngữ 8.60	Vật lý 8.00	Hóa học 7.25	Sinh học 7.00		
+
+Số báo danh: 02036448 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 4.50	Ngoại ngữ 9.20	Lịch sử 8.25	Địa lý 8.50	Giáo dục công dân 9.50		
+
+Số báo danh: 02036449 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 6.75	Ngoại ngữ 6.80	Vật lý 6.25	Hóa học 6.50	Sinh học 7.00		
+
+Số báo danh: 02036450 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 9.40	Ngữ văn 4.75	Ngoại ngữ 7.20	Vật lý 8.00	Hóa học 5.75	Sinh học 7.00		
+
+Số báo danh: 02036451 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.75	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 7.75	Sinh học 6.75		
+
+Số báo danh: 02036452 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.20	Ngữ văn 5.75	Ngoại ngữ 2.80	Lịch sử 7.00	Địa lý 7.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036453 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 8.00	Lịch sử 7.00	Địa lý 9.50	Giáo dục công dân 8.50		
+
+Số báo danh: 02036454 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.60	Ngữ văn 5.50	Ngoại ngữ 3.40	Lịch sử 4.50	Địa lý 7.00	Giáo dục công dân 5.75		
+
+Số báo danh: 02036455 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.50	Ngoại ngữ 8.20	Vật lý 6.25	Hóa học 4.75	Sinh học 5.50		
+
+Số báo danh: 02036456 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 6.75	Ngoại ngữ 8.60	Vật lý 4.25	Hóa học 5.25	Sinh học 6.00		
+
+Số báo danh: 02036457 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.40	Ngữ văn 7.00	Ngoại ngữ 7.40	Lịch sử 7.00	Địa lý 7.25	Giáo dục công dân 8.75		
+
+Số báo danh: 02036458 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.50	Ngoại ngữ 7.00	Vật lý 8.75	Hóa học 10.00	Sinh học 7.25		
+
+Số báo danh: 02036459 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 6.00	Ngoại ngữ 7.60	Vật lý 6.50	Hóa học 5.50	Sinh học 5.50		
+
+Số báo danh: 02036460 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.75	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 6.75	Sinh học 6.75		
+
+Số báo danh: 02036461 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 7.25	Ngoại ngữ 7.80	Lịch sử 8.25	Địa lý 7.75	Giáo dục công dân 9.75		
+
+Số báo danh: 02036462 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 6.75	Ngoại ngữ 7.60	Vật lý 6.00	Hóa học 5.00	Sinh học 5.50		
+
+Số báo danh: 02036463 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.00	Ngoại ngữ 8.40	Lịch sử 7.00	Địa lý 8.75	Giáo dục công dân 7.75		
+
+Số báo danh: 02036464 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 5.80	Ngữ văn 5.00	Ngoại ngữ 3.40	Vật lý 3.75	Hóa học 5.00	Sinh học 4.00		
+
+Số báo danh: 02036465 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 7.00	Vật lý 4.75	Hóa học 4.75	Sinh học 5.25		
+
+Số báo danh: 02036466 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.75	Ngoại ngữ 9.60	Vật lý 6.25	Hóa học 5.50	Sinh học 7.75		
+
+Số báo danh: 02036467 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 6.75	Ngoại ngữ 5.40	Vật lý 5.50	Hóa học 7.75	Sinh học 8.25		
+
+Số báo danh: 02036468 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 8.00	Hóa học 7.75	Sinh học 7.50		
+
+Số báo danh: 02036469 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.00	Ngoại ngữ 8.40	Vật lý 7.00	Hóa học 6.50	Sinh học 5.25		
+
+Số báo danh: 02036470 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.80	Ngữ văn 7.00	Ngoại ngữ 4.40	Vật lý 2.75	Hóa học 4.50	Sinh học 4.25		
+
+Số báo danh: 02036471 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 9.40	Vật lý 7.75	Hóa học 8.75	Sinh học 7.75		
+
+Số báo danh: 02036472 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 4.00	Ngoại ngữ 6.00	Lịch sử 6.25	Địa lý 6.00	Giáo dục công dân 8.50		
+
+Số báo danh: 02036473 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 7.25	Ngoại ngữ 8.20	Vật lý 7.75	Hóa học 8.50	Sinh học 8.75		
+
+Số báo danh: 02036474 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 5.25	Ngoại ngữ 4.40	Vật lý 4.50	Hóa học 5.00	Sinh học 6.00		
+
+Số báo danh: 02036475 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Vật lý 8.25	Hóa học 9.25	Sinh học 8.50		
+
+Số báo danh: 02036476 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 8.00	Ngoại ngữ 4.80	Lịch sử 6.25	Địa lý 7.75	Giáo dục công dân 9.25		
+
+Số báo danh: 02036477 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.60	Ngữ văn 6.00	Ngoại ngữ 7.80	Vật lý 5.50	Hóa học 6.50	Sinh học 6.50		
+
+Số báo danh: 02036478 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 8.00	Ngoại ngữ 7.60	Vật lý 5.00	Hóa học 5.00	Sinh học 7.00		
+
+Số báo danh: 02036479 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 7.00	Ngoại ngữ 8.80	Vật lý 8.25	Hóa học 8.00	Sinh học 8.50		
+
+Số báo danh: 02036480 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 6.75	Ngoại ngữ 8.20	Vật lý 7.50	Hóa học 5.50	Sinh học 5.00		
+
+Số báo danh: 02036481 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.50	Ngoại ngữ 8.40	Lịch sử 7.75	Địa lý 7.50	Giáo dục công dân 8.75		
+
+Số báo danh: 02036482 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 6.75	Ngoại ngữ 8.00	Vật lý 8.25	Hóa học 5.25	Sinh học 6.50		
+
+Số báo danh: 02036483 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.00	Ngữ văn 7.25	Ngoại ngữ 9.80	Lịch sử 5.75	Địa lý 8.75	Giáo dục công dân 8.25		
+
+Số báo danh: 02036484 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 8.00	Ngoại ngữ 8.60	Lịch sử 6.50	Địa lý 8.50	Giáo dục công dân 8.00		
+
+Số báo danh: 02036485 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.25	Ngoại ngữ 7.40	Lịch sử 7.50	Địa lý 6.75	Giáo dục công dân 8.50		
+
+Số báo danh: 02036486 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 8.75	Ngoại ngữ 8.00	Vật lý 5.25	Hóa học 4.25	Sinh học 6.50		
+
+Số báo danh: 02036487 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.20	Ngữ văn 7.00	Ngoại ngữ 7.40	Vật lý 7.50	Hóa học 8.25	Sinh học 4.50		
+
+Số báo danh: 02036488 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 6.00	Ngoại ngữ 9.00	Vật lý 8.00	Hóa học 6.50	Sinh học 6.25		
+
+Số báo danh: 02036489 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.20	Ngữ văn 7.50	Ngoại ngữ 7.60	Vật lý 4.50	Hóa học 5.75	Sinh học 4.50		
+
+Số báo danh: 02036490 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.20	Ngữ văn 7.50	Ngoại ngữ 8.60	Vật lý 4.50	Hóa học 8.00	Sinh học 4.50		
+
+Số báo danh: 02036491 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 7.00	Ngoại ngữ 8.60	Vật lý 6.00	Hóa học 8.75	Sinh học 5.50		
+
+Số báo danh: 02036492 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.00	Ngữ văn 6.00	Ngoại ngữ 6.40	Vật lý 6.25	Hóa học 4.25	Sinh học 6.00		
+
+Số báo danh: 02036493 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.80	Ngữ văn 7.00	Ngoại ngữ 6.40	Vật lý 7.00	Hóa học 7.00	Sinh học 5.75		
+
+Số báo danh: 02036494 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.00	Ngoại ngữ 7.80	Vật lý 6.75	Hóa học 4.50	Sinh học 4.25		
+
+Số báo danh: 02036495 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.40	Ngữ văn 8.50	Ngoại ngữ 8.80	Vật lý 7.50	Hóa học 5.25	Sinh học 5.75		
+
+Số báo danh: 02036496 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.40	Ngữ văn 8.00	Ngoại ngữ 9.00	Vật lý 9.50	Hóa học 5.25	Sinh học 7.25		
+
+Số báo danh: 02036497 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 6.60	Ngữ văn 5.50	Ngoại ngữ 5.60	Vật lý 5.75	Hóa học 5.50	Sinh học 4.50		
+
+Số báo danh: 02036498 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 7.80	Ngữ văn 7.50	Ngoại ngữ 8.60	Vật lý 9.00	Hóa học 5.25	Sinh học 7.00		
+
+Số báo danh: 02036499 Cụm thi: 02 - Sở GDĐT TP. Hồ Chí Minh		Toán 8.00	Ngữ văn 6.75	Ngoại ngữ 7.20	Vật lý 8.25	Hóa học 7.00	Sinh học 7.75		

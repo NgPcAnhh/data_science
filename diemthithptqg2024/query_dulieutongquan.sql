@@ -1,5 +1,5 @@
 ﻿-- '<> -1' loại bỏ giá trị -1 -- 
-
+-- Tổng quan ta nhìn thấy được những tiêu chí như sau: Số lượng thi sinh tham gia, Điểm trung bình, Điểm trung bình của các tỉnh, số lượng điểm liệt, số lượng điểm giỏi, điểm 10--
 SELECT 
 	'Toán' AS SubjectName,
 	Count(Case When Toán <> -1 then Toán else null  End) as SoLuong,
